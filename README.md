@@ -1,5 +1,6 @@
 # inofficial hcert-trustlist-mirror
 
+automatically updates using github actions
 
 # French Trustlist
 
