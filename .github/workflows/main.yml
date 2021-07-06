@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download a file
-        run: curl https://de.dscg.ubirch.com/trustList/DSC -o trustlist-de.json
+        run: curl ${{ secrets.TRUSTLIST_DE_URL }} -o trustlist-de.json
       - name: cleanup file
         run: tail -n +2 trustlist-de.json > trustlist-de.json.tmp && mv trustlist-de.json.tmp trustlist-de.json
       - uses: EndBug/add-and-commit@v7
