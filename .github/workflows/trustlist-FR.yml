@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Download a file
         run: curl https://raw.githubusercontent.com/lovasoa/sanipasse/master/src/assets/Digital_Green_Certificate_Signing_Keys.json -o trustlist-fr.json
+      - name: minify json
+        run: python scripts/minify.py trustlist-fr.json > trustlist.json
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: github action download trustlist
