@@ -21,4 +21,4 @@ jobs:
         with:
           author_name: github action download trustlist
           message: 'Update Trustlist DE'
-          add: 'trustlist-de.json'
+          add: '*.json'
