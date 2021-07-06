@@ -2,6 +2,10 @@
 
 automatically updates using github actions
 
+the idea was born here:
+
+https://github.com/eu-digital-green-certificates/dgc-participating-countries/issues/10
+
 # French Trustlist
 
 credits & source:
@@ -22,3 +26,10 @@ https://greencheck.gv.at/
 
 source:
 https://greencheck.gv.at/api/masterdata
+
+# sweden (TODO)
+
+source:
+https://dgcg.covidbevis.se/tp/trust-list
+
+looks like some sort of base64 & JOSE
