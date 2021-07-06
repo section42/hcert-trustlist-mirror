@@ -14,10 +14,10 @@ function buildCertificatesFromTrustlist(data) {
     }
 
     //console.log(certs)
-    fs.writeFileSync("trustlist_at.min.json", JSON.stringify({
+    fs.writeFileSync("../../trustlist_at.min.json", JSON.stringify({
         certificates: certs
     }))
-    fs.writeFileSync("trustlist_at.json", JSON.stringify({
+    fs.writeFileSync("../../trustlist_at.json", JSON.stringify({
         certificates: certs
     },null, 2))
 }
