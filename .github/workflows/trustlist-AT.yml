@@ -9,13 +9,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./scripts/trustlist_at/
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - name: change working dir
-        run: cd scripts/trustlist_at/
       - name: prepare node  
         run: npm install
       - name: get trustlist AT
