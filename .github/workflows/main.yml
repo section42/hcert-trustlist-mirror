@@ -1,0 +1,15 @@
+name: Renew certificate list
+
+on:
+  schedule: # every day at 3:37 and 13:37 UTC
+    - cron: '37 3,13 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download a file
+        run: curl https://de.dscg.ubirch.com/trustList/DSC -o trustlist-de.json
