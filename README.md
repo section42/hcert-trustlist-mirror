@@ -16,5 +16,8 @@ https://de.dscg.ubirch.com/trustList/DSC
 
 # austrian
 
-credits
-a-sit.at
+credits:
+https://greencheck.gv.at/
+
+source:
+https://greencheck.gv.at/api/masterdata
