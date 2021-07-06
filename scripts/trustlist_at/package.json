@@ -1,0 +1,11 @@
+{
+  "name": "download_at_trustlist",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^7.0.5"
+  }
+}

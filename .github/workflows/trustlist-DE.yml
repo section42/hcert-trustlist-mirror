@@ -1,7 +1,7 @@
 name: Renew Trustlist DE
 
 on:
-  schedule: # every day at 3:37 and 13:37 UTC
+  schedule:
     - cron: '0 5,10,15,20 * * *'
   push:
     branches: ['main']

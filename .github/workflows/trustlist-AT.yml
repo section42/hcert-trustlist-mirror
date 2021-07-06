@@ -1,0 +1,24 @@
+name: Renew Trustlist AT
+
+on:
+  schedule:
+    - cron: '0 5,10,15,20 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install
+      - name: get trustlist AT
+      - run: node scripts/trustlist_at/download_trustlist_at.js
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist AT'
+          add: '*.json'
