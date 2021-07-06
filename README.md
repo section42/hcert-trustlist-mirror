@@ -6,7 +6,7 @@ the idea was born here:
 
 https://github.com/eu-digital-green-certificates/dgc-participating-countries/issues/10
 
-# French Trustlist
+# french
 
 credits & source:
 https://www.github.com/lovasoa/sanipasse/tree/master/src%2Fassets%2FDigital_Green_Certificate_Signing_Keys.json
