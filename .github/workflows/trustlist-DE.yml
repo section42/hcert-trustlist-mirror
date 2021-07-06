@@ -12,11 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download a file
-        run: curl ${{ secrets.TRUSTLIST_DE_URL }} -o trustlist-de.min.json
+        run: curl ${{ secrets.TRUSTLIST_DE_URL }} -o trustlist_de.min.json
       - name: cleanup file
-        run: tail -n +2 trustlist-de.min.json > trustlist-de.min.json.tmp && mv trustlist-de.min.json.tmp trustlist-de.min.json
+        run: tail -n +2 trustlist_de.min.json > trustlist_de.min.json.tmp && mv trustlist_de.min.json.tmp trustlist_de.min.json
       - name: pretty print json
-        run: cat trustlist-de.min.json | python -m json.tool > trustlist-de.json
+        run: cat trustlist_de.min.json | python -m json.tool > trustlist_de.json
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: github action download trustlist
