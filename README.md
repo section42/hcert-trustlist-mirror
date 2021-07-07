@@ -6,19 +6,23 @@ the idea was born here:
 
 https://github.com/eu-digital-green-certificates/dgc-participating-countries/issues/10
 
-# french (active)
+# french
+[![Renew Trustlist FR](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-FR.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-FR.yml)
 
 credits & source:
 https://www.github.com/lovasoa/sanipasse/tree/master/src%2Fassets%2FDigital_Green_Certificate_Signing_Keys.json
 
-# german (active)
+# german
+[![Renew Trustlist DE](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-DE.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-DE.yml)
+
 credits: 
 ubirch.com
 
 source: 
 https://de.dscg.ubirch.com/trustList/DSC
 
-# austrian (active)
+# austrian
+[![Renew Trustlist AT](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-AT.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-AT.yml)
 
 credits:
 https://greencheck.gv.at/
