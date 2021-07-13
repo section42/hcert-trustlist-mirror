@@ -1,4 +1,4 @@
-# inofficial hcert-trustlist-mirror
+# inofficial hcert-trustlist-mirror dcc (covid trustlist)
 
 automatically updates using github actions
 
@@ -39,9 +39,11 @@ https://github.com/minvws/nl-covid19-coronacheck-mobile-core/blob/main/testdata/
 credits:
 https://github.com/section42/hcert-trustlist-mirror/issues/3
 
-# sweden (TODO)
+# sweden
+[![Renew Trustlist SE](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-SE.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-SE.yml)
 
 source:
 https://dgcg.covidbevis.se/tp/trust-list
 
-looks like some sort of base64 & JOSE
+credits:
+https://github.com/section42/hcert-trustlist-mirror/issues/2
