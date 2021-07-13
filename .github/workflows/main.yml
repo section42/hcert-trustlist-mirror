@@ -1,0 +1,22 @@
+name: Renew Trustlist NL
+
+on:
+  schedule:
+    - cron: '0 5,10,15,20 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: get trustlist NL-config
+        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/config | jq -r .payload | base64 -d | jq > trustlist_nl.config.json
+      - name: get trustlist NL-keys
+        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/public_keys | jq -r .payload | base64 -d | jq > trustlist_nl.keys.json  
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist NL'
+          add: '*.json'
