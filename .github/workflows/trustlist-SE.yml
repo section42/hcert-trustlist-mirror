@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install python packages
-        run: pip install -y requests PyJWT
+        run: pip install requests PyJWT
       - name: get trustlist SE
         run: python scripts/trustlist_se/download_trustlist_se.py
       - uses: EndBug/add-and-commit@v7
