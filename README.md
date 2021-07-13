@@ -30,7 +30,7 @@ https://greencheck.gv.at/
 source:
 https://greencheck.gv.at/api/masterdata
 
-# Netherlands
+# netherlands
 [![Renew Trustlist NL](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-NL.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-NL.yml)
 
 source:
