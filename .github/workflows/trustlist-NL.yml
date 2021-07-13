@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: get trustlist NL-config
-        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/config | jq -r .payload | base64 -d | jq > trustlist_nl.config.json
+        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/config | jq -r .payload | base64 -d | jq > trustlist_nl.raw.config.json
       - name: get trustlist NL-keys
-        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/public_keys | jq -r .payload | base64 -d | jq > trustlist_nl.keys.json  
+        run: curl -s https://verifier-api.coronacheck.nl/v4/verifier/public_keys | jq -r .payload | base64 -d | jq > trustlist_nl.raw.keys.json  
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: github action download trustlist
