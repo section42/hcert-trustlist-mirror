@@ -1,0 +1,22 @@
+name: Renew Trustlist SE
+
+on:
+  schedule:
+    - cron: '0 5,10,15,20 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install python packages
+        run: pip install -y requests PyJWT
+      - name: get trustlist SE
+        run: python scripts/trustlist_se/download_trustlist_se.py
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist SE'
+          add: '*.json'
