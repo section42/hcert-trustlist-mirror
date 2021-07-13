@@ -14,7 +14,7 @@ import requests
 import jwt
 
 r = requests.get('https://dgcg.covidbevis.se/tp/trust-list')
-token = jwt.decode(r.text, options={'verify_signature': False})
+token = jwt.decode(r.text, audience=None, options={'verify_signature': False})
 tl = token['dsc_trust_list']
 
 cl = [
