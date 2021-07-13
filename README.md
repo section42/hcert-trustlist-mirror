@@ -30,6 +30,15 @@ https://greencheck.gv.at/
 source:
 https://greencheck.gv.at/api/masterdata
 
+# Netherlands
+[![Renew Trustlist NL](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-NL.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-NL.yml)
+
+source:
+https://github.com/minvws/nl-covid19-coronacheck-mobile-core/blob/main/testdata/get.sh
+
+credits:
+https://github.com/section42/hcert-trustlist-mirror/issues/3
+
 # sweden (TODO)
 
 source:
