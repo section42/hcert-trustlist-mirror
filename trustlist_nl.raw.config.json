@@ -1,8 +1,8 @@
 {
-  "androidMinimumVersion": 1275,
+  "androidMinimumVersion": 1530,
   "androidMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "playStoreURL": "https://play.google.com/store/apps/details?id=nl.rijksoverheid.ctr.verifier",
-  "iosMinimumVersion": "2.0",
+  "iosMinimumVersion": "2.1.1",
   "iosMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "iosAppStoreURL": "https://apps.apple.com/nl/app/id1549842661",
   "appDeactivated": false,
@@ -18,7 +18,7 @@
       "LP217198-3",
       "LP6464-4"
     ],
-    "testValidityHours": 40,
+    "testValidityHours": 24,
     "vaccinationValidityDelayBasedOnVaccinationDate": true,
     "vaccinationValidityDelayIntoForceDate": "2021-07-10",
     "vaccinationValidityDelayDays": 14,
