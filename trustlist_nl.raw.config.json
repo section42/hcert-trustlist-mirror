@@ -18,7 +18,7 @@
       "LP217198-3",
       "LP6464-4"
     ],
-    "testValidityHours": 24,
+    "testValidityHours": 25,
     "vaccinationValidityDelayBasedOnVaccinationDate": true,
     "vaccinationValidityDelayIntoForceDate": "2021-07-10",
     "vaccinationValidityDelayDays": 14,
