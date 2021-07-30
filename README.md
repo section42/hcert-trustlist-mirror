@@ -47,3 +47,12 @@ https://dgcg.covidbevis.se/tp/trust-list
 
 credits:
 https://github.com/section42/hcert-trustlist-mirror/issues/2
+
+# Switzerland
+[![Renew Trustlist CH](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-CH.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-CH.yml)
+
+source:
+https://github.com/cn-uofbasel/ch-dcc-keys/
+
+credits:
+https://github.com/section42/hcert-trustlist-mirror/issues/4
