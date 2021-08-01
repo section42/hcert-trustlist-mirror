@@ -1,0 +1,43 @@
+name: Renew Trustlist CH
+
+on:
+  schedule:
+    - cron: '50 3,13 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Checkout ch-dcc-keys tools repo
+        uses: actions/checkout@v2
+        with:
+          # TODO: switch back to cn-uofbasel/ch-dcc-keys once
+          # https://github.com/cn-uofbasel/ch-dcc-keys/pull/1 is merged
+          repository: stapelberg/ch-dcc-keys
+          path: ch-dcc-keys
+
+      - name: Install Python packages
+        run: pip install python-jose cryptography==3.4
+
+      - name: Download keys
+        run: |
+          cd ch-dcc-keys && \
+            rm -f data/CH-*.jwt && \
+            ./CH-fetch_keys.sh && \
+            ./CH-jwt2json.py data/CH-root.crt \
+                   data/CH-*-updates.jwt \
+                   data/CH-*-keylist.jwt \
+                 > ../trustlist_ch.json
+
+      - name: minify json
+        run: python scripts/minify.py trustlist_ch.json
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist CH'
+          add: 'trustlist_ch.*json'
