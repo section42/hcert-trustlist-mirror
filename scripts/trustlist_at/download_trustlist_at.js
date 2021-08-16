@@ -29,9 +29,10 @@ function downloadBinary(callback) {
         "method": "GET",
         "hostname": "greencheck.gv.at",
         "port": 443,
-        "path": "/api/masterdata",
+        "path": "/api/v2/masterdata",
         "headers": {
-            "Content-Length": "0"
+            "x-app-version": "1.2",
+            "x-app-type": "browser"
         }
     };
 
