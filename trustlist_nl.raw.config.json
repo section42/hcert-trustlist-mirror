@@ -8,7 +8,7 @@
   "iosMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "iosAppStoreURL": "https://apps.apple.com/nl/app/scanner-voor-coronacheck/id1549842661",
   "appDeactivated": false,
-  "configTTL": 86400,
+  "configTTL": 259200,
   "upgradeRecommendationInterval": 24,
   "maxValidityHours": 40,
   "informationURL": "https://coronacheck.nl",
