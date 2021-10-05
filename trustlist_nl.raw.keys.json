@@ -1446,6 +1446,18 @@
         "keyUsage": []
       }
     ],
+    "FtUwA9uHJoo=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/XCqYpwUi4RLldTOqsukogo6l4ZUIXO4ZtjkUxEpDToYLFI0uApt1KXSfpsn8EfNGPaWF+YW2B1QKpbCtbtZFg==",
+        "ian": "MC",
+        "san": "MCO",
+        "keyUsage": [
+          "t",
+          "v",
+          "r"
+        ]
+      }
+    ],
     "crm1HLAeaTo=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEI6Q/krjPDaHJ2WsrBzR9sGYnYjFqkflAAWhJgXbXt3RuUVfJt4c53N6v9J2BE3kPqCVl9FbYrwqQ0vZ+Ps5e+Q==",
