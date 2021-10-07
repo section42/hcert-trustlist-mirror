@@ -14,7 +14,10 @@
   "informationURL": "https://coronacheck.nl",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
   "domesticVerificationRules": {
-    "qrValidForSeconds": 60
+    "qrValidForSeconds": 60,
+    "proofIdentifierDenylist": {
+      "nDMSpbS7k90oFNveMKvRSw==": true
+    }
   },
   "europeanVerificationRules": {
     "testAllowedTypes": [
