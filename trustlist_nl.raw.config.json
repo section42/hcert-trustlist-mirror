@@ -14,7 +14,20 @@
   "informationURL": "https://coronacheck.nl",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
   "domesticVerificationRules": {
-    "qrValidForSeconds": 60
+    "qrValidForSeconds": 60,
+    "proofIdentifierDenylist": {
+      "JyoXN+LkbWEjqBvte11m8w==": true,
+      "3WdXZa6TgISdEEKQGVTq7A==": true,
+      "8rbKvX+ulRBmHxI8tCqwKA==": true,
+      "ofVzPyvdTc4jcZXzDwzVcA==": true,
+      "HnvtFd2Brb7rIDvXN7LMBg==": true,
+      "BmNzE2lU15G5yBINksLyrQ==": true,
+      "11JoX+77S9vVjWskiii1Vg==": true,
+      "FIT4zH3FVeh5z1PQj7X5bw==": true,
+      "QkvWtuawgmzD/9sLtooeFw==": true,
+      "PLC3+Pz671j+bNtF1ZP7wQ==": true,
+      "XHQw55X9pMTWxv840FkVjw==": true
+    }
   },
   "europeanVerificationRules": {
     "testAllowedTypes": [
