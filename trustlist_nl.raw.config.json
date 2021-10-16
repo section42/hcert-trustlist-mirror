@@ -11,6 +11,7 @@
   "configTTL": 86400,
   "upgradeRecommendationInterval": 24,
   "maxValidityHours": 40,
+  "clockDeviationThresholdSeconds": 30,
   "informationURL": "https://coronacheck.nl",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
   "domesticVerificationRules": {
