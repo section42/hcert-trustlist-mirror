@@ -9,11 +9,13 @@
   "iosAppStoreURL": "https://apps.apple.com/nl/app/scanner-voor-coronacheck/id1549842661",
   "appDeactivated": false,
   "configTTL": 86400,
+  "configMinimumIntervalSeconds": 3600,
   "upgradeRecommendationInterval": 24,
   "maxValidityHours": 40,
   "clockDeviationThresholdSeconds": 30,
   "informationURL": "https://coronacheck.nl",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
+  "universalLinkDomains": [],
   "domesticVerificationRules": {
     "qrValidForSeconds": 60,
     "proofIdentifierDenylist": {
