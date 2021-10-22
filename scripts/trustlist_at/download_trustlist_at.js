@@ -27,9 +27,9 @@ function downloadBinary(callback) {
 
     const options = {
         "method": "GET",
-        "hostname": "greencheck.gv.at",
+        "hostname": "dgc-trust.qr.gv.at",
         "port": 443,
-        "path": "/api/v2/masterdata",
+        "path": "/trustlist",
         "headers": {
             "x-app-version": "1.2",
             "x-app-type": "browser"
@@ -67,10 +67,5 @@ function downloadBinary(callback) {
 }
 
 downloadBinary(function (resultContent, strRes) {
-    //console.log(resultContent)
-    let jsonObj = JSON.parse(strRes)
-    //console.log(jsonObj.trustList.trustListContent)
-    let buff = Buffer.from(jsonObj.trustList.trustListContent, 'base64');
-    //console.log(buff)
-    buildCertificatesFromTrustlist(buff)
+    buildCertificatesFromTrustlist(resultContent)
 });
