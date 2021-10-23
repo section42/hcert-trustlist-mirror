@@ -15,7 +15,12 @@
   "clockDeviationThresholdSeconds": 30,
   "informationURL": "https://coronacheck.nl",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
-  "universalLinkDomains": [],
+  "universalLinkDomains": [
+    {
+      "url": "coronacheck.nl",
+      "name": "CoronaCheck app"
+    }
+  ],
   "domesticVerificationRules": {
     "qrValidForSeconds": 60,
     "proofIdentifierDenylist": {
