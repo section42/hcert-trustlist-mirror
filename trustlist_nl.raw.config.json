@@ -60,6 +60,14 @@
       "CoronaVac"
     ],
     "recoveryValidFromDays": 11,
-    "recoveryValidUntilDays": 180
+    "recoveryValidUntilDays": 180,
+    "proofIdentifierDenylist": {
+      "q5TKp3sKMWlVjmMUGdhTtw==": true,
+      "ljOsYiw6IDXfndOeyUfTNg==": true,
+      "Cd4kRRFnM23JNNHCQ9m7ag==": true,
+      "NM39YohV4lo3JapOxPqb2g==": true,
+      "pjpI2WGn+/0pyrNsZUs8Yg==": true,
+      "jWeVvZ/LPgFjFIzKffSbDQ==": true
+    }
   }
 }
