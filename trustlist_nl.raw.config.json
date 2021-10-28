@@ -1,6 +1,6 @@
 {
   "androidMinimumVersion": 2423,
-  "androidRecommendedVersion": 2423,
+  "androidRecommendedVersion": 2522,
   "androidMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "playStoreURL": "https://play.google.com/store/apps/details?id=nl.rijksoverheid.ctr.verifier",
   "iosMinimumVersion": "2.4.0",
@@ -70,7 +70,8 @@
       "jWeVvZ/LPgFjFIzKffSbDQ==": true,
       "QsuadE0oH0+H0A3I/cevWQ==": true,
       "YZ9nsv9RR9hu19sb2mPvSA==": true,
-      "pwtNZ4y7dPb6b7lQPU3mRQ==": true
+      "pwtNZ4y7dPb6b7lQPU3mRQ==": true,
+      "SGVlZlQFSWQbONbuH5pz4g==": true
     }
   }
 }
