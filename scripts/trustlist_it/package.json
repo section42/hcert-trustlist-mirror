@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "isomorphic-webcrypto": "^2.3.8",
     "@peculiar/x509": "^1.4.1",
     "node-fetch": "^2.6.1"
   }
