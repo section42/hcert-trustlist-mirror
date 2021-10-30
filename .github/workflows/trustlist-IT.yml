@@ -32,4 +32,4 @@ jobs:
         with:
           author_name: github action download trustlist
           message: 'Update Trustlist IT'
-          add: '*.json'
+          add: "['*.json', '*.js']"
