@@ -25,6 +25,8 @@ jobs:
         run: awk '!/^\/\// && /const OUTFILE =/ {$0="//"$0"\nconst OUTFILE = '../../trustlist_it.json';"} {print $0}' > tmp && mv tmp fetch_certificates.js
       - name: get trustlist IT
         run: node fetch_certificates.js
+      - name: debug
+        run: ls
       - name: minify json
         run: python ../minify.py ../../trustlist_it.json
       - uses: EndBug/add-and-commit@v7
