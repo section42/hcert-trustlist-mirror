@@ -22,7 +22,7 @@ jobs:
       - name: get script from source
         run: curl -o fetch_certificate.js.new -z fetch_certificate.js "https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js"
       - name: patch script output path
-        run: date -r fetch_certificates.js
+        run: curl -V
       - name: get trustlist IT
         run: node fetch_certificates.js
       - name: debug
