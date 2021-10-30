@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '14'
           cache: 'npm'
-          cache-dependency-path: package-lock.json
+          cache-dependency-path: ./package-lock.json
       - name: prepare node  
         run: npm install
       - name: get script from source
