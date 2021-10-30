@@ -25,9 +25,8 @@ jobs:
         run: output_path="../../trustlist_it.json"; patch="const OUTFILE = '$output_path';"; sed -i "/^\/\//! {/const OUTFILE =/{s|^|\/\/|;s|$|\n$patch|}}" fetch_certificates.js.new && mv fetch_certificates.js.new fetch_certificates.js
       - name: get trustlist IT
         run: node fetch_certificates.js
-      - name: debug
-        run: awk '/const OUTFILE =/ {print $0}' fetch_certificates.js
-      
+      - name: minify json
+        run: python ../minify.py ../../trustlist_it.json
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: github action download trustlist
