@@ -19,7 +19,7 @@ jobs:
           node-version: '14'
       - name: prepare node  
         run: npm install
-      - name: get trustlist AT
+      - name: get trustlist T
         run: node download_trustlist_at.js
       - uses: EndBug/add-and-commit@v7
         with:
