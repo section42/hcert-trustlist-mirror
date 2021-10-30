@@ -22,7 +22,7 @@ jobs:
       - name: get script from source
         run: curl -o "./fetch_certificates.js.new" -z "./fetch_certificates.js" "https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js"
       - name: patch script output path
-        run: output_path="../../trustlist_it.json"; patch="const OUTFILE = '$output_path';"; sed "/^\/\//! {/const OUTFILE =/{s|^|\/\/|;s|$|\n$patch|}}" fetch_certificates.js
+        run: output_path="../../trustlist_it.json"; patch="const OUTFILE = '$output_path';"; sed -i "/^\/\//! {/const OUTFILE =/{s|^|\/\/|;s|$|\n$patch|}}" fetch_certificates.js.new && mv fetch_certificates.js.new fetch_certificates.js
       - name: get trustlist IT
         run: node fetch_certificates.js
       - name: debug
