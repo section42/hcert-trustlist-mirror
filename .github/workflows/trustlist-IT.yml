@@ -17,12 +17,12 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
+      - name: prepare node  
+        run: npm install
       - name: get script from source
         run: curl -O https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js
       - name: patch script output path
         run: awk '!/^\/\// && /const OUTFILE =/ {$0="//"$0"\nconst OUTFILE = '../../trustlist_it.json';"} {print $0}' > tmp.js
-      - name: prepare node  
-        run: npm install
       - name: get trustlist IT
         run: node fetch_certificates.js
       - name: debug
@@ -32,4 +32,4 @@ jobs:
         with:
           author_name: github action download trustlist
           message: 'Update Trustlist IT'
-          add: "['*.json', '*.js']"
+          add: "['trustlist_it.json', 'trustlist_it.min.json', '*.js']"
