@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@peculiar/x509": "^1.4.1",
     "node-fetch": "^2.6.1"
   }
 }
