@@ -27,6 +27,8 @@ https://de.dscg.ubirch.com/trustList/DSC
 credits:
 https://greencheck.gv.at/
 
+Thanks to https://github.com/akoeplinger
+
 source:
 https://greencheck.gv.at/api/masterdata
 
