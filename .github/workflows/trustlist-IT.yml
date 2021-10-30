@@ -26,7 +26,7 @@ jobs:
       - name: get trustlist IT
         run: node fetch_certificates.js
       - name: debug
-        run: cat fetch_certificates.js
+        run: awk '/const OUTFILE =/ {print $0}' fetch_certificates.js
       - name: minify json
         run: python ../minify.py ../../trustlist_it.json
       - uses: EndBug/add-and-commit@v7
