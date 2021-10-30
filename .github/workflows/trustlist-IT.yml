@@ -22,7 +22,7 @@ jobs:
       - name: get script from source
         run: curl -O https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js
       - name: patch script output path
-        run: awk '!/^\/\// && /const OUTFILE =/ {$0="//"$0"\nconst OUTFILE = '../../trustlist_it.json';"} {print $0}' > tmp && mv tmp fetch_certificates.js
+        run: awk '!/^\/\// && /const OUTFILE =/ {$0="//"$0"\nconst OUTFILE = '../../trustlist_it.json';"} {print $0}' > tmp.js
       - name: get trustlist IT
         run: node fetch_certificates.js
       - name: debug
