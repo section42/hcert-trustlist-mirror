@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@peculiar/x509": "^1.5.2",
-    "isomorphic-webcrypto": "^2.3.8",
-    "node-fetch": "^2.6.5"
+    "@peculiar/x509": "~1.5.2",
+    "isomorphic-webcrypto": "~2.3.8",
+    "node-fetch": "2.6.5"
   }
 }
