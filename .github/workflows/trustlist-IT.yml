@@ -34,7 +34,7 @@ jobs:
             npm install -g autod; \
             rm package.json; \
             autod -w --prefix="^"; \
-          } || true
+          } || echo
       - name: install script dependencies
         run: npm install
       - name: run script to get trustlist IT
