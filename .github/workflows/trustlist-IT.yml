@@ -32,7 +32,6 @@ jobs:
             sed "/^\/\//! {/const OUTFILE =/{s|^|\/\/|;s|$|\n$patch|}}" fetch_certificates.js.new > fetch_certificates.js; \
             rm fetch_certificates.js.new; \
             npm install -g autod; \
-            rm package.json; \
             autod -w --prefix="^"; \
           } || true;
       - name: install script dependencies
