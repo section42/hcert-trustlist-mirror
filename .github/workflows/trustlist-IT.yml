@@ -19,11 +19,12 @@ jobs:
           node-version: '14'
       - name: get script from source if our is outdated (or missing)
         run: |
-          remote_last_commit_epoch=$(date -u -d $(curl -s "https://api.github.com/repos/ministero-salute/dcc-utils/commits?path=examples%2Ffetch_certificates.js&page=1&per_page=1" | jq -r '.[0].commit.committer.date') +%s) \
-          local_last_modified_epoch=$(date -u -r fetch_certificates.js +%s || echo 0) \
+          remote_last_commit_epoch=$(date -u -d $(curl -s "https://api.github.com/repos/ministero-salute/dcc-utils/commits?path=examples%2Ffetch_certificates.js&page=1&per_page=1" | jq -r '.[0].commit.committer.date') +%s); \
+          local_last_modified_epoch=$(date -u -r fetch_certificates.js +%s); \
+          local_last_modified_epoch="0"; \
           [[ $remote_last_commit_epoch -gt $local_last_modified_epoch ]] && { \
             curl -o "./fetch_certificates.js.new" "https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js"; \
-          } || true
+          } || true;
       - name: if the script has been updated patch its output path and update its dependecies
         run: |
           [[ -f "./fetch_certificates.js.new" ]] && { \
@@ -34,7 +35,7 @@ jobs:
             npm install -g autod; \
             rm package.json; \
             autod -w --prefix="^"; \
-          } || true
+          } || true;
       - name: install script dependencies
         run: npm install
       - name: run script to get trustlist IT
