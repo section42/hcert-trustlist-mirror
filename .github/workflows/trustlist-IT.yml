@@ -1,0 +1,47 @@
+name: Renew Trustlist IT
+
+on:
+  schedule:
+    - cron: '0 5,10,15,20 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./scripts/trustlist_it/
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: get script from source if our is outdated (or missing)
+        run: |
+          remote_last_commit_epoch=$(date -u -d $(curl -s "https://api.github.com/repos/ministero-salute/dcc-utils/commits?path=examples%2Ffetch_certificates.js&page=1&per_page=1" | jq -r '.[0].commit.committer.date') +%s); \
+          local_last_modified_epoch=$(date -u -r fetch_certificates.js +%s); \
+          [[ $remote_last_commit_epoch -gt $local_last_modified_epoch ]] && { \
+            curl -o "./fetch_certificates.js.new" "https://raw.githubusercontent.com/ministero-salute/dcc-utils/master/examples/fetch_certificates.js"; \
+          } || true;
+      - name: if the script has been updated patch its output path and update its dependecies
+        run: |
+          [[ -f "./fetch_certificates.js.new" ]] && { \
+            output_path="../../trustlist_it.json"; \
+            patch="const OUTFILE = '$output_path';"; \
+            sed "/^\/\//! {/const OUTFILE =/{s|^|\/\/|;s|$|\n$patch|}}" fetch_certificates.js.new > fetch_certificates.js; \
+            rm fetch_certificates.js.new; \
+            npm install -g autod; \
+            autod -w --prefix="^" -k node-fetch; \
+          } || true;
+      - name: install script dependencies
+        run: npm install
+      - name: run script to get trustlist IT
+        run: node fetch_certificates.js
+      - name: create minified version
+        run: python ../minify.py ../../trustlist_it.json
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist IT'
+          add: "['trustlist_it.json', 'trustlist_it.min.json', 'package.json', 'package-lock.json', 'fetch_certificates.js']"
