@@ -66,5 +66,6 @@ source:
 https://github.com/ministero-salute/dcc-utils/blob/master/examples/fetch_certificates.js
 
 credits:
-https://github.com/section42/hcert-trustlist-mirror/issues/7
+https://github.com/section42/hcert-trustlist-mirror/issues/7 \
+&emsp;&emsp;&emsp;&thinsp;
 https://forum.italia.it/t/verifica-green-pass-api/25190/55
