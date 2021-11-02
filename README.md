@@ -58,3 +58,13 @@ https://github.com/cn-uofbasel/ch-dcc-keys/
 
 credits:
 https://github.com/section42/hcert-trustlist-mirror/issues/4
+
+# italy
+[![Renew Trustlist IT](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-IT.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-IT.yml)
+
+source:
+https://github.com/ministero-salute/dcc-utils/blob/master/examples/fetch_certificates.js
+
+credits:
+https://github.com/section42/hcert-trustlist-mirror/issues/7
+https://forum.italia.it/t/verifica-green-pass-api/25190/55
