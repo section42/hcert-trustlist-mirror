@@ -3762,5 +3762,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGsoQ+d21h6C2haw4Ty4q/38Ux+t51x9qe6EhVH30tsO5cxpvULTb+FFQbkcHcu0V9WbqIyIMaANSYH4ntN1H4A=="
+	},
+	"udrotE0n7i0=": {
+		"serialNumber": "430152948273894fccf37672",
+		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
+		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
+		"notBefore": "2021-10-20T12:00:14.000Z",
+		"notAfter": "2022-10-20T12:00:14.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "495ac38036387fce7f4eaf9fefbb86215ff7b232",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkyi6sf8k8/kk2KjTBNiIVFpnIeZcj4oUXwV8kk5D6BySdIUx9jSD5BuSiUyXKmIghKHPvpio9M7nYklZCdur0w=="
 	}
 }
