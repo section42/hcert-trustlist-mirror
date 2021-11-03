@@ -10,6 +10,7 @@
   "appDeactivated": false,
   "configTTL": 86400,
   "configMinimumIntervalSeconds": 3600,
+  "configAlmostOutOfDateWarningSeconds": 3600,
   "upgradeRecommendationInterval": 24,
   "maxValidityHours": 40,
   "clockDeviationThresholdSeconds": 30,
