@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@peculiar/x509": {
+      "version": "^1.5.2",
+      "from": "@peculiar/x509@^1.5.2",
+      "dependencies": {
+        "@peculiar/asn1-cms": {
+          "version": "2.0.38",
+          "from": "asn1-cms@~2.0.44"
+        }
+      }
+    }
+  }
+}
