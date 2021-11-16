@@ -4039,5 +4039,107 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhX3UYfApjRF+CwtZqZJga6pwzbvNic585TOlc0qa2DbRcer1H3FYNY1HErSbo3+tOLiYkPHbrbQdLTE05rymtA=="
+	},
+	"0NQWnxTv90c=": {
+		"serialNumber": "37b400950c11b41922019666428e84b92cebd939",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 202111020007",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2021-11-04T00:41:14.000Z",
+		"notAfter": "2032-03-01T00:41:13.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "365ba21dbed4b9e984d984a406fe887ae76b8d83",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESDFA3IUS71aOIaAiVxG9QDby5hfTSqPSuHAagC8/vhKbIG6quGGAQjRcxbjxB2+KCt8RhSkBzTPpzX8D6iSpBA=="
+	},
+	"ZqPYe26eEEk=": {
+		"serialNumber": "54edb4890c0926d5fdb5530442b11097f07ee57b",
+		"subject": "CN=DGC DS Signer 1, OU=LEPL Information Technologies Agency, O=Ministry of Internally Displaced Persons From the Occupied Territories\\, Labour\\, Health and Social Affairs of Georgia, C=GE",
+		"issuer": "CN=DGC Country Signing CA, OU=Public Service Development Agency, O=Ministry of Justice of Georgia, C=GE",
+		"notBefore": "2021-10-29T16:56:05.000Z",
+		"notAfter": "2023-10-29T16:56:04.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6e8ccfabc901fa0d44bcb06616f2049a7e642c0f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa5QqEDGwiaDJSMCLVHg6l9ScX3LI/9mzuzs6e+E0YBgeKTdQ5VV0IBCSIZkgjSb/Hfzghmi9rOa9aGuww7BU9Q=="
+	},
+	"dy8HnMQYOrE=": {
+		"serialNumber": "35efac0e36993c87cec3c388330aa788d6750011",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 202111020010",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2021-11-04T01:03:08.000Z",
+		"notAfter": "2032-03-01T01:03:07.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "32d3058dc79cdbe389b6e051504eab95798450b3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQEqBzWkYP17/i2b+EPcLpiQvTKLxasVDjA3A7IvRt9RHjYFIQGpFQCR7ZJLD5XQNsjcFfHzxwVEITkb5M7fIyQ=="
+	},
+	"jIF6MH+OYkI=": {
+		"serialNumber": "7e7fed0c80b4e17367d3c0de743fcc82fd18ed0f",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 202111020009",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2021-11-04T00:59:03.000Z",
+		"notAfter": "2032-03-01T00:59:02.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "0e7059c3cc77c566ad643907c5184bfa08ba91bb",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEn/wOHL0ulsMkJCwPvwhEPoPE2LiFf9MEsma3tYaPfANxLqX4K5e6Lk9F3tvg8OtBnVBI1amxen9cOlmSRXHg+w=="
+	},
+	"oMpN3FsJYsQ=": {
+		"serialNumber": "6a992ada6c662e22b6f654df8063622a62c7fe8d",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 202111020008",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2021-11-04T00:54:26.000Z",
+		"notAfter": "2032-03-01T00:54:25.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ca173213d6de5ba528ea18e4a8efdb5086ccb816",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+axE1mKfKiVwARulc2LnH6co1SoCrfqtL11PQqYh7TBRrdawgzPokpfjoFGDkMU0ZPg7cnwilW6LnYH+vkjVhA=="
+	},
+	"p64sutu48UA=": {
+		"serialNumber": "7ca54f089d8348e425066bb901c8162fea6df709",
+		"subject": "C=MD, ST=Republic of Moldova, L=Chisinau, O=Ministry of Health, CN=Republic of Moldova DSC 01",
+		"issuer": "C=MD, ST=Republic of Moldova, L=Chisinau, O=STISC, OU=CCCP, CN=Republic of Moldova National CSCA 01",
+		"notBefore": "2021-10-26T17:31:01.000Z",
+		"notAfter": "2023-10-26T17:31:01.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "cbdd3750cda9899239f50eee5f9b09fadbb552f1",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEurid6V6ennaGMYu1h8Q2PFJ7eMkj7FiBzBEiQMnNb/YzAj60g6cnvX02AB+E48Hoz4amNlralKXL3CvjaxHGLw=="
 	}
 }
