@@ -1,0 +1,22 @@
+name: Renew Trustlist PL
+
+on:
+  schedule:
+    - cron: '0 5,10,15,20 * * *'
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: get trustlist PL-keys
+        run: curl -s https://sus.ezdrowie.gov.pl/zaszczepieni/certyfikaty | jq -r .noweCertyfikaty > trustlist_pl.json  
+      - name: minify json
+        run: python scripts/minify.py trustlist_pl.json
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github action download trustlist
+          message: 'Update Trustlist PL'
+          add: '*.json'
