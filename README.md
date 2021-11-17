@@ -69,3 +69,10 @@ credits:
 https://github.com/section42/hcert-trustlist-mirror/issues/7 \
 &emsp;&emsp;&emsp;&thinsp;
 https://forum.italia.it/t/verifica-green-pass-api/25190/55
+
+# poland
+[![Renew Trustlist PL](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-PL.yml/badge.svg)](https://github.com/section42/hcert-trustlist-mirror/actions/workflows/trustlist-PL.yml)
+
+source: https://sus.ezdrowie.gov.pl/zaszczepieni/certyfikaty
+
+credits: https://github.com/section42/hcert-trustlist-mirror/pull/14
