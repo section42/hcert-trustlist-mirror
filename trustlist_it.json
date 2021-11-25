@@ -4231,5 +4231,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0OUh2s00z3fKc2NTrYN+8SQERWvy3gRdGsmjrGMZQ9nZPT3bYLYDuyuhpYfQ8CSOuU2bScmWN9xthX3T6V1T8g=="
+	},
+	"6ptpKJA1J90=": {
+		"serialNumber": "2e8b88f33be316dac02d5f4cfdde81312c2e2463",
+		"subject": "C=TG, ST=MARITIME, L=LOME, O=INH, OU=INH, CN=inh.tg, E=wemboo.halatoko@inh.tg",
+		"issuer": "C=TG, ST=MARITIME, L=LOME, O=MENTD, OU=DCA, CN=e-certs.gouv.tg, E=support_it@support.gouv.tg",
+		"notBefore": "2021-11-25T08:54:40.000Z",
+		"notAfter": "2023-11-25T08:54:40.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "3e8fd576efb79fca389b8129fb8daeef368f7947",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/t+Slm3djgmEU6EDiHQ9NbBluAowmiJ1WRBnCP8M+zS4nz8F8i3999918JYKA4wJni8OaHwhzb+ay8KJIxhNFA=="
 	}
 }
