@@ -1047,6 +1047,14 @@
     ],
     "recoveryValidFromDays": 11,
     "recoveryValidUntilDays": 180,
+    "issuerCountryCodeFromCASIslandSAN": {
+      "ABW": "AW",
+      "CUW": "CW",
+      "SXM": "SX"
+    },
+    "correctedIssuerCountryCodes": {
+      "CNAM": "FR"
+    },
     "proofIdentifierDenylist": {
       "q5TKp3sKMWlVjmMUGdhTtw==": true,
       "ljOsYiw6IDXfndOeyUfTNg==": true,
