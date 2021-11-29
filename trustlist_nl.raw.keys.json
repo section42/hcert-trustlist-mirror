@@ -1918,6 +1918,14 @@
         "keyUsage": []
       }
     ],
+    "sG0xboj/6v0=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcB5dWRJJkB1uJ6kGT/8FmeZvT/clMjPkEwgfnJgbgvzANk6VgEHWnGqJ7TdLpbO8+c8fTlTYPhr7+PoHrV8wrw==",
+        "ian": "SG",
+        "san": "",
+        "keyUsage": []
+      }
+    ],
     "ODqaG8mnbro=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEU/f/KsmP3NasU/jZo7aulTrd9GHoznfnwWvX8xmHtK49EoobMAG7LhXnpLQ+aRwmmnSMcIWy8wPxM8QDMBUtyA==",
