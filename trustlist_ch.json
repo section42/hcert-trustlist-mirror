@@ -2661,5 +2661,16 @@
       "x": "V46zJLij0cY8emOFjsMFj8cAlEKPe2YMoVAlSG4c4FQ=",
       "y": "Ok5b7FwHMUIyWibuvhhzcs68jnqwOgRompcSKRqpU90="
     }
+  ],
+  "kom9zby5Hiw=": [
+    {
+      "use": "sig",
+      "alg": "ES256",
+      "n": null,
+      "e": null,
+      "crv": "P-256",
+      "x": "Hb40uYRSb8HldBeABfUUzccwn4CaKfb0+UlvuuRXAUo=",
+      "y": "HakmavA+WDBXUOyFjRxs/rJ0O48smuSHl1Z3mkNY6Hs="
+    }
   ]
 }
