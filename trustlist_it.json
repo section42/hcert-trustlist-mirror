@@ -4283,40 +4283,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBBCZuYS5AdmmA/1r2rDkZuzZEsQx3t+itWKrCplloA3T6hj0zjXxQ+VA8NL9zVMOs+qimse+1kmycNPxBuSO1g=="
 	},
-	"ffwxqXFau6Q=": {
-		"serialNumber": "017d6c73669e41996a22",
-		"subject": "C=AT, O=BMSGPK, 2.5.4.5=001002, CN=AT DGC DSC 2",
-		"issuer": "C=AT, O=BMSGPK, 2.5.4.5=001, CN=AT DGC CSCA 1",
-		"notBefore": "2021-11-29T16:07:22.000Z",
-		"notAfter": "2023-11-29T16:07:22.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "0dd0fc1fe036d110b91e9704a68905b747e597fd",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4L/6FXPhU5Bn0Z8byu4KQXQtyCbGJ1frBcXH4Hy5eCrKzevc72e1TnAi2yCMytCyQ5ULvtRxrVYHIQvQkpcskg=="
-	},
-	"uP22Xh56SMM=": {
-		"serialNumber": "017d6c6d102c66c270f9",
-		"subject": "CN=AT DGC DSC, OU=PROD, OU=Internal HSMF, O=BMSGPK, C=AT, 2.5.4.5=2",
-		"issuer": "C=AT, O=BMSGPK, 2.5.4.5=001, CN=AT DGC CSCA 1",
-		"notBefore": "2021-11-29T16:00:26.000Z",
-		"notAfter": "2023-11-29T16:00:26.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "78b288424d81a996dd2d64c2910208c4bff261d3",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4L/6FXPhU5Bn0Z8byu4KQXQtyCbGJ1frBcXH4Hy5eCrKzevc72e1TnAi2yCMytCyQ5ULvtRxrVYHIQvQkpcskg=="
-	},
 	"Pp2KBZWzfPI=": {
 		"serialNumber": "1f",
 		"subject": "C=EE, O=Estonia, OU=Health and Welfare Information Systems Centre, CN=03-2021_DCC",
@@ -4350,5 +4316,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHb40uYRSb8HldBeABfUUzccwn4CaKfb0+UlvuuRXAUodqSZq8D5YMFdQ7IWNHGz+snQ7jyya5IeXVneaQ1joew=="
+	},
+	"jEQORRChRjk=": {
+		"serialNumber": "017d901f5b6577da9751",
+		"subject": "C=AT, O=BMSGPK, 2.5.4.5=001002, CN=AT DGC DSC 2",
+		"issuer": "C=AT, O=BMSGPK, 2.5.4.5=001, CN=AT DGC CSCA 1",
+		"notBefore": "2021-12-06T14:21:53.000Z",
+		"notAfter": "2023-12-06T14:21:53.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "03e774a983363d4bbd1e6148fd52eafac05c6af6",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEstVbZNQaWGq3ymcNLJCRp/6fRGvSSo7N0FhDWYnAiLjOKjKXXtcEifs+PwuGalJI7BjeSUdzfbkDHoJUtbNKog=="
 	}
 }
