@@ -4559,5 +4559,22 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5YGiF7sEDB+UWGSeB3u2/cZQew+/LAi2Nzo0foSfhyQFe9Jp93MryQum5KM42bdHsckcFhpfscvD8Zzit68x1XtdylO70DYJgNfj3yeDrc5fZ4fcJE0f5HBA2MwHJXDHE1y7OZOdrJ/f9h//9tfSQbTYYTsqGGPPjpDTlW4ntqdKmWFPjgPT/+e/WAcpRU4w5Vob7VeMjGhiQ4/Tnkilz0q7NGSNDkDdIVModxc9KHjUAseQh28JCdFGlXkLLGOXhqYL1IlP1Fh2vDVBZQqtLb74C4fsjBxtfGYUXPgfC5XSl5LgJk9fNlPHgzmW270/kKowYaEamW377ynXmFzklwIDAQAB"
+	},
+	"b6DvtaUKH6Y=": {
+		"serialNumber": "4eb2bc89b390e339eb187cdcc9b51b981b0232",
+		"subject": "C=MC, O=Principality of Monaco, OU=Ministry of Health and Social Affairs, CN=DSPKI_MC_DGC_1",
+		"issuer": "C=MC, O=Principality of Monaco, OU=Foreign Office of Monaco, CN=CSCAPKI_MC",
+		"notBefore": "2021-12-13T14:30:46.000Z",
+		"notAfter": "2023-06-14T14:30:46.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "c618fd970436e90618f5bcd0c19a5c37e82d8f0d",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEnUNIFFBEfndNvfTXjq2n3bH1sQJFNt7Q2JUyrLhuwjQ1zYLmDWqDvO/X4AQYviLvYCFVHxy6wDrpZnWhVg2kw=="
 	}
 }
