@@ -4598,5 +4598,22 @@
 			"modulusLength": 4096
 		},
 		"publicKeyPem": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzSAYJtlrxfoMhcJT6QTVJCTb40E+qsZmuiIjtCG9XRdRQTppo2tZe8LnERPnQ9xqMzHaq525WcRO3uMJNF4lEDsqXNflTABwB61w2IgfJioHEaRvqMOawIOxU8YKDmHcIPoXSizD1VfstPB25uKUGFVh/IJWsYzIQOOmORS7S4ZODq+UBWqjVzIgyEjx0Eya1OQPn853jylGTflmDKl0f98X5TpGDNtoHtenX/e+u+UPiBRFQ2HEk1R+O5EeOg6fodhpEP/RIpzavTf66JWTRhxeX8TdtHktuuLosbf0MGiM4TS/tTd7vjPvx3RK2m06QJ8N9ZJLjp7v1gW5cLFlCZsF85dVR9G849siMGF8onUTP1mAg1WrgitVTCwjNYcJ4CTojiEcD8+SViTDpSuUTJ8yOP1Mq2+lJAhmro7XTyzRFI/lKdncC2wV6u2zNvNAmRr9BuJmLYtc5ONLgnxhO06P9kJlHnCvt1vLa+iuzorfoac/vIQs+dApsMUwknVDTMfm0AJZC0awXrfUvz233AATX/c9ZEKizjw+LpoLTrZxFe/iaZ2We/ygf/OZtKwT9pO5bO13erVJVcscd8vS9/+l2YYmQdxoYdoVr3fKu/0mlaa9t6CAQb1xr5mxjf3FQrseVRKW1QaFtikRs9rt4tC9PEJ/E16W76GwclUhDcMCAwEAAQ=="
+	},
+	"MelIsUdzjbY=": {
+		"serialNumber": "2bf5f8376f75f4e5ff5b4523c96bc29b41a47f53",
+		"subject": "C=BG, L=Sofia, O=Ministry of Health, OU=Health Information System, CN=DGC DSC 5",
+		"issuer": "C=BG, O=Ministry of Health, OU=Health Information System, CN=Bulgaria DGC CSCA 1",
+		"notBefore": "2021-12-15T10:28:11.000Z",
+		"notAfter": "2023-12-15T10:28:11.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "5bd8850d32e2a4491eb7ad5906f306bcea21e0db",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEgXN2exOO6pXc25U65XXQUyYp72uNpsdKpUVDFqUUuf2oTodJhNxNQfLamVcq0ZSCsaZT3YDGyLNb2D/7m/kFYQ=="
 	}
 }
