@@ -4717,5 +4717,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEl7DWONHW2T8XW8OL8KyzbUqeaWho7WhMFxkec+hKLPFgiq+aysni03Jfsk5PS+E1GnItdWJh10ra00Tn1zzpTQ=="
+	},
+	"fr1YOKr2CAU=": {
+		"serialNumber": "6302e484bcd4da92",
+		"subject": "CN=CENTRE INFORMATIQUE DU MINISTERE DE LA SANTE PUBLIQUE, O=CENTRE INFORMATIQUE DU MINISTERE DE LA SANTE PUBLIQUE, C=TN",
+		"issuer": "CN=CSCA TUNISIA DGC, O=AGENCE NATIONALE DE CERTIFICATION ELECTRONIQUE, C=TN",
+		"notBefore": "2021-12-03T09:27:21.000Z",
+		"notAfter": "2023-12-03T09:27:21.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "1246988243edc43700a58bb29ce72cbc6eafcbe8",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVS2Wh9yNcy8NluUMlxHAAHlW6YuEU7R7w9zlM4sb1OIcRhZJq8klg0iIcbWsWkE+Epr9Admd1RR7GBkA9vq4Bw=="
 	}
 }
