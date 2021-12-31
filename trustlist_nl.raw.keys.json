@@ -586,6 +586,14 @@
         "keyUsage": []
       }
     ],
+    "ukusTTcSnQ8=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAJV9wVkG7LM6TUw5LNuvYBeSYbi4x+HXtB+2mS2q4KKNevlFhwHac7r1xZlCUqS3WnUJ6TKxHk2tlnCCCuplIQ==",
+        "ian": "ES",
+        "san": "",
+        "keyUsage": []
+      }
+    ],
     "x3ch4ml934I=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeC6+zmnjgdAUmYG4kIPJsMwSFSJclYoKuHKcIQ5PpX4xKyM36Gp2fkKvARbyJYjduU8JzO9nrSILVxjuKRapFw==",
@@ -1386,6 +1394,18 @@
         "ian": "NZ",
         "san": "",
         "keyUsage": []
+      }
+    ],
+    "7EkLpCQPXgg=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFWmy+0znVNI9n4sAz2ZNpUfoToe8aHUmOZvpMDqRTAMlai8yPIL0+rTOiNi0R/kHR7Z51GleMWuJQmqxJHeqaQ==",
+        "ian": "FI",
+        "san": "",
+        "keyUsage": [
+          "t",
+          "v",
+          "r"
+        ]
       }
     ],
     "BKBFhNFXWAU=": [
