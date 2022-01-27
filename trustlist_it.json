@@ -5157,5 +5157,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIWruXaZa6tRt4VLPGNIl9g4/VjZsEvwLHXIE0CeuXV4y0yDszXsL+4Kvs1CG/78ruFLdWHw92u9bK4ueZcoOLg=="
+	},
+	"OFuszKRHwBg=": {
+		"serialNumber": "316d59baf0cf218385",
+		"subject": "CN=FIRMA CERTIFICADO COVID DIGITAL UE 1S2022, 2.5.4.5=Q2801221I, OU=SELLO ELECTRONICO, OU=DG SISTEMAS DE INFORMACION Y EQUIPAMIENTOS SANITARIOS, 2.5.4.97=VATES-Q2801221I, O=SERVICIO MADRILEÑO DE SALUD, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2021-12-20T11:30:00.000Z",
+		"notAfter": "2023-12-20T11:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "627835a949c135e3292ce1486675eb451023c485",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERtumh/vSoJJwJ3c0Txb9GM8FSuQh4vzASOC0UQuRMDhctp7chlpAyivtu/z581vOAVuLBSs8txwqpwhNDj2feg=="
 	}
 }
