@@ -1053,7 +1053,10 @@
       "Covishield",
       "BBIBP-CorV",
       "CoronaVac",
-      "Covaxin"
+      "Covaxin",
+      "NL:AKS-452-VB",
+      "EU/1/21/1618",
+      "NVX-CoV2373"
     ],
     "recoveryValidFromDays": 11,
     "recoveryValidUntilDays": 180,
