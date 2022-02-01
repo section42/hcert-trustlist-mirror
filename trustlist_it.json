@@ -5192,14 +5192,14 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUkyv45Gc1NB5GAzXi/+XMmlbsrptHjp4ASIQxjL3hfhSaOv50D0APhzODk+1Vb2YAviZY+cLB9YMI60dbqQ8jA=="
 	},
-	"HQSB2LGH/Ws=": {
-		"serialNumber": "5e8e19038cb46a1359ccd91be9f21234596afe79",
-		"subject": "C=LB, ST=Jnah, L=Beirut, O=Ministry Of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
+	"taXid5fTt+s=": {
+		"serialNumber": "7957e38c6d757524",
+		"subject": "OU=Siren Analytics, O=Ministry of Public Health (MOPH), ST=Beirut, L=Beirut, C=LB",
 		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
-		"notBefore": "2022-02-01T08:25:42.000Z",
-		"notAfter": "2022-07-31T08:25:42.000Z",
+		"notBefore": "2022-02-01T11:39:00.000Z",
+		"notAfter": "2022-08-01T10:39:00.000Z",
 		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "ea746e6251f2429dd1b04147ab82b83ec70157bb",
+		"fingerprint": "8acda654a1f0d9804867ea52ba9b3dd88ff2ea03",
 		"publicKeyAlgorithm": {
 			"hash": {
 				"name": "SHA-256"
@@ -5207,6 +5207,6 @@
 			"name": "ECDSA",
 			"namedCurve": "P-256"
 		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvhEaVjD0g2/7NKi1eJqD3cG6MWPp2E2s2zoWnl07T147RzGq9JUnlAfVqlh08MN06LDD453GCtDzP698bd18+w=="
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpqXxQ3wXpnOZh0uA/nAY0fX+BY5SkF6Y6uyEym1bnZNwxTB42KUuPClWx3cOgWhKNprFNWcYnC8c47uGwG1q5A=="
 	}
 }
