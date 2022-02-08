@@ -1043,7 +1043,7 @@
     "vaccinationValidityDelayDays": 14,
     "vaccinationJanssenValidityDelayDays": 28,
     "vaccinationJanssenValidityDelayIntoForceDate": "2021-08-14",
-    "vaccinationValidityDays": 1825,
+    "vaccinationValidityDays": 270,
     "vaccinationValidityIntoForceDate": "2022-02-08",
     "vaccinationMinimumAgeForValidityYears": 18,
     "vaccineAllowedProducts": [
