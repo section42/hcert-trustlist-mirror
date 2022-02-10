@@ -5616,5 +5616,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPJYyfDTUZay+IaAKER2aI82iwGxQrabROGqM+SOmmrICIroyuG9+z/7T53RQ6Z/Jm2hivIHCs9VaOcNSt0sb6w=="
+	},
+	"wsMe8L4zWNE=": {
+		"serialNumber": "4541037b9551542fb116ebf36d00f123e35c1b74",
+		"subject": "CN=DSC_DGC_GB_NI_02, OU=DHCNI, O=Department of Health, L=Belfast, ST=NI, C=GB",
+		"issuer": "C=GB, ST=NI, L=Belfast, O=Department of Health, OU=DHCNI, CN=CSCA_DGC_GB_NI_01",
+		"notBefore": "2022-02-08T22:28:42.000Z",
+		"notAfter": "2024-02-08T22:28:42.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "a7fc9d182048de47914af0d0bf0cb29d215416c8",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPhObKyKu7OpwB1AF6YmfvAhn7QiVPjmIKcV8GWtV/7IfeJJEgE46vQgeq+EBQUupOTjV5L1CsGM9IiJK0yUFQQ=="
 	}
 }
