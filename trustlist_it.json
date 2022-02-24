@@ -5684,5 +5684,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3pcGA5BtQsLAA8SALbN2VzyKOjsLRWwzQASvr1rsXB+XYeWun27KIlIMST76u+CeGR0kwY7Wlf5J2+UlILNHqA=="
+	},
+	"tHv696xL75E=": {
+		"serialNumber": "23ccb8455a3427fe9bba92649fd08286404f64a1",
+		"subject": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Central Inspection, CN=CSCA_DGC_LB_02",
+		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Central Inspection, CN=CSCA_DGC_LB_02",
+		"notBefore": "2022-02-24T13:18:17.000Z",
+		"notAfter": "2022-08-23T13:18:17.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e02923383d61e364189673e45a6497edba00927e",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHon1pAKV4wVDuVxeocIIkVseaEU5rR0ItAc/XPQ86rVs/zJnTzbPrIDC7QekzhHKQCO6uy27YgExfMA9tCicZw=="
 	}
 }
