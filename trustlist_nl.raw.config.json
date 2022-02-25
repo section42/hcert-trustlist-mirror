@@ -1,9 +1,9 @@
 {
-  "androidMinimumVersion": 3133,
+  "androidMinimumVersion": 3746,
   "androidRecommendedVersion": 3746,
   "androidMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "playStoreURL": "https://play.google.com/store/apps/details?id=nl.rijksoverheid.ctr.verifier",
-  "iosMinimumVersion": "2.6.1",
+  "iosMinimumVersion": "3.0.0",
   "iosRecommendedVersion": "3.0.0",
   "iosMinimumVersionMessage": "Om de app te gebruiken heb je de laatste versie uit de store nodig.",
   "iosAppStoreURL": "https://apps.apple.com/nl/app/scanner-voor-coronacheck/id1549842661",
@@ -21,7 +21,9 @@
   "androidEnableVerificationPolicyVersion": 0,
   "iOSEnableVerificationPolicyVersion": "0",
   "defaultEvent": "cce4158f-582f-49c0-9d4d-611ce3866999",
-  "verificationPolicies": [],
+  "verificationPolicies": [
+    "1G"
+  ],
   "universalLinkDomains": [
     {
       "url": "coronacheck.nl",
