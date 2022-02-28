@@ -5701,5 +5701,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHon1pAKV4wVDuVxeocIIkVseaEU5rR0ItAc/XPQ86rVs/zJnTzbPrIDC7QekzhHKQCO6uy27YgExfMA9tCicZw=="
+	},
+	"yCbDxn6A9oQ=": {
+		"serialNumber": "6f70bbf6037628c1957cba87404e283fc4fdfb4c",
+		"subject": "C=JO, ST=Amman, L=Amman, O=MoDEE, OU=DGCOperations, CN=JordanDSC",
+		"issuer": "C=JO, ST=AMM, L=Amman, O=MoDEE, OU=DGCOperations, CN=JordanCSCA",
+		"notBefore": "2022-02-25T10:32:58.000Z",
+		"notAfter": "2024-11-21T10:32:58.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "9df888f1e84523846290b6eb2f2e96a122329c78",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsmHUTw8vhvIFlNXH1vLaPbRe21KR24LcYBq3fvirZmVIbWnFqBiEGA3Bm5BWMsUqvVqXxiISJSoKAE4YH26tug=="
 	}
 }
