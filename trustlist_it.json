@@ -5718,5 +5718,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsmHUTw8vhvIFlNXH1vLaPbRe21KR24LcYBq3fvirZmVIbWnFqBiEGA3Bm5BWMsUqvVqXxiISJSoKAE4YH26tug=="
+	},
+	"QFoseLbiTFM=": {
+		"serialNumber": "13ae700c57874f6f",
+		"subject": "OU=Siren Analytics, O=Ministry of Public Health (MOPH), ST=Beirut, L=Beirut, C=LB",
+		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
+		"notBefore": "2022-03-01T11:39:00.000Z",
+		"notAfter": "2022-09-01T10:39:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8e803f8bf672bfa5182bf66b6e98c466a7962dd1",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKahy71MvfUTeQtS+u4x6vFVmWT7zLEgfHk0KjJl2M0LJ46Rnfnnw4CvSEv+RrRbqDg+vP262UGaldYPc3OPpFw=="
+	},
+	"rKBxHVKgvr0=": {
+		"serialNumber": "1c910bdea996de4e9919a812e0ee463133ea9800",
+		"subject": "C=SG, ST=Singapore, O=Ministry Of Health, CN=dsc.notarise.gov.sg",
+		"issuer": "C=SG, ST=Singapore, O=Ministry Of Health, CN=csca.notarise.gov.sg",
+		"notBefore": "2022-03-01T02:46:32.000Z",
+		"notAfter": "2024-02-29T02:46:32.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "06a0e8a946ec4b510eed9ccd95593cd863797293",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd+TX4Oo+eGR3uK7FR2CcR1f488VBSkV15VBWYjZlupZaOlZJxHFxgTinRnsCFTGmgkJzfAy9L2H7oLSTIL9C7A=="
 	}
 }
