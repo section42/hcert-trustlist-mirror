@@ -1944,6 +1944,14 @@
         "keyUsage": []
       }
     ],
+    "QFoseLbiTFM=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKahy71MvfUTeQtS+u4x6vFVmWT7zLEgfHk0KjJl2M0LJ46Rnfnnw4CvSEv+RrRbqDg+vP262UGaldYPc3OPpFw==",
+        "ian": "LB",
+        "san": "",
+        "keyUsage": []
+      }
+    ],
     "tHv696xL75E=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHon1pAKV4wVDuVxeocIIkVseaEU5rR0ItAc/XPQ86rVs/zJnTzbPrIDC7QekzhHKQCO6uy27YgExfMA9tCicZw==",
@@ -2604,6 +2612,18 @@
         ]
       }
     ],
+    "kQBDocSCNd0=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmf2tHBhkjcwD5zvJYqnLU40axPWSSfO84WfcbwK7Ffj4UhDlw1vZm6vNxJ3YEQz82+MsgVoVHjAfgvkohZ5SMw==",
+        "ian": "MC",
+        "san": "MCO",
+        "keyUsage": [
+          "t",
+          "v",
+          "r"
+        ]
+      }
+    ],
     "crm1HLAeaTo=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEI6Q/krjPDaHJ2WsrBzR9sGYnYjFqkflAAWhJgXbXt3RuUVfJt4c53N6v9J2BE3kPqCVl9FbYrwqQ0vZ+Ps5e+Q==",
@@ -2671,6 +2691,14 @@
     "nqMnAMnvASg=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUkyv45Gc1NB5GAzXi/+XMmlbsrptHjp4ASIQxjL3hfhSaOv50D0APhzODk+1Vb2YAviZY+cLB9YMI60dbqQ8jA==",
+        "ian": "SG",
+        "san": "",
+        "keyUsage": []
+      }
+    ],
+    "rKBxHVKgvr0=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd+TX4Oo+eGR3uK7FR2CcR1f488VBSkV15VBWYjZlupZaOlZJxHFxgTinRnsCFTGmgkJzfAy9L2H7oLSTIL9C7A==",
         "ian": "SG",
         "san": "",
         "keyUsage": []
