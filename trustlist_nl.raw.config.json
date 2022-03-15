@@ -31,7 +31,7 @@
     }
   ],
   "domesticVerificationRules": {
-    "qrValidForSeconds": 60,
+    "qrValidForSeconds": 90,
     "proofIdentifierDenylist": {}
   },
   "europeanVerificationRules": {
