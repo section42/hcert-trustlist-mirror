@@ -6115,23 +6115,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYwFb3i9UvfaAUgrjfwpG0ife37uOLjcEZaM9ECyTO30RQ5DVU7b/c6BRzPwc3mJ7nHEl4erMPy31bgNvtHh8fg=="
 	},
-	"RdyYLqteXuU=": {
-		"serialNumber": "615085f5",
-		"subject": "C=GB, O=NHS Digital, ST=Gibraltar, CN=DSC-DCC-GB-GI-04",
-		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
-		"notBefore": "2022-03-22T16:52:40.000Z",
-		"notAfter": "2024-03-22T17:22:40.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "2eb45da74edddc2b4d54689d02f6ce9c1b2b4557",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4hlKpOFaDx4jQkfXJCHr80EW3Nswn80z1Rx3e5SRh1OLY4u7PAosOt3w3K/mVFI2gzHUPIt0rSpDNyjuaoEzHA=="
-	},
 	"VgYme+rE9Ek=": {
 		"serialNumber": "615085f7",
 		"subject": "C=GB, O=NHS Digital, ST=Jersey, CN=DSC-DCC-GB-JE-04",
@@ -7882,5 +7865,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+Dec4C+zH0sXN3HszhEFzO8P28lM2cyaZW8dKXMae6Fa8EIAzkOnBsHNfFJ+UHwjPvYnWzbMUpB08pINacNyjQ=="
+	},
+	"L/ELKGrvm10=": {
+		"serialNumber": "70f30897127504e659b2ec791b602811bf40d3ff",
+		"subject": "C=SG, ST=Singapore, O=Ministry Of Health, CN=dsc.notarise.gov.sg",
+		"issuer": "C=SG, ST=Singapore, O=Ministry Of Health, CN=csca.notarise.gov.sg",
+		"notBefore": "2022-03-30T09:52:00.000Z",
+		"notAfter": "2024-03-29T09:52:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "7cf695b18e6d8c33975660eef08ac0af94e95002",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy8cvU3EHGmsjAc7PuHdO5t8IRVR4xtzPLJ8MOtDC+3Qr7bnXJlDcayi3uxBVuevSvx4K9mcfJWN5AgBN/LLI1Q=="
 	}
 }
