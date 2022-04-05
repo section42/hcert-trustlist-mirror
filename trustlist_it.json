@@ -7899,5 +7899,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhCj8gyqrMeWbGYoPiWV3a0KL19YyY7RCDYYuLerZYkTAhRdi3tkw4TpTogIAaBy+WsfRX5Dndti/LAQgNa39sQ=="
+	},
+	"FQyLctAwMZA=": {
+		"serialNumber": "12d8a207a24c2c759cc754a4c0e67467820b6035",
+		"subject": "C=MY, CN=Malaysia Covid19 DSC 01, O=Ministry of Health",
+		"issuer": "C=MY, CN=Malaysia Covid19 Country Signing CA 01, O=Ministry of Health",
+		"notBefore": "2021-07-30T09:39:55.000Z",
+		"notAfter": "2023-07-30T09:39:55.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e8de66ce9484e930141a7476de90863e99b59abb",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbP5zZhl/Nfvfk9Ocmj4kVz6BnMesxexyPMHW+vbveCzQwCj4MOkQaQcC932W3+f5/FV2081EKlp2zhL9ks0qLQ=="
+	},
+	"h9wqAy+GiEs=": {
+		"serialNumber": "63158454d3553885e9b9ab140b0a2d406393a9c0",
+		"subject": "C=CO, O=Gobierno de Colombia, OU=Ministerio de Salud, CN=Gestión de Credencial de Inmunización",
+		"issuer": "C=CO, ST=BOGOTA, L=BOGOTA, O=MINISTERIO DE SALUD Y PROTECCION SOCIAL, OU=OTIC, CN=CDVCOL.SISPRO.GOV.CO",
+		"notBefore": "2022-04-04T21:02:34.000Z",
+		"notAfter": "2024-04-03T21:02:34.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ef6ae1fe8c64ce1359fd5992c8372f5c5cb282a3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIRa3WfYnCYTaHv78wrlFo3X0LOQcMU8kpBzloaEuc+yYjUlpjk8cds5sTXXOgv3f7rsnvZHmzRyjxwApXJlcgA=="
 	}
 }
