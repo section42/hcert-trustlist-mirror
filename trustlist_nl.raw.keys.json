@@ -3294,6 +3294,14 @@
         "keyUsage": []
       }
     ],
+    "CtE/PQJLZn8=": [
+      {
+        "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEK+8LG4s2tdPUnQRmysQDlbO3Jz5slJSv248A1FKri1CD98IEfpzow2RtBw0OXH/+7FWc6D8oNc7GsmeDQTprmw==",
+        "ian": "CY",
+        "san": "",
+        "keyUsage": []
+      }
+    ],
     "7z8+6oww2a8=": [
       {
         "subjectPk": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAErbWQM5hj5SeR23DzCV0TVKrFhfYsmNVVSbPFxwyw4ZEfersZ3bp2h+rw2BhbLbzVHZIwWfnhaKZ72+JciUksFQ==",
