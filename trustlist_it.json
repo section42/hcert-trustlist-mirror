@@ -8368,5 +8368,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9YqgNXmmXgWijLg6ci7eRK/PVWrb1YSBqzpKek8r4L/Qhl+R+4l+hJi2Q+ShyhJtBL2D9yYajyYykkC++Lpmxw=="
+	},
+	"4LmAwH++JF8=": {
+		"serialNumber": "24",
+		"subject": "C=EE, O=Estonia, OU=Health and Welfare Information Systems Centre, CN=01-2022_DCC, 2.5.4.5=01-2022",
+		"issuer": "C=EE, O=Estonia, OU=Police and Border Guard Board, 2.5.4.5=01-2020, CN=CSCA_Estonia",
+		"notBefore": "2022-05-17T11:03:14.000Z",
+		"notAfter": "2024-11-12T11:03:14.000Z",
+		"signatureAlgorithm": "1.2.840.113549.1.1.10",
+		"fingerprint": "6ef3a73e06b617412d9aa13f97498ed914f44bf9",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESRQNwfbHTrs/l83+e/2tJ9SChNHWK5/Tkg/KhEggFV4+c9mw2zxuQRdx3TLGsV0P+ReXCC/47bUIt/5uzYk8Fg=="
 	}
 }
