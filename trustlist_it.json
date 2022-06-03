@@ -8572,5 +8572,124 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7utYgCTgOT1hSmBxEHBdoz7kG+ilOTCi3bvoLF1JMTH4halJVMfyyYTK6Kd1FG/HjAb7I46MLbm/dsZIO4zl0w=="
+	},
+	"18SDcLZwp2w=": {
+		"serialNumber": "66d89aabb4128055",
+		"subject": "CN=MLT-DSC-RECOVERY-007, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8b7871dd0abe9ece44e601a2fad3028e8ad7609e",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPpWMG62ywH5vrKysVXNMt8KMUj6Vg1GNQ8Hb8pVcBwyEjap1wvei9yyOJR/abVbnjG+l+OVD+Y5QjMEA5a8BEQ=="
+	},
+	"68GUC3zJiis=": {
+		"serialNumber": "5486928cba130666",
+		"subject": "CN=MLT-DSC-RECOVERY-006, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6f495ebbe28701d47c50c2dc86a4892025d4e042",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEMMh8LoUTdPNOYbWr+3Tyl6Bl1xH9FTlwYuekgg7C3lzQ68T0HBM9OtGduGvFNTNAKVlXBl8/K0V8mRGQEi73iQ=="
+	},
+	"7Zfpj2hFdZI=": {
+		"serialNumber": "7eea1e28ff9ae5c3",
+		"subject": "CN=MLT-DSC-TEST-006, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "0945f412be792c2a209e05f90472eae95324b173",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3xfqPtVW+pxIBJfORDjOEw5UYtj6hRybZP3pe9nU1bV30JnNqN4FaNK8yq12TwqjQPMxMh5cLa0QUdVJ5KK+sg=="
+	},
+	"O9/onlS4MfU=": {
+		"serialNumber": "2cd7a62ff0c0a056",
+		"subject": "CN=MLT-DSC-VACCINATIONS-006, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "690811af32daac8c6c1a261aeac75ac23e722251",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIGMA4GA2MePLKcWAfOjLzCtEq0QG22QMkpXUxfrswKVvg1p0WXLZ4tH6BGdJDWiyRFc7nsJ4DPGpNBDvJrr4lg=="
+	},
+	"Vu9ZtIFwyLs=": {
+		"serialNumber": "7e2f1d9ce5d477fc",
+		"subject": "CN=MLT-DSC-VACCINATIONS-007, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "59a95fb6501429d7526bb6e16fe7392ecff92629",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEd8WOHa/cQ+JIog47HmP9qviuyBw0jbSHqBw3fJoGbqmrubZP9rMlg4m9xk0z8Y5Rofs+ply5mo45BqcMkwsx1w=="
+	},
+	"vYkcKLPmDBo=": {
+		"serialNumber": "26884b1cfa2ac1cf",
+		"subject": "CN=MLT-DSC-TEST-007, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2022-05-26T00:00:00.000Z",
+		"notAfter": "2024-05-26T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "453a3f44f675cd1a1d372b2d56df65fd88482cba",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFHXVxxPkuzAcE5VHx4tYyb+hY49PB/g2JIbgHpfsZXlEca6EKnxx3TyWLiGrRcyHjrRHX24yi+6OGNDJl9H+/w=="
+	},
+	"xlOr639kqJw=": {
+		"serialNumber": "3439ceb498f5471b36",
+		"subject": "CN=IBSALUT-CVD-SELLO-2022S2, 2.5.4.5=Q0719003F, OU=SELLO ELECTRONICO, 2.5.4.97=VATES-Q0719003F, O=SERVICIO DE SALUD DE LAS ISLAS BALEARES, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-06-02T08:30:00.000Z",
+		"notAfter": "2024-06-02T08:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "b4f61573a2882a82c88261572cb819fd340004dc",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElwfWWGPC68YB103Q4BsjoSS4qPtZPcPadUtwBiEbq7lB2YQURWSV2RV/PkdrgR7jIxfPp+dWvFE65WlobQf/qw=="
 	}
 }
