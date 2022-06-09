@@ -8725,5 +8725,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERHPqs7XQwXiKuDwJmzlVRffNcPK1noUthOV1usrtNpw6cp50rIFAYIJFIG7/Bmei1Um7qXCYZB6PyRCnIoWtsA=="
+	},
+	"GaMFkOwQiSQ=": {
+		"serialNumber": "00904567af0c65be25",
+		"subject": "C=SC, ST=Mahe, L=Victoria, O=Travizory, OU=Health Certificates, CN=DSC-prod, E=morten.jorgensen@travizory.com",
+		"issuer": "C=SC, ST=Mahe, L=Victoria, O=Travizory, OU=Health Certificates, CN=CSCA-prod, E=morten.jorgensen@travizory.com",
+		"notBefore": "2022-04-05T17:46:47.000Z",
+		"notAfter": "2024-04-04T17:46:47.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "dd80b5239cb55b76315b5bbd296522a30a68d776",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETri+03AeZQGUv/sYFe5jicMLJHc4fmm976PnoXL7rZu2zoAhNrWUZD9m24qI5eX7/mVDEgvM4XnalzRXwU37sA=="
 	}
 }
