@@ -4504,23 +4504,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEB9CwR/BEv1WH0uTm74AkTMFYAMdEBIwB2cJnOYvC3hbqiaKLQ80Tm3N3IjIUfC2uud58NMwYwV35uzNeApeZxQ=="
 	},
-	"4vUVzV7f6kg=": {
-		"serialNumber": "41120ef36051fa867c332ea1255023c64e1dd322",
-		"subject": "C=LB, ST=Beirut, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics",
-		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
-		"notBefore": "2021-12-10T14:20:02.000Z",
-		"notAfter": "2022-06-08T14:20:02.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "d0ef071ba5db1268b1951a80ee0a40c9e3dd675e",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFDFfEzPM21RWXsxx1WUrduwbIxCEQXvGONuKpvxVgWEHeNeEyd27x5Y36wYqfjpTQg6L/Mzilq/HROPmimpC5Q=="
-	},
 	"ltgfqrs8IdI=": {
 		"serialNumber": "08ea0b6804f842fc724ece21c8b34b7f",
 		"subject": "CN=Alhosn DSC worker, O=Alhosn, C=AE",
