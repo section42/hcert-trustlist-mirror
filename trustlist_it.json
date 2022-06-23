@@ -8776,5 +8776,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEocoPRP7GdGnE3yZIbw5TAERX5wABekituBTRnPrG1d0gHA7wcA9TiyLSgVP+gth34lSMjpvKxENjJeWEe3M1wA=="
+	},
+	"HjS8YEkE3cU=": {
+		"serialNumber": "01818a70070983f646ff78c5e916d1",
+		"subject": "C=FI, ST=Finland, L=Helsinki, O=Kansanelakelaitos, OU=Kanta, 2.5.4.5=1.2.246.556.12.21.2, CN=Todistuspalvelu",
+		"issuer": "C=FI, O=Digi- ja vaestotietovirasto CA, OU=Sosiaali- ja terveydenhuollon palveluvarmenteet, CN=DVV Social Welfare and Healthcare Service Certificates - G3E",
+		"notBefore": "2022-06-22T08:00:00.000Z",
+		"notAfter": "2024-06-22T20:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "df8cd6e762aee88a4df93cdf1aed166438ac8a1f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE08W1RJyOwzKKG4/DQc63cdFZd+Jbw+JfzWgF0b/681+eUW1wjgJSFlBMTiL9OxEtoG3Ii0ROPabwQtUavsGk4g=="
 	}
 }
