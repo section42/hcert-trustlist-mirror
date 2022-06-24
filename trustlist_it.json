@@ -8815,5 +8815,22 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq5Z3FXsLu5D+PK2VHRjdLjOrk78+sTwQHhMB7mJlgG2QiNT7JX4BBq6kh679Hw+t+qhyyaqUlXb2su/jz7QbOWjkxlM+CFsk0PXQgvZtISl0lGDBt0gukjc9dIJryAIzi3H6sWQxeZhO0koJiYtL5xe5GXnXjp8JtkiRxriXDkY5UOgoEewCxIILoBn9dNgC7+Z9pj4anpom9oU8CwkL8UJGIfxsj2g9eKeMGElYDKBJCN3AFM4m6IfhJU3GqDs8SOGLrkFVBhwKt7dLfWi5vn8ZB3GTIM4TSo2MIgdJrpQMdBY+Z179tHO75qjqHkQyQgitE27Wo7u5KN5aTkLn5QIDAQAB"
+	},
+	"Saf0s5eMkIQ=": {
+		"serialNumber": "7d84c7a574d2c7df42",
+		"subject": "CN=CERT-GENCAT-2S-2022, 2.5.4.5=S0811001G, OU=SELLO ELECTRONICO, OU=Departament de Salut, 2.5.4.97=VATES-S0811001G, O=Departament de Salut de la Generalitat de Catalunya, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-06-20T11:00:00.000Z",
+		"notAfter": "2024-06-20T10:59:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9e823741bbee1c181f09a6e01710ffe8e8bb92bb",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEej6yg+gtP53DoIr1rtWVVHPsyqLRbdOwhHEpC+oFAo0zpgfxXgdb3BigabKwZy04+3uPTDqXpVYSgE0oFr+ihg=="
 	}
 }
