@@ -9194,5 +9194,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2EgoE31SdHpCR0wn5dIqdfk9+oJzsiISn7jpFB1UBVcn/vjut4+7D4JweDnyoHMJBL7U83gR1V+Pj6yEiGoo5w=="
+	},
+	"02/qsZyiry0=": {
+		"serialNumber": "279af50fbe5f7300c665fec53e366671",
+		"subject": "C=BH, O=Information and eGovernment Authority, CN=BeAware DSC A1 Production",
+		"issuer": "C=BH, O=Information and eGovernment Authority, CN=BeAware CSCA A Production",
+		"notBefore": "2022-06-01T00:00:00.000Z",
+		"notAfter": "2024-06-01T00:00:00.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "17f7b4c808c1c71388b2f2f8e778a212330dbd2a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED7I9DYHnOqEDZJV8XKIdAs78gHoNGm1UjuM9WR6an+SUjH0LDWKFUs272hK7X6h1oSB2dsz/vp+RIeX72OmE0Q=="
 	}
 }
