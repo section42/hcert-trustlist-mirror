@@ -9245,5 +9245,90 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDvv3qJVKlxeNqstKLZwtOHvRW78ZeGuSQtkRB1X5gsfbODf5dXwd/lkPVwvlyZ5IIdzoNDXd6s++DOIDsMo5ug=="
+	},
+	"CkHpSzTdb3k=": {
+		"serialNumber": "254ff318d0625ebdaf7a46598a7871425417c8ab",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of Niue, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20220628NU0001",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2022-06-29T02:47:26.000Z",
+		"notAfter": "2032-10-24T02:47:25.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9696c2abaadb9dc9ed5302a1663a26e65c6060ef",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERngymZrUw+m8wh7P5jZaRkEHtAUAUa9ZlV2BcTYAV2GE8wzW0c1kR7RkfWkxMsVPEp6eTSVotWqAW9hk5ld3Kw=="
+	},
+	"GOFjfK1oSww=": {
+		"serialNumber": "387b2b5e9ed31c1e181de8efd085b4ce530a0a09",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of Tokelau, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20220628TK0001",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2022-06-29T02:51:31.000Z",
+		"notAfter": "2032-10-24T02:51:30.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "a7a857c1cdabebf4125f9d0182663b8ee96e51ff",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOUmBgvYngVlTv9vU2EL/Wqjc/Tklfk0PXqu4km6osE9HfdH2I4TA1n3XWTtjArJCVNohGq8P2cjTmfne4eFHpQ=="
+	},
+	"RRwz+Y7YmR8=": {
+		"serialNumber": "00ef7110784e0905b9",
+		"subject": "C=KR, ST=Seoul, L=Seocho-gu, O=Blockchain Labs\\, Inc., OU=Product development, CN=KR_DSC_01",
+		"issuer": "C=KR, ST=Seoul, L=Seocho-gu, O=Blockchain Labs\\, Inc., OU=Product development, CN=CSCA_DGC_KR_01",
+		"notBefore": "2022-05-26T04:54:04.000Z",
+		"notAfter": "2024-05-25T04:54:04.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "eb56432225a81f14e952da76a1575eaf09ba588a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWDzo58FOiRSg/eVPYGMMMFj4dgE1BtJOpkn2gmi7MNHBHPFXlcdeT1MA3tLSiQEE9nGJRYasnUVRdfkshxycWA=="
+	},
+	"Sm+mnVD3epY=": {
+		"serialNumber": "77abe5fd44cc100006d600936785ce730f2260eb",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20220628NZ0013",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2022-06-29T02:34:56.000Z",
+		"notAfter": "2032-10-24T02:34:55.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "490ab5bb597e64254ca7b81554f242a222b2e3a7",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4tC0KDq7iKx1mp+erBBMvcRXHiChqzoh4wh8j35Nt1HQDMe7l7hzGK+HgaYIsLZNlg66JspQ35upwp1mQbTNRw=="
+	},
+	"dD4lxgwMRCA=": {
+		"serialNumber": "579d225eb4b73c8bad17c7efd31dd1cdb5fdeb42",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of The Cook Islands, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20220628CK0001",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2022-06-29T02:43:13.000Z",
+		"notAfter": "2032-10-24T02:43:12.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6d507ebbd825aba08e0d36dfe45d9186ccef75cc",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJydbfm+u2vubDE3arpZdTlRrhgmdwUlEEArEOovkN2pTIDsCQ75OgK1HmtCAKRAasC44TZqQ/ACGKspmZlrviw=="
 	}
 }
