@@ -9330,5 +9330,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJydbfm+u2vubDE3arpZdTlRrhgmdwUlEEArEOovkN2pTIDsCQ75OgK1HmtCAKRAasC44TZqQ/ACGKspmZlrviw=="
+	},
+	"pvKR9AI12vs=": {
+		"serialNumber": "54c6ac617a0541c6793c5c88c3b8f9859b5fbc35",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20220628NZ0014",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2022-06-29T02:39:01.000Z",
+		"notAfter": "2032-10-24T02:39:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "1555315e6478547eb622b7ea2520957436018637",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE63HhqBod+WiqRGfpvUcki8LIhIUH//B7j6xAZhvJGJuASmrIJvXUdFdBE3G2kU7cmjt4R7AkCOu0w+sgHovmFw=="
 	}
 }
