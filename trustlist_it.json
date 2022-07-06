@@ -9347,5 +9347,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE63HhqBod+WiqRGfpvUcki8LIhIUH//B7j6xAZhvJGJuASmrIJvXUdFdBE3G2kU7cmjt4R7AkCOu0w+sgHovmFw=="
+	},
+	"pZvS5IWUMlU=": {
+		"serialNumber": "27",
+		"subject": "CN=BHIS National eHealth DSC, OU=Ministry of Health, O=Ministry of Health, C=XK",
+		"issuer": "CN=BHIS National eHealth Root CA, OU=Ministry of Health, O=Ministry of Health, C=XK",
+		"notBefore": "2022-07-05T20:23:11.000Z",
+		"notAfter": "2024-07-05T20:23:11.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "f00c2db12dabb6804c2eef744ce287ffbb41b627",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyntT8VHoJ/WwxU887u+S4rqTOLUhjztrdtVn6bT2ngjRXxB4VRfmhey4vv55PuT3nYIs7WyCq01gZQdYEKytKg=="
 	}
 }
