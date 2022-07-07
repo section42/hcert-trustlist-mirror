@@ -60,7 +60,8 @@
       "NL:AKS-452-VB",
       "EU/1/21/1618",
       "NVX-CoV2373",
-      "Convidecia"
+      "Convidecia",
+      "VLA2001"
     ],
     "recoveryValidFromDays": 11,
     "recoveryValidUntilDays": 180,
