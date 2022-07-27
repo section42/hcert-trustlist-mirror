@@ -9381,5 +9381,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGElh/MCIXPJ7300x0IX1Jr5//7gU4opY4s4SV1jd4fTt5KyMzZpppsZ+jsR2TscmoDcT+CDo0XdD7ZKseTQrxg=="
+	},
+	"Aqi6P40Dbqc=": {
+		"serialNumber": "00da95efeb66c5ec4ec4e8ddf23ec54d8824bec6",
+		"subject": "C=MC, O=Principality of Monaco, OU=Ministry of Health and Social Affairs, CN=DSPKI_MC_DGC_1",
+		"issuer": "C=MC, O=Principality of Monaco, OU=Foreign Office of Monaco, CN=CSCAPKI_MC",
+		"notBefore": "2022-07-27T12:32:31.000Z",
+		"notAfter": "2024-01-26T12:32:31.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "1885a20bdb24918bf60555f4a6aa7454967f5ca6",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmgtBPudRrms/fnIWJ7Tij4p7qz9InVJYuxS11Tt001QgIKWoqglqjLIOhYt6Pgl0aQySTn7t1fJZvTEh/KLL6A=="
 	}
 }
