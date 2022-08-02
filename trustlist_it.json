@@ -9483,5 +9483,27 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVUe1sIuI3omvwdUbdgkUCHl+bhZGaGJjY7Q8Iam4wvlWBpPkMy94j8IYJIco6KEVbosTtefDXZh5SJmBASLaMw=="
+	},
+	"nYaexeajHaY=": {
+		"serialNumber": "00ad3d501b07813716",
+		"subject": "C=PH, ST=MNL, L=City of Manila, O=Department of Health, OU=DOH-KMITS, CN=http://eu-vaxcert.doh.gov.ph",
+		"issuer": "C=PH, ST=MNL, L=City of Manila, O=Department of Health, OU=DOH-KMITS, CN=http://eu-vaxcert.doh.gov.ph",
+		"notBefore": "2022-06-28T00:59:44.000Z",
+		"notAfter": "2024-06-27T00:59:44.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "bcd129c01906d37a4f10fcd2495b2f4b1d8f350a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 2048
+		},
+		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0FZeBMI94hwcFrtbmOoS7mYJtf9i3Pou/kQhVfydqGrZf0vrKXva8XpkImQ8EIUzkcmqqMUXb3FbMW0fflUmPdZZ2EkreyVLppTdkLkjbL7zoGrVX5ovf5KMGewKrkn5GBZFYsW6jN7EHHquF4ZWgR0ZaT7hjQmd4fOVKj7twprrBZSr40xlfjFJ9fNfEsYeqTaI2OuTeztcLhLzDu6oR5l9kLXzJAYy/9NGTqQF/gCb8a5LbV9H6cpbNAiENrci4KxVX2SE2qFppxUSoqlmCACMY41j6Au+iTfVFLa0TKlKx0u/d2HD9oXQXcDqHk8P7dTamEp8jt8Xx6BzQ+YBAQIDAQAB"
 	}
 }
