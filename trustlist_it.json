@@ -9523,5 +9523,21 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4C/jhAYnRv6PruhU2k+DOpD6Yvz2kXO/w0TU/7ApbRc0dH2izrFRA76qx48bm/qZLN+SsQw5pZLplv+BpKGAgw=="
 	},
-	"BJoaM8k2yEI=": null
+	"BJoaM8k2yEI=": {
+		"serialNumber": "741ceb3b266d4d877c58140745b6d8c5ba3a4cfa",
+		"subject": "C=IT, O=Ministero della Salute, CN=Italy DGC DSC Domestic 2",
+		"issuer": "C=IT, O=Ministero della Salute, CN=Italy DGC CSCA 1",
+		"notBefore": "2022-08-08T15:07:25.000Z",
+		"notAfter": "2024-08-07T15:07:24.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "c9ca9b80e6ef0d46e122d208a97ac4d1b7c3e1b9",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXyFzHpUq2vtFior2JLsQqp54U00cBkGM6abPxZ9zIr0VWvyVza0cQCAIsdKY1ZaWK4WBxSxr6jLLzDZDfZkMpg=="
+	}
 }
