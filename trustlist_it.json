@@ -9539,5 +9539,56 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXyFzHpUq2vtFior2JLsQqp54U00cBkGM6abPxZ9zIr0VWvyVza0cQCAIsdKY1ZaWK4WBxSxr6jLLzDZDfZkMpg=="
+	},
+	"AlGlEHG63/I=": {
+		"serialNumber": "52f930189a42653e85",
+		"subject": "CN=Sello Electronico del Servicio Navarro de Salud-Osasunbidea 2022, 2.5.4.5=Q3150004D, OU=SELLO ELECTRONICO, OU=Servicio Navarro de Salud-Osasunbidea, 2.5.4.97=VATES-Q3150004D, O=Servicio Navarro de Salud-Osasunbidea, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-08T12:45:00.000Z",
+		"notAfter": "2024-08-08T11:45:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ae6dddd3c11a6f8c88ebd778902a33c344dcfd15",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr36Feas+nt1Vmspo02+ZM33oBBJ5kYCpiEsbnge2P+x+neLJ3t8Bea3ou21ct6fCxwNjnKdE1BBuuUSeGIMGgQ=="
+	},
+	"PCt6GMTbV9w=": {
+		"serialNumber": "7b0dffcb06468858ea",
+		"subject": "CN=DEPARTAMENTO DE SANIDAD DEL GOBIERNO DE ARAGON 2022, 2.5.4.5=S5011001D, OU=SELLO ELECTRONICO, OU=DEPARTAMENTO DE SANIDAD, 2.5.4.97=VATES-S5011001D, O=GOBIERNO DE ARAGON, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-04T10:45:00.000Z",
+		"notAfter": "2024-08-04T10:30:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "22c6f2a81a7ac361f60da362290b5deb9109c2a8",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEriRhnq+2aMaGiNGqCOjG0ti4Nzhx+XcPwYROCi3dj+YhxjXhhJy8yopfARhXtCh50Uw9NvDgLuaSJml8IYiuYw=="
+	},
+	"wkKPi6HIm5A=": {
+		"serialNumber": "4302964efdb313c6d9bcc928",
+		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
+		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
+		"notBefore": "2022-08-09T17:32:40.000Z",
+		"notAfter": "2023-08-09T17:32:40.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "23573fafa5204ff3ea9173fad44709e895fea490",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvnjA6h1xZDsyylY1C0vHrbrWAPniW/ksncTiBJOdk39tx8GtSXeqlDt8zBvwF8bP+lMiv+nxatX36pY0NgNczw=="
 	}
 }
