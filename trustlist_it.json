@@ -9590,5 +9590,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvnjA6h1xZDsyylY1C0vHrbrWAPniW/ksncTiBJOdk39tx8GtSXeqlDt8zBvwF8bP+lMiv+nxatX36pY0NgNczw=="
+	},
+	"kNv/TWeG+7c=": {
+		"serialNumber": "243adf5a5f07690bab",
+		"subject": "CN=Inspeccion General de Sanidad de la Defensa 2022, 2.5.4.5=S2830001J, OU=SELLO ELECTRONICO, OU=Inspeccion General de Sanidad de la Defensa, 2.5.4.97=VATES-S2830001J, O=Ministerio de Defensa, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-09T12:00:00.000Z",
+		"notAfter": "2024-08-09T11:59:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "3dcaceab6d37223c43f8d473e61c48a2c35cccb1",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFYI5si93dvujjcJI22r5BbxPiDKTI+WimkwJJBuUTkXuM7foziyCdZf6miiWll61mcLlebzyAaRIUU1gm/V7xQ=="
 	}
 }
