@@ -9624,5 +9624,61 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE15XJjx2rb2ifG5RY2sUlNJmXHlbS4GgEdJXm3l5nk2PyY951Pp79s/B2PHM7IW2iNDWFOJxox3uAmlBICt59yg=="
+	},
+	"FLnZgDWkSoc=": {
+		"serialNumber": "0eb8cac4ed22c522cf",
+		"subject": "CN=Gobierno de La Rioja 2022, 2.5.4.5=S2633001I, OU=SELLO ELECTRONICO, OU=DIRECCION GENERAL DE SALUD PUBLICA\\, CONSUMO Y CUIDADOS, 2.5.4.97=VATES-S2633001I, O=DIRECCION GENERAL DE SALUD PUBLICA\\, CONSUMO Y CUIDADOS, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-10T12:30:00.000Z",
+		"notAfter": "2024-08-10T12:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8887ab1684097f4092643c65875cf4ca27c2f065",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKZ3FkbU5Fsc8+9UMJymOA7MiAzGiSZWezP9FNWfUOajwybICtp6E0YAUndHdXT5LOni824ddcxir7YtkN/lCZg=="
+	},
+	"hOU0N+8Zcss=": {
+		"serialNumber": "01",
+		"subject": "C=MK, ST=North Macedonia, L=Skopje, O=Nikob Laboratory\\, North Macedonia, OU=Nikob Laboratory\\, North Macedonia, CN=nikobmedical.mk, E=info@nikoblab.mk",
+		"issuer": "C=MK, ST=North Macedonia, L=Skopje, O=Ministry of Health, OU=Ministry of Health, CN=zdravstvo.gov.mk",
+		"notBefore": "2022-08-16T15:10:17.000Z",
+		"notAfter": "2023-08-16T15:10:17.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "bd26c6beee07effa611d75207e6a31171380ae01",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 4096
+		},
+		"publicKeyPem": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvKCDvFxgbxW3gZw3Hc9+vD5Th+N5yIS2Hc1i1U6CwP8cJYRkaivoWs3iXTECkt+EoV226k8au9Bv8h2+35KntGnMtgOlRqguE1Oia5qewTlyD0Ujs47k8vms1pKQd27V8TD6F1pU7XdeQcLkuXgi4tr1nTxlAW31kxHQM/0jAD/EWoExo/aAze2rEUDqyhyIZxFHWsavWh3IJFezCu/cm3i7kXIM6nSadKttBbttPDpZierUlkWg5hlvdSfyw4Rkju6g0Rt58FE2eRjY56tj/2d27Lb7bJYEUQ6MUfAekT3oGETPEZU3d2rX2NqIdere0BEG0iOaSPpirlGBvKL8agrYtmtZiz2E1rtg2Lfov5q6qnmIH2ikrreiFFxX7VoYZkfO2vO36ZymUvkPGYLBNBjesM233hB9aMustUBvLkTVbqvy9Wa80PIRpwBEEO98927ISL+IqLEiwwmrD5QG3vCQmTYMgWuuIwEIzs7fiWjXkksgr4fYUCYgTVE6pEo1dtelK2fyOEfoiuudq+Ox+yCTHb/GkTEccVEsP/nM1ouHEh/zd+52pEPBtO3WKl+hDNQudtHG3ZN4DgwE6hKkmlO9aoH5kJORD3TIQS7bapOoGo4yiTBHPOAsLnzYRAyYMow4eh16n2n1vVQl4DOnHIvWmepF32EAF8tyFG2HxYECAwEAAQ=="
+	},
+	"oB15phYOvPA=": {
+		"serialNumber": "7c9dfc30297975967f",
+		"subject": "CN=GERENCIA REGIONAL DE SALUD CASTILLA Y LEON (SACYL) 2022, 2.5.4.5=Q4700608E, OU=SELLO ELECTRONICO, OU=GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEON, 2.5.4.97=VATES- Q4700608E, O=GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEON, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-04T13:00:00.000Z",
+		"notAfter": "2024-08-04T12:59:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "f868a86d0d51ed3d17a6de6bc5069d6775a1bdc3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEIsvwZdTfvWT/RbRc/RIDpHXXwtxH1qmFjpemBxSilINh1Zr4DFL76omkOwx4ALia60a9fAPkPooGd5z8NYXCA=="
 	}
 }
