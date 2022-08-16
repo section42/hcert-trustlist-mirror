@@ -9607,5 +9607,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFYI5si93dvujjcJI22r5BbxPiDKTI+WimkwJJBuUTkXuM7foziyCdZf6miiWll61mcLlebzyAaRIUU1gm/V7xQ=="
+	},
+	"xtZn+Rhnh/k=": {
+		"serialNumber": "11358b6465c616d717f0d4848d184220806c3a08",
+		"subject": "C=PE, O=Gobierno de Perú, OU=Ministerio de Salud, CN=Gestión de Credencial de Inmunización",
+		"issuer": "C=PE, ST=LIM, L=Lima, O=MINSA, OU=MINSA_OGTI, CN=MINSA",
+		"notBefore": "2022-07-08T17:41:44.000Z",
+		"notAfter": "2024-07-07T17:41:44.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "0d271593cd35e977cc32308268b9ed654065ab6f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE15XJjx2rb2ifG5RY2sUlNJmXHlbS4GgEdJXm3l5nk2PyY951Pp79s/B2PHM7IW2iNDWFOJxox3uAmlBICt59yg=="
 	}
 }
