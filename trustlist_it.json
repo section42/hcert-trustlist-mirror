@@ -9680,5 +9680,49 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEIsvwZdTfvWT/RbRc/RIDpHXXwtxH1qmFjpemBxSilINh1Zr4DFL76omkOwx4ALia60a9fAPkPooGd5z8NYXCA=="
+	},
+	"4hK1P5cAKXA=": {
+		"serialNumber": "01",
+		"subject": "C=MK, ST=North Macedonia, L=Skopje, O=Ministry of Health\\, North Macedonia, OU=Ministry of Health\\, North Macedonia, CN=zdravstvo.gov.mk, E=contact@zdravstvo.gov.mk",
+		"issuer": "C=MK, ST=North Macedonia, L=Skopje, O=Ministry of Health, OU=Ministry of Health, CN=zdravstvo.gov.mk",
+		"notBefore": "2022-08-16T18:38:16.000Z",
+		"notAfter": "2023-08-16T18:38:16.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "48f599635c364400ec5399d8785079cf346af89c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 4096
+		},
+		"publicKeyPem": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5zjO9EHmPkHAn9J17+p0SRttpPbom4/IaIZx4A06pf9B0H/3/80m2CgNmgnB09pLbpUqyw2fdDAQmia9ua+3OeXFTDAATAMYDtwEFOJDmS6Jic36ca/ol9eQQz07J3sH1NSzteSBvxqzKCIXnaSLV1vRLNMjc854V6JEwEUZw7NZZ13SU4OvoUBuoenb1hbZ7ckuHrYp6euvOV5bGp6+LpxNQXLTYGDKibZ8JtkLJZG438bYRJrcWKG0TCRol78VAYpm5wSkY9At3HOElyfnFvJiN12hEbtq2UgySwlAEz1DoxHAgfleyfrHf1FEbOJWvWtEY/1jiCPLDU4cnvEZGrxCYfyoh0Nkrvti2CU9nj4J/I3RDreXOuYLuwzyXnXozmBN80qF7zyV+bzRY4TCxIC5vilELQ2rY0UaUQfN5HnkUbRZdV4ZRrg8DaXoX5ykJoT/BVf2k7rKypeOjnXMwFRfwpOesjNd4PQ+sv+7MkKzPAi3WtfkYERzKb3sH/bXBRbdj+DMzw/A+Jfn9tYQ5p1rSE/nawfO1heUdjSGiHcHJAqQCwaA01twE9Pxtm+JqZDmHmStzd1yNLbfUNzhMTYEN6zTyibqIcqKx3DOQVMRjfv90mw7V+suXjMXrSCzG8m3WUoUb2Vg2rQ5/d5NePZdfS/e+BPM6LAQOAfx2jcCAwEAAQ=="
+	},
+	"9wMJ+Ipb7Mo=": {
+		"serialNumber": "01",
+		"subject": "C=MK, ST=North Macedonia, L=Skopje, O=Avicena Lab\\, North Macedonia, OU=Avicena Lab\\, North Macedonia, CN=avicenalab.com.mk, E=lab@avicenalab.com.mk",
+		"issuer": "C=MK, ST=North Macedonia, L=Skopje, O=Ministry of Health, OU=Ministry of Health, CN=zdravstvo.gov.mk",
+		"notBefore": "2022-08-16T18:31:55.000Z",
+		"notAfter": "2023-08-16T18:31:55.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "2256da01cb67886ba7967205dace3bbd21c658da",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 4096
+		},
+		"publicKeyPem": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtrOd8Ko4mBZbdUrAMm/UQWuju26GbeR0bGVUvcZGV49eqa7PW5RQe0GBR2ZPI1mVy/3xwx0vLuOdVcBDQN4oe9gw7XNyXDTwUMTynfiaEnRRZY+gUqjkVfYkqW97nZEqXYpiI2tyvop9uXHriELCtr7A6xiAugbeZ1sJbKBKUYAUFAfdxGv6RwWX99SR9kS2WfFIoW65QQpS0Mer77qGRk0AeMrRJqPSsSbliRyFO0UcSi24I+IBrbKWieWmPxP3qGSOE4izpymPqMZHAnMfPdHb4FxoHJ5loF3TtuTuzMqPV28BuJlKLMQDx353TI8FfSGzJKvX1EW2jXygPNnOpHA/tMf6Ayo12ySuhTKIumFEFn6iQUueO8S1fPEMu/KrO0we1sMhDBo7z59lXFYMjKnePdDs1nM27a7gJdsg07a0tuB3BVbnDJqztYUdvaaz7LA77znWB0Qnbo4UVBtillMnIXqzzqkTzmYNN/FtR74EwtqY6zsVeKsafAD6IqtwPctIN08i/qAFN4/4ngPHERrZjw2Kci+sIGnksrPsjgwYVwkNgStd0PsaKtwU+tpnplEuVrSuJ/RaUATC/QdT0Q9CyGUQigKCN+0+QBiAqlJ3stf0O0ctkdY7yEDVDuuXFu2A+hYJ4+gFT0fvk0VnOJVO3/GRRYdcFS1d20EJCZ8CAwEAAQ=="
 	}
 }
