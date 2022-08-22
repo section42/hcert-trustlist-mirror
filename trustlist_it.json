@@ -9834,5 +9834,61 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArRq6d4TNaIRhQWHWnmFGyyDVDarzry+wPXIOsP0gyUHyLo2cG/btAyoHQwWcmd+cactYgboEBLvyW04AKlSLQSgELH0jDyd+gZsQFeEWnMxvsii5UFNb+PKkpVqTc+kthf8FsQoPIZPz4t8haEaOwinwPBYrvzxNhhLa73KBieJFWMTVvx/QnP5PtnnLnw+rhmuh21l+xZ+K+/WvI/JFTcq9DmYME1Kuk/7r4xjlFnSw4vOE6Z7Demoa8unjuwZjbilss9LqXHq6jETmOqEilbkxVuYPSeS6qqTVt7H2QL5z24D64VYD5Mh4LuYtfZBFfbxtLiBazVGIYuNE4wQ99wIDAQAB"
+	},
+	"7JiMkpiusvE=": {
+		"serialNumber": "19876d8aa5b664968f",
+		"subject": "CN=CEUTA 2022, 2.5.4.5=S6100007A, OU=SELLO ELECTRONICO, OU=CIUDAD AUTONOMA DE CEUTA, 2.5.4.97=VATES-S6100007A, O=CIUDAD AUTONOMA DE CEUTA, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-12T09:30:00.000Z",
+		"notAfter": "2024-08-12T09:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8e2167c5a7a3aa7b8b174b78dc26707d429ac690",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwrJtv/j+zgaKjJxkGhsEognt8UnhwOJndcIWVd1orTO1WwyV5AEVAl9iUkWQSvWYAQ1IqRTvwyOy5aHVoMsqWg=="
+	},
+	"gYKFoHFI9cY=": {
+		"serialNumber": "5af7d5fbd5af7969fe",
+		"subject": "CN=Secretaria General del Servicio Canario de la Salud 2022, 2.5.4.5=Q8555011I, OU=SELLO ELECTRONICO, OU=Secretaria General del Servicio Canario de la Salud, 2.5.4.97=VATES-Q8555011I, O=Servicio Canario de la Salud, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-12T09:30:00.000Z",
+		"notAfter": "2024-08-12T09:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "b3cd194c970b3361467d18c3cb7a2e1c292b0e39",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGEHteEnU/XxOEa1mLuQV3Y8Ek/OZ0aQYS8ETDeJUdq3ab7aUXvv96yjPX8fmYY5+wQYZOCGeqTM5IEWFToUC7A=="
+	},
+	"jSYxfNKNus8=": {
+		"serialNumber": "112143a69903aa9e65ff96de99c3c3bc74b8",
+		"subject": "C=OM, O=Ministry of Health, CN=Oman_DSC01_Tarassud",
+		"issuer": "C=OM, O=OMAN National PKI Center, OU=Government, CN=Device CA - 2",
+		"notBefore": "2022-06-01T11:20:50.000Z",
+		"notAfter": "2028-06-01T11:20:50.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "8168fe397639fc7f9a9207d51ac7478fea2cb097",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 2048
+		},
+		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4/1oXiC05yJF1YRYu+QkiSHbbzuPwm/+i0sHJEv25b2Y/vW1MwDT94LLE+KGVJK+t4DI+NmU3PyFCaBw8rEi9BRt6zfxJgG87PP/82YVQXCt/8Bay/5poeF0wEnV9hFxoSdqwbtbv58uV/TXDf25A6EQeLu8t8zNGI+++xqT6nMsBsFM2xFQxsYggFajPq1JiMLBcKuRprrStxo3Gpa74PIB3yG6OtoCswYN69Iqn/6c2OYb1Xv5BqRU5O1Y7zoQOuEsWsz38pDZyKFA47zu2uerxuXnOwq4oUqxReToVPW0DRH9LqGIeQ2rT+VIeIk89OngWtf6zmrMELetzITeawIDAQAB"
 	}
 }
