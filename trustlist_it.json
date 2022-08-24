@@ -9890,5 +9890,22 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4/1oXiC05yJF1YRYu+QkiSHbbzuPwm/+i0sHJEv25b2Y/vW1MwDT94LLE+KGVJK+t4DI+NmU3PyFCaBw8rEi9BRt6zfxJgG87PP/82YVQXCt/8Bay/5poeF0wEnV9hFxoSdqwbtbv58uV/TXDf25A6EQeLu8t8zNGI+++xqT6nMsBsFM2xFQxsYggFajPq1JiMLBcKuRprrStxo3Gpa74PIB3yG6OtoCswYN69Iqn/6c2OYb1Xv5BqRU5O1Y7zoQOuEsWsz38pDZyKFA47zu2uerxuXnOwq4oUqxReToVPW0DRH9LqGIeQ2rT+VIeIk89OngWtf6zmrMELetzITeawIDAQAB"
+	},
+	"p8FESgNz/20=": {
+		"serialNumber": "30d653051f43afdfe5",
+		"subject": "CN=Consejería de Salud del Principado de Asturias 2022, 2.5.4.5=S3333001J, OU=SELLO ELECTRONICO, 2.5.4.97=VATES- S3333001J, O=Principado de Asturias, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-23T12:40:00.000Z",
+		"notAfter": "2024-08-23T12:35:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d3405016e027b7406316441c39c6acbcad59a451",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpOPWy5aVJuZ01W/VGOIYV4tUPU5ZNGMe182jkVRPeMI4ec/mbf8F3WH0HI6EF+WIh/bDjOCV4/bXfrwdquQiew=="
 	}
 }
