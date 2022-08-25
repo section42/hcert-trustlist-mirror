@@ -9907,5 +9907,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpOPWy5aVJuZ01W/VGOIYV4tUPU5ZNGMe182jkVRPeMI4ec/mbf8F3WH0HI6EF+WIh/bDjOCV4/bXfrwdquQiew=="
+	},
+	"EMjzLcPnhUM=": {
+		"serialNumber": "1ef719395558e4cc0e7290626131d72dff2ef687",
+		"subject": "C=SG, ST=Singapore, O=Ministry Of Health, CN=dsc.notarise.gov.sg",
+		"issuer": "C=SG, ST=Singapore, O=Ministry Of Health, CN=csca.notarise.gov.sg",
+		"notBefore": "2022-08-25T04:11:33.000Z",
+		"notAfter": "2024-08-24T04:11:33.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6c9a87210a05f50d5f43e37dc1b3fe47bcacca7c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnPs26Jwmq06LO9vji7EHQe81I4zQHplzJCnZAvfTdru6LZgKi+IaHjxowqQ8wEEKL/lWqrJbQVLRMPnJrodVhQ=="
+	},
+	"alyJCgVIcWs=": {
+		"serialNumber": "3e51f824444f3e3dc6a14aef1290601c284998ea",
+		"subject": "C=AD, ST=ANDORRA, L=Escaldes-Engordany, O=SAAS-Andorra Healthcare System, OU=SSII, CN=DSC03, E=seguretat.logica@saas.ad",
+		"issuer": "2.5.4.97=NRTAD-U129638U, O=SAAS, CN=DGCG, C=AD",
+		"notBefore": "2022-08-25T09:50:06.000Z",
+		"notAfter": "2024-08-24T09:50:06.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "a4aad95254a54ed8fc42e0edb0d8665f2c6fec09",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDLjAUZ2HAkYB3JXJQUXHasuyWY/OXe5qO8miKg5z+aYjpLXC8QIHUl5dLrlGhxSP2zBD1zAb4lVguWDHj/mXeA=="
 	}
 }
