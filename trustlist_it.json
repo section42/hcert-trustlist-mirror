@@ -9975,5 +9975,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3z0VjN5L0bevNT7DVx41bI8ExJkUE0VURr1kb2KBJvGYu44QOTz7alpaNBNh1kPBiLs6oLiRvPDOW7qcS48U6g=="
+	},
+	"/23hUqa9yJo=": {
+		"serialNumber": "527f088b83d32e1c3355d70e4952bd9bd7b44d66",
+		"subject": "C=TW, O=Executive Yuan, OU=Ministry of Health and Welfare, OU=Centers for Disease Control, CN=Document Signer",
+		"issuer": "C=TW, O=Executive Yuan, OU=Ministry of Health and Welfare, OU=Centers for Disease Control, CN=Country Signing CA",
+		"notBefore": "2022-09-01T10:07:03.000Z",
+		"notAfter": "2024-08-31T10:07:02.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "5ea06b34fe160e3a02c22978ef442b99aa73bee8",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO6niUgETcAlUOrFpZ3Dz9fMmfHHnxVnka+h24+3E/GYSUYR5M5zWEV3/bumK/K7UdsFLApN4BkyjbN2cPnbRKw=="
 	}
 }
