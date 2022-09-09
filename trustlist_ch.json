@@ -1693,17 +1693,6 @@
       "y": "ACyrLWnN+8AdZVL2rH3b2xPpzWwrzJBj3TIy5bjH094="
     }
   ],
-  "hHffSLS1AIU=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "NFtonAma5ngnltfk78rprtlz8Cue6/t2XzvM/OR3wOk=",
-      "y": "/9Zw+EA1kz9CoxrBbYifNAHneYENCWzF1C/DNpkMkD8="
-    }
-  ],
   "fNstNUxgGSI=": [
     {
       "use": "sig",
