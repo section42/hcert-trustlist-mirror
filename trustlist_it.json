@@ -9992,5 +9992,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO6niUgETcAlUOrFpZ3Dz9fMmfHHnxVnka+h24+3E/GYSUYR5M5zWEV3/bumK/K7UdsFLApN4BkyjbN2cPnbRKw=="
+	},
+	"NQPKtaCLigU=": {
+		"serialNumber": "6f512dd5b48915aa00",
+		"subject": "CN=Servicio Extremeño de Salud 2022, 2.5.4.5=Q0600413I, OU=SELLO ELECTRONICO, OU=SSII, 2.5.4.97=VATES-Q0600413I, O=Servicio Extremeño de Salud, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-09-07T07:30:00.000Z",
+		"notAfter": "2024-09-07T07:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ac6d14a7d31f984f0674b39c507ef55b075357d7",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnefT6WehzWhgXEMIOhXX5OQptv/6FlDWYRdfpDE+rQRcrT8BkNktgyRhJ+U0+ZYnC9aH6uPRk0++vIsYIPEZCg=="
 	}
 }
