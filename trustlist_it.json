@@ -10111,5 +10111,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA2UJnAT6gtgFUkVGnp+1bfCLLpv/TpWOU/YmALVpWxlJWi3ZNWVtJQcf9H1rzLnsHO3EShYZOn1qEV7yPZrm4g=="
+	},
+	"YvL5+ij4oRI=": {
+		"serialNumber": "709710bc1e55152582",
+		"subject": "CN=SELLO ELECTRONICO DE LA CIUDAD AUTÓNOMA DE MELILLA 22, 2.5.4.5=S7900010E, OU=SELLO ELECTRONICO, OU=DIRECCIÓN GENERAL DE LA SOCIEDAD DE LA INFORMACIÓN, 2.5.4.97=VATES-S7900010E, O=CIUDAD AUTÓNOMA DE MELILLA, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-19T08:00:00.000Z",
+		"notAfter": "2024-08-19T07:45:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d8c1a98937216467d01ea50e866a0b21d81b48da",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Tneev+53XUDTDnBo1xIXyyHd9UTb7Mra+dm8w1e88hyEMdIrBdJauIiPUTgdQGrTo2VRBaxVquui1GaYrBfXA=="
 	}
 }
