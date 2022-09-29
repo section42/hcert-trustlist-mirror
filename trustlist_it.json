@@ -10179,5 +10179,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjrnJ+IA3jkq7bL3nfxcBr8A9Z0yQEojOrJt4A9xWKC5RAfBYfGHJu5xOhAQYPAie5uH+OLeOYpK3xWpC5zapbQ=="
+	},
+	"uB5x6/ppPHQ=": {
+		"serialNumber": "03cb7b90ab0a9cb400",
+		"subject": "CN=D.G. DE SALUD PUBLICA Y ADICCIONES, 2.5.4.5=S3011001l, OU=SELLO ELECTRONICO, OU=DIRECCION GENERAL INFORMATICA CORPORATIVA, 2.5.4.97=VATES-S3011001l, O=COMUNIDAD AUTONOMA DE LA REGION DE MURCIA, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-09-13T11:00:00.000Z",
+		"notAfter": "2024-09-13T10:59:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "df29f693853eb1f36cb32ef7b3ef70ca264d7490",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpY6LCyPQhp1u7suHyUANe4OTOadVwv5d3PQOiIeAcuTMlLDoX3pVRQ1PO52HMQjmDdtisWUZAE1ZExquEfT8xA=="
 	}
 }
