@@ -10196,5 +10196,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpY6LCyPQhp1u7suHyUANe4OTOadVwv5d3PQOiIeAcuTMlLDoX3pVRQ1PO52HMQjmDdtisWUZAE1ZExquEfT8xA=="
+	},
+	"m+oEZYKFl7I=": {
+		"serialNumber": "50817fa3758bd466cb",
+		"subject": "CN=SELLO MINISTERIO SANIDAD CERTIFICADO COVID19 DIGITAL UE 2022S2.2, 2.5.4.5=S2827001E, OU=SELLO ELECTRONICO, OU=SELLO MINISTERIO DE SANIDAD CERTIFICACION COVID-19, 2.5.4.97=VATES-S2827001E, O=MINISTERIO DE SANIDAD, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-09-23T10:00:00.000Z",
+		"notAfter": "2024-09-23T09:59:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "1057a64fb4eddb50bac7bf71c5d94d92759172a4",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpGmfNDVquOutOvidgmUzzZQRx5KZveDCNyLWpTJ/J2JPPl3LQ+vqcCIQD0qQEx7SzRxnlfdvQAafcSytbTQang=="
 	}
 }
