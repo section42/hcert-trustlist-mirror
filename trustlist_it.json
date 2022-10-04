@@ -10417,5 +10417,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5/Zd0TDPxzVTS94I92lfB7IJnMmdU52pgFbJ09jhP0P7So1PgCWFPaOciHrK1er3bmD3G8immSi2HSPcva2gjw=="
+	},
+	"uu5uT16n3b8=": {
+		"serialNumber": "7ef228a98af8a32fc258f1473c5a158138003cb6",
+		"subject": "C=AM, ST=Yerevan, L=Yerevan, O=Armed, CN=DSC_DGC_AM_O2",
+		"issuer": "C=AM, L=Yerevan, O=Armed, OU=DGCOperations, CN=CSCA_DGC_AM_01",
+		"notBefore": "2022-10-04T14:12:30.000Z",
+		"notAfter": "2024-10-06T14:12:30.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "fb96f494fb90474d56d9e66681c9499192b8b502",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqb0DurHnDUGyFHBQIEMEsaDSDNCY1kh4aqL5S+txmm+/0hEZxN7oV/bNHnQoG0bYofLhT3ouQkScdzeUo0GU8A=="
 	}
 }
