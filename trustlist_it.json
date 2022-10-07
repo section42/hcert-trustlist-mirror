@@ -10434,5 +10434,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqb0DurHnDUGyFHBQIEMEsaDSDNCY1kh4aqL5S+txmm+/0hEZxN7oV/bNHnQoG0bYofLhT3ouQkScdzeUo0GU8A=="
+	},
+	"0C7DPfw0Nag=": {
+		"serialNumber": "61ca8d756078979786",
+		"subject": "CN=GENERALITAT VALENCIANA 2022, 2.5.4.5=S4611001A, OU=SELLO ELECTRONICO, OU=CONSELLERIA DE SANITAT UNIVERSAL I SALUT PUBLICA, 2.5.4.97=VATES-S4611001A, O=GENERALITAT VALENCIANA, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-08-08T11:30:00.000Z",
+		"notAfter": "2024-08-08T10:30:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d512e1d5f557b9575842a6bf6a0077fd00e60869",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+m78PsX737dufSB8K/IuoFX+WxS6Cifz/l52jE8bKEpHwJvzMi2Am4gYfqK1MzSQ26UZZIE2/cdjK7OWSeVU3A=="
 	}
 }
