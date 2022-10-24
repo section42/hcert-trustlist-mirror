@@ -10485,5 +10485,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwQx+kMTZGwhcIeQU4B1ONaJwzO/Yl6JgiPbVKvOzmZGfTcoEp84V1wlhHPgZzdcNOaoeBMlRlS2PQIqX/iUlxw=="
+	},
+	"GfN3kOqkfTM=": {
+		"serialNumber": "5c054fb98ccbc1cc",
+		"subject": "C=HR, O=AKD d.o.o., CN=Croatia DGC DS 004",
+		"issuer": "C=HR, O=AKD d.o.o., CN=Croatia DGC CSCA",
+		"notBefore": "2022-10-23T16:37:24.000Z",
+		"notAfter": "2024-10-22T16:37:23.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "860baf32037c1d4bdb8ee2734cf59937d1fdc6fd",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeNETBDGKOAQL/DZ3gWu+TEQstnEyuX3JPZiLEg5Nt3R63cMSKUhmyC8GZenBbFJBvxy+3d/u2Lgw5a6WrCqBjg=="
+	},
+	"m5BYY900gFY=": {
+		"serialNumber": "018409f387898320bf4e",
+		"subject": "C=AT, O=BMSGPK, 2.5.4.5=002005, CN=AT DGC DSC 5",
+		"issuer": "C=AT, O=BMSGPK, 2.5.4.5=002, CN=AT DGC CSCA 2",
+		"notBefore": "2022-10-24T12:24:25.000Z",
+		"notAfter": "2024-10-24T12:24:25.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "c575f4489118ec00b1cecd7cab8e98676caf588c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpsmQDA9d6ERVxW6/KeYlRxjXZUnm5b6W459bYMQQ9oCM6szxC0fP9pUN2TLOzsAenxmnWx8JrIpDB48bCCdJKg=="
 	}
 }
