@@ -10553,5 +10553,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOzVMaZ0WBLAjrZheJ2391txNi9Whb+nRrEjg0IF0GjO1jmA5rxFtuznlyLrOFJnFcv/nITGvRu0Yi5XcMqg32Q=="
+	},
+	"K825LkiBCsU=": {
+		"serialNumber": "00efc1945469012e6f0f3a249f1108a351",
+		"subject": "C=SE, O=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer 2211",
+		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
+		"notBefore": "2022-11-10T09:36:44.000Z",
+		"notAfter": "2024-11-10T09:56:44.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "dbe7f4ec5a9e85b5068b7e5f3ec7e66d8c5d6979",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5cX9Xp1+V07wOjdxcXBdyTr6OtYvQo3iiX1ZLC70yTZxcBcLrqx68tEcI2vPOoz+bfzi7P+XXPTbFoBDE2EYnQ=="
 	}
 }
