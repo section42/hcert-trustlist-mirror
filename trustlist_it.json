@@ -10570,5 +10570,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5cX9Xp1+V07wOjdxcXBdyTr6OtYvQo3iiX1ZLC70yTZxcBcLrqx68tEcI2vPOoz+bfzi7P+XXPTbFoBDE2EYnQ=="
+	},
+	"Q7Xo2eHz63E=": {
+		"serialNumber": "6c01a46507abf6fe02e6e06eec9956f9a5445744",
+		"subject": "C=SV, O=Gobierno de\\ , OU=Ministerio de Salud, CN=Gestión de Credencial de Inmunización",
+		"issuer": "C=SV, O=Gobierno de El Salvador, OU=Ministerio de Salud, CN=Autoridad de Certificación",
+		"notBefore": "2022-10-31T16:11:38.000Z",
+		"notAfter": "2024-10-30T16:11:38.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "3722fd3a02ad1b0b6bed6f94639cb009a9d244c5",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8pYlvVYKBSoa4sRdZONLZwasUVA4PMbMuSUocsuMVl6nhTDi5YsIaxuxGIszzOYno8lNqRdUzBue8gtEC7XB1Q=="
 	}
 }
