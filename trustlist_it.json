@@ -10534,5 +10534,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIuCmRJcSs7LPHVDmYojtyzVwwn/oi3EjgW5yTeH9bO7ZCRwEudIp7o+88ISBmf9JadS/kQnDf7iX5t0VL26c4g=="
+	},
+	"ZWKwQvvSurE=": {
+		"serialNumber": "0398735426dc453f",
+		"subject": "C=BE, O=eHealth - Belgium, CN=Belgium Covid19 DSC 04",
+		"issuer": "C=BE, O=eHealth - Belgium, CN=Belgium Covid19 Country Signing CA 01",
+		"notBefore": "2022-11-23T15:18:50.000Z",
+		"notAfter": "2024-11-23T15:18:50.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "2709188c33452126ebf3061e9ea31f8a7268ff40",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAoyMR2nxrThfI/gSSYTfEwCvRHVdi22rJj2lAsj2MY64G+CjbUaeeS768xYtYK6NW8YAn499m94hM0BznRh63A=="
 	}
 }
