@@ -10670,5 +10670,56 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBZfJ2rTXMGGIzi1IXGGwu4Y5OJWOPTQ+rnmLmcP11ddoCxnIAY+W3wwdKmOX6f4Fs1p699UkTKMeVepXI0cvSA=="
+	},
+	"K/movRnK5ek=": {
+		"serialNumber": "473dfd3a158bf6b4e6d5b2a69d90f24a5661e537",
+		"subject": "CN=DSC_DGC_FO_345334_TEST_02, O=SJUKRAHUSVERKID, C=FO",
+		"issuer": "CN=Faroe Islands Health Authority CSCA v1, O=Gjaldstovan, C=FO",
+		"notBefore": "2022-11-24T13:02:30.000Z",
+		"notAfter": "2024-11-23T13:02:29.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9b9633437b9beeb0d215f6eac4bc676aa3ed6178",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeSeOAx5vUokrWLnpRIV7jZP+vMqncgEIITCmNDNyZXAwp4Qge4Y1QJ4xALyIaa2lRzdW2chqpcC6f1m+88uKcQ=="
+	},
+	"jDclcBov6I4=": {
+		"serialNumber": "668602dae2de7b1658bf76fb0bf3ee398f1d8dba",
+		"subject": "CN=DSC_DGC_FO_345334_VACCINATION_02, O=SJUKRAHUSVERKID, C=FO",
+		"issuer": "CN=Faroe Islands Health Authority CSCA v1, O=Gjaldstovan, C=FO",
+		"notBefore": "2022-11-24T13:03:38.000Z",
+		"notAfter": "2024-11-23T13:03:37.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9e278eca5e5618d064e40586303a0d4a9be9a81e",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/jl9tI6u+68z1uS2F8bYmoxriCrhnb2//bOJ68fJ6LLG/hehlkGsjJZ8w/YDaz2gqBp1C+CZCwKTmS1GaQAcMA=="
+	},
+	"tcGfF2l6kic=": {
+		"serialNumber": "273fcc4981e789825a438fac97490680eedaee03",
+		"subject": "CN=DSC_DGC_FO_345334_RECOVERY_02, O=SJUKRAHUSVERKID, C=FO",
+		"issuer": "CN=Faroe Islands Health Authority CSCA v1, O=Gjaldstovan, C=FO",
+		"notBefore": "2022-11-24T12:59:08.000Z",
+		"notAfter": "2024-11-23T12:59:07.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "2c5ec330010df826ddfce0c31dc8092be5208a5c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEB6SJraVX4IFp1nmIKvTQy6zWkdTWPm1RuhKYE2fwTb2U6CsP+W71DJ8CHEg2Z1SJNjvbBNHsVIVTYZafjDDd2w=="
 	}
 }
