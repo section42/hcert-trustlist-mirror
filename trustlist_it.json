@@ -10789,5 +10789,56 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEh8XoK2xbO/fydoj4eRnedjlszGH3ukDL9Y00vCxVWKR1jt3NgmHUQ+hJMD1gcH7dAeLM3JX0DJTJeyrCRqvvyA=="
+	},
+	"/xaQklEBmbA=": {
+		"serialNumber": "372de892a0bccc5e",
+		"subject": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-DSC-TEST-PROD-202212, E=webmaster@llv.li",
+		"issuer": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-CSCA-PROD-20210608, E=webmaster@llv.li",
+		"notBefore": "2022-12-02T09:48:00.000Z",
+		"notAfter": "2023-12-02T09:48:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "de18a31497e8d843a5dc71e3f488d2eee46b77db",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+PAheq1FiejDPBdxeBtQcPW7bBto4GgtPxPRCPbS5tESLG86xuCxSJ/RAqYlI+8Y52slXGsFyUX0WCYrfFsK3A=="
+	},
+	"2okfks4C/Hk=": {
+		"serialNumber": "6fdc8a006c0a8d6c",
+		"subject": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-DSC-VACCINATION-PROD-202212, E=webmaster@llv.li",
+		"issuer": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-CSCA-PROD-20210608, E=webmaster@llv.li",
+		"notBefore": "2022-12-02T09:48:00.000Z",
+		"notAfter": "2023-12-02T09:48:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "bbef4058fb102594e59b29d7a5af07fe36f69eda",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtFwARanpMDz1BXFyFqBWXKilOz6gz92xW+54ZhHTZ07PDxByBw37IrXUYaHnMWuaxmIDz2ek8/mBUKLmktWGSw=="
+	},
+	"TlI0C/O+4RI=": {
+		"serialNumber": "258171352982a637",
+		"subject": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-DSC-RECOVERY-PROD-202212, E=webmaster@llv.li",
+		"issuer": "C=LI, L=Vaduz, O=Liechtensteinische Landesverwaltung, CN=DGC-NB-CSCA-PROD-20210608, E=webmaster@llv.li",
+		"notBefore": "2022-12-02T09:48:00.000Z",
+		"notAfter": "2024-12-02T09:48:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "df5a764fdc17b13413019057d7929960cf95cd58",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZmap8CSnmNUh4rQrMroxFUilvwur0fXlM3kw4gvq6Vz3skY4r+sLxPU013IXpSyjp72V0f6q8qYE18NuHTkZiQ=="
 	}
 }
