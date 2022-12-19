@@ -11044,5 +11044,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5PD8trDdV62NiENkrHD+KwBPcEs8KErCnfTyTnd6UJTqiLBDXtX4TsOSo0ISo+R1tb6RRGZiY/tCkuUKCAAmAA=="
+	},
+	"FXw1biwrLtQ=": {
+		"serialNumber": "430acbc4bfa6c99228fc246cfa0e7a8ed2f659c1",
+		"subject": "C=SM, ST=SM, L=City of San Marino, O=San Marino Innovation, OU=DGCOperations, CN=CSCA_DGC_SM_01",
+		"issuer": "C=SM, ST=SM, L=City of San Marino, O=San Marino Innovation, OU=DGCOperations, CN=CSCA_DGC_SM_01",
+		"notBefore": "2021-06-10T10:39:16.000Z",
+		"notAfter": "2025-06-10T10:39:16.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "388895e790d2174f353db37b4dc1cdab525e96c3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsObqoV61GGoCjER+VyvmUxsJjPfoBKwAqhVuGmPvnALpdrVyDogTgq2FBgixqG8H4xSJtcCV9apwD4AHo6/yWw=="
 	}
 }
