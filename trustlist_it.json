@@ -11253,5 +11253,22 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoCdjiBhBs8wIVtQrcmwIu4t7mKtXI62wPmv1+pGVqb95cdQ8w276vcj8DOWh70FVx5i/W2Kj3m0ileEEU/1Kt45jKUCVEUO2gR0hxQEloQa3oVuWZnUvW4Afnmr2QOw6HDa3O7T2KU1LVwxGsVXA+amnMgwUgKivQlwEBVc2GyrEK3hTZD/qdg9YshUR155zpUJJuUtIHteuu2CG1WFbNayrqIsjbyLFOzaskrA+KlAOLn55tqu1V8NkGqgY2xd1XsVlMAYRlTvlVpnYboBJrjzfwB6NVqTjXJXWFotBlqUx2a21MjSNOA9cDkc9LZhIpMCCGygxEuc2V7xY7Sa65QIDAQAB"
+	},
+	"DKcxE4JQng4=": {
+		"serialNumber": "35bdd798715f9ea1",
+		"subject": "OU=Siren Analytics, O=Ministry of Public Health (MOPH), ST=Beirut, L=Beirut, C=LB",
+		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
+		"notBefore": "2023-01-01T11:38:59.000Z",
+		"notAfter": "2023-07-01T10:38:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "db0e153452e389995aaebb4bd4b8d252b51ea315",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJvqynF/jKuYO61+BdFaMdcLy4tzNG7AurVs3y7wRZMPnAEm+n/Qc7mY0Rl+9eh/EWbvYUdpHjb7bDptehNPNqQ=="
 	}
 }
