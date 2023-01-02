@@ -11270,5 +11270,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJvqynF/jKuYO61+BdFaMdcLy4tzNG7AurVs3y7wRZMPnAEm+n/Qc7mY0Rl+9eh/EWbvYUdpHjb7bDptehNPNqQ=="
+	},
+	"CXeDmxHB9Lo=": {
+		"serialNumber": "300b6d30b12c5bd8db3c8d95db4471fbb5cafe63",
+		"subject": "C=FR, O=DGS, OU=120036017, CN=DSC_FR_01005",
+		"issuer": "C=FR, O=Gouv, CN=CSCA-FRANCE",
+		"notBefore": "2022-12-14T23:00:00.000Z",
+		"notAfter": "2024-12-14T23:00:00.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "e3a2cf4c744ce9eda9748d1c5fef2857eccd3b29",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsAsyQb7jQEwD320sXgSOoRYGwUePRuuALTUS6EdgUdJjDJjCr+xwhVbzqSnrzTH2bi7Y+BaMYEaFMgaUn/NMMg=="
 	}
 }
