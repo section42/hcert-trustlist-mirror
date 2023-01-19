@@ -61,7 +61,8 @@
       "EU/1/21/1618",
       "NVX-CoV2373",
       "Convidecia",
-      "VLA2001"
+      "VLA2001",
+      "Covovax"
     ],
     "recoveryValidFromDays": 11,
     "recoveryValidUntilDays": 180,
