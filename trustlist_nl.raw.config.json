@@ -11,6 +11,14 @@
   "configTTL": 86400,
   "configMinimumIntervalSeconds": 3600,
   "configAlmostOutOfDateWarningSeconds": 3600,
+  "contactInformation": {
+    "phoneNumber": "0800 - 1421",
+    "phoneNumberAbroad": "+31 70 750 37 20",
+    "startDay": 1,
+    "startHour": "08:00",
+    "endDay": 5,
+    "endHour": "18:00"
+  },
   "upgradeRecommendationInterval": 24,
   "maxValidityHours": 40,
   "clockDeviationThresholdSeconds": 30,
