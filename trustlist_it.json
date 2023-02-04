@@ -11529,5 +11529,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElJNyu7iyJACDLdk1cpFboAfaOfCFzIzxfOzmCpA1z2hJGDLgxxNwivzwFXbmHxrfjtFFWTCzYQsdmWS585Gk8w=="
+	},
+	"9f6QkHHzg8U=": {
+		"serialNumber": "5697dd33601f0699e02ec8ff8da44d70eadf1c5c",
+		"subject": "CN=DGC DS Signer 2, OU=LEPL Information Technologies Agency, O=Ministry of Internally Displaced Persons From the Occupied Territories\\, Labour\\, Health and Social Affairs of Georgia, C=GE",
+		"issuer": "CN=DGC Country Signing CA, OU=Public Service Development Agency, O=Ministry of Justice of Georgia, C=GE",
+		"notBefore": "2023-02-02T17:17:25.000Z",
+		"notAfter": "2025-02-01T17:17:24.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "b0239d393538258e0283d40edf937979d71a877e",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA/MWXwcXu2MuFsLj27vIREee5Jbol9bLM1Utzd/4csaR0PLlM/HeA56VXadf5b7/GtqHWV2rzKscySBVJRLJHg=="
 	}
 }
