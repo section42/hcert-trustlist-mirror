@@ -11529,5 +11529,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEs1cwe4sDIQ+3BwQn3FgDQcq89FLfGU5LLKSjTslC5P41V1PxGwm7upBfJSEnz4dhgalQdHcVE3hGkEEdxjWFfg=="
+	},
+	"PBpDVqnJ7Us=": {
+		"serialNumber": "00815a02704a550479",
+		"subject": "C=IE, O=Department of Health, CN=validateqr.gov.ie 2020135457912391810539600999694555",
+		"issuer": "C=IE, ST=Dublin, L=Dublin, O=Department of Health, OU=eHealth, CN=CSCA_DGC_IE_01",
+		"notBefore": "2021-07-07T09:31:21.000Z",
+		"notAfter": "2023-06-27T09:31:21.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6d7d24efe8d49d1a3339e56dd2b89e4076b6c684",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETPE5ItolrGzLQLPqYxOT+orVmYJusLDsPWLwrK+bbJKBBtXBsrD2Py/osWYr9LF5ffORpzxmBUQmzp7K4uPiIw=="
+	},
+	"eNNsg2jd4wA=": {
+		"serialNumber": "00815a02704a550477",
+		"subject": "C=IE, ST=Dublin, L=Dublin, O=Department of Health, OU=eHealth, CN=DGC CSR",
+		"issuer": "C=IE, ST=Dublin, L=Dublin, O=Department of Health, OU=eHealth, CN=CSCA_DGC_IE_01",
+		"notBefore": "2021-06-30T13:38:55.000Z",
+		"notAfter": "2023-06-30T13:38:55.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e781fb7ed3fa8437e6f1eddada8c07ca2b2c9c38",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZfUiZPt+jvUVd8fpPkv2xoXxluGZwuvys0oXWRnPOBcDeGmcMszJ7gQNKS0xOZ33xtY/9rhivmjVU67IHcBM8Q=="
 	}
 }
