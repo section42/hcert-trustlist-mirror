@@ -11580,5 +11580,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfcpvaiBORvT/HS7h+TsXckEpKDJ1T1LQ9jdA4f0A4I/zACPH0EgwTPjbrSGHd7wm8SihF1+Pdfif44lrtwm7PQ=="
+	},
+	"pJabbimpi88=": {
+		"serialNumber": "1010b2c4861a18babb55302bf1bccabd64cc3e1b",
+		"subject": "C=HK, ST=Hong Kong, L=Hong Kong, O=Government of the Hong Kong Special Administrative Region, OU=Department of Health, CN=DSC_DCC_HK_01_PROD",
+		"issuer": "C=HK, ST=Hong Kong, L=Hong Kong, O=Government of the Hong Kong Special Administrative Region, OU=Department of Health, CN=CSCA_DCC_HK_01_PROD",
+		"notBefore": "2022-12-22T07:04:54.000Z",
+		"notAfter": "2024-12-21T07:04:54.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d605d32af8d2a8a99594895e8dbced8ed4346cbe",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBRdVi6fhDF3/30szA0xYE/sQITnJW3Zel/TgIYnVvNusRo2S3/lbvyH+6aGgCITcNIFYuFn90cy7KARC4/HP8Q=="
 	}
 }
