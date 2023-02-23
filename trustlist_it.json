@@ -11597,5 +11597,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBRdVi6fhDF3/30szA0xYE/sQITnJW3Zel/TgIYnVvNusRo2S3/lbvyH+6aGgCITcNIFYuFn90cy7KARC4/HP8Q=="
+	},
+	"uze2D2dL99E=": {
+		"serialNumber": "74a495a17f1a004697fc64d3c435cdfab5c53f1e",
+		"subject": "C=AZ, L=Baku, O=State Agency for Mandatory Health Insurance, OU=State Agency for Mandatory Health Insurance, CN=CSCA_DGC_AZ_PROD",
+		"issuer": "C=AZ, L=Baku, O=State Agency for Mandatory Health Insurance, CN=CSCA_DGC_AZ_PROD",
+		"notBefore": "2023-01-25T10:51:23.000Z",
+		"notAfter": "2025-01-24T10:51:23.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "90135b122c63f86ff1d1a113254420bbfbf48714",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEiFxAP1YYhkgj4zLS5zbVNn65gabaP5J/7eTqE84WEq3D77suE/HfzsHRyv8mJdgsglDeOdmPy/Lerr2t++WLEg=="
 	}
 }
