@@ -11772,5 +11772,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kNcmv1YdXsPrtFdRpNR0bNTpi45bxSQS7j9EeMoBwL0oECnKdDPk73rkEwHFTRNl8KFFIVNH/vbF2cLvzOG4Q=="
+	},
+	"nKJyBN8USUs=": {
+		"serialNumber": "6151a072",
+		"subject": "C=GB, O=NHS Scotland, ST=Scotland, CN=DSC-DCC-GB-NSS-07",
+		"issuer": "C=GB, O=NHS Scotland, ST=Scotland, CN=Scotland DCC CSCA",
+		"notBefore": "2023-03-07T11:52:02.000Z",
+		"notAfter": "2025-03-07T12:22:02.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d3f6ff716bdf543c35cecc0b2d60590ca4b59e31",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY5OP2EvFENqMqZ45MFhNF/ZOVle1wa8uqybP9Z8aanUxZ7cIMGW+7dgsLeUAVRvRL4RHyFU3ZJWxRozn9/xguw=="
 	}
 }
