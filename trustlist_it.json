@@ -11789,5 +11789,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEY5OP2EvFENqMqZ45MFhNF/ZOVle1wa8uqybP9Z8aanUxZ7cIMGW+7dgsLeUAVRvRL4RHyFU3ZJWxRozn9/xguw=="
+	},
+	"umFDVUdIS8Y=": {
+		"serialNumber": "19af94ad2d8db9cf00647c262525e8ccdbdd8473",
+		"subject": "C=ID, ST=DKI Jakarta, L=Jakarta Selatan, O=Kementerian Kesehatan Republik Indonesia, OU=Digital Transformation Office, CN=DSC_DGC_ID_03",
+		"issuer": "C=ID, ST=DKI Jakarta, L=Jakarta Selatan, O=Kementerian Kesehatan Republik Indonesia, OU=Digital Transformation Office, CN=CSCA_DGC_ID_03",
+		"notBefore": "2023-02-15T18:11:42.000Z",
+		"notAfter": "2025-02-14T18:11:42.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "5fda6164ab8d7c8826098b7ebd8d6b21374230c6",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZURZd9lrtOvbVxg4zpGa+D/mlQSVzWwTlbrdnI3hzHZF5pGgeVT4InxNdaU1th1UhBuHmoSsnE4kfgEEYtH6ag=="
 	}
 }
