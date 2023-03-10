@@ -11688,23 +11688,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEWseqv4gmyanWe47QNCEP1YjyX876paA6Tbf6fNIIUa9ufnwGRNcFzHlpjhttG66IdLW/028F3fpONEF092lBA=="
 	},
-	"Vlldx7CG5+g=": {
-		"serialNumber": "615086d0",
-		"subject": "C=GB, O=NHS Digital, ST=Gibraltar, CN=DSC-DCC-GB-GI-10",
-		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
-		"notBefore": "2023-03-02T11:33:33.000Z",
-		"notAfter": "2025-03-02T12:03:33.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "a1f297ecdac8c0d33fb1c1090d52b9a8a6c5b1ad",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3XKdSL1p2ykZrVOrh9o1cZMTOdhOGs9aNx6/5rSIbZFk8/HcrSQtkDdQl4r5RwAmw0YYmRi10ToGoYbWc3FRnA=="
-	},
 	"YhnwRKhmcgQ=": {
 		"serialNumber": "61507569",
 		"subject": "C=GB, O=Department of Health, ST=Northern Ireland, OU=DHCNI, CN=DSC_DCC_GB_NI_DGC_5",
@@ -11806,5 +11789,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZURZd9lrtOvbVxg4zpGa+D/mlQSVzWwTlbrdnI3hzHZF5pGgeVT4InxNdaU1th1UhBuHmoSsnE4kfgEEYtH6ag=="
+	},
+	"IF7OWhUiYYk=": {
+		"serialNumber": "5c271337e713463f616b32498e6820b7d8550252",
+		"subject": "C=FR, O=APHP, OU=26750045200011, CN=DSC_FR_018",
+		"issuer": "C=FR, O=Gouv, CN=CSCA-FRANCE",
+		"notBefore": "2023-06-09T22:00:00.000Z",
+		"notAfter": "2025-06-09T22:00:00.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "ec0601b230805b79aeea30d3dcea9e99e9c819e0",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEukDt11Uv1EbFBKN4UHabjpMgEXyrCCZfT0mUXIgO9RQSbKdAxdPCms3KdY9+VTyrKu2tLeeR9zShlLKNlYI98Q=="
+	},
+	"m5gZzjeaEz0=": {
+		"serialNumber": "78079ef19f5bdac32829e094fdbc1b389df56c75",
+		"subject": "C=FR, O=APHP, OU=26750045200011, CN=DSC_FR_017",
+		"issuer": "C=FR, O=Gouv, CN=CSCA-FRANCE",
+		"notBefore": "2023-06-09T22:00:00.000Z",
+		"notAfter": "2025-06-09T22:00:00.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "1ac3fa7e4b804f7de470fc775c7858477f477a48",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhhjGvqM8JzP5ysxIWoOhADh9HApdXjEypRMV3YhIPkngFCT2w+xgmVDByxJTr6dzU5cgIDvjF1U8+kwHjXYebA=="
 	}
 }
