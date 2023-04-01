@@ -7545,5 +7545,16 @@
       "x": "cPIHBO/4CS6wpjdYBaRVCeTJsAkfoJz/Nk/kE4VH9Xs=",
       "y": "B6hGGUXA+hYh4fghHC8Le/8m3gd/Hzmn0VJWH2DX85E="
     }
+  ],
+  "aGJvcULWG4U=": [
+    {
+      "use": "sig",
+      "alg": "ES256",
+      "n": null,
+      "e": null,
+      "crv": "P-256",
+      "x": "y7yDDDHEC6VAlMLZH7kl/sPEpLfRDoxqohl84O/9GFk=",
+      "y": "zUcHkvsMhOc36JJVT24JvFFaggGAwGa0MHjFneiCr/Q="
+    }
   ]
 }
