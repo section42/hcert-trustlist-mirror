@@ -11925,5 +11925,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4Ml6ZEtYKSmwCZEKoSeKlAD2r8VCmVgxIHTBo1cm5kgDk43nXlNpLZRyYA2h2Pubt7Y6yjE/sgC80ktrXkqMTg=="
+	},
+	"9yIRbTb0aYI=": {
+		"serialNumber": "6d58243f491c6cf36e62bb7c709056d159a4e1b2",
+		"subject": "CN=IS-DSC-2023, 2.5.4.5=4, OU=National Centre for e-Health, O=Directorate of Health, C=IS",
+		"issuer": "CN=IS DGC CSCA 1, 2.5.4.5=1, OU=Directorate of Health, O=Directorate of Health, C=IS",
+		"notBefore": "2023-04-11T15:18:22.000Z",
+		"notAfter": "2025-04-10T15:18:22.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "a55961fe3c32cf04b83f6d8ae216afb22b9929d8",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWFK4cn2YOy0gLtR0C+F9lelwEZjWKIpSh6e0JBhLSQyp+qlOZQtu+OP89/IPGnLcr1UEQAQu9Ml53sY/BZdBKA=="
+	},
+	"t8xpbk81r/E=": {
+		"serialNumber": "1693b8634ccd17c2568218c93439c073564da469",
+		"subject": "CN=IS-DSC-testrec-2023, 2.5.4.5=5, OU=National Centre for e-Health, O=Directorate of Health, C=IS",
+		"issuer": "CN=IS DGC CSCA 1, 2.5.4.5=1, OU=Directorate of Health, O=Directorate of Health, C=IS",
+		"notBefore": "2023-04-11T15:19:59.000Z",
+		"notAfter": "2025-04-10T15:19:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ec948c84dfddcb193705a564aa19895a63cbb416",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExtg+vIBsHlWCpwLhwpdWR/uXgNyNt7F+tJVYzHSKloRtFwESr/7ejx4UFdB6GCoYwFtdXgtQEPKgzF1k0NVUEg=="
 	}
 }
