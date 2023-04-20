@@ -13234,5 +13234,56 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEK+Pyv1sPwdwiL+Z/s8+P+ZKKRN3jYfLJ/wQE4MvkDVIs3k+SrlKGcS2KbwKcwlkBeCyHQtcEzDp4TfUlwx+7RA=="
+	},
+	"TL1/HDUPQX8=": {
+		"serialNumber": "4db2d37792855d31",
+		"subject": "CN=Poland Vaccination DGC Service 4, OU=eHealth Centre, O=Ministry of Health, C=PL",
+		"issuer": "CN=Poland DGC RootCSCA 1, O=Ministry of Health, C=PL",
+		"notBefore": "2023-04-14T08:04:25.000Z",
+		"notAfter": "2025-04-13T08:04:24.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "91ac156f1a1ecdfdd1303a8cf233a22e2dd071fc",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBHeHxOXkQw6LxkfNi3M7pbQ77/8bZhFkSpdgU/rwVrmA+zFz2DZ4csjnRnpouNU4zNW/OgoCbCRxRFPVZfLIYg=="
+	},
+	"ViMa4BIRCAw=": {
+		"serialNumber": "22dd0a67a97e1f83",
+		"subject": "CN=Poland Test DGC Service 4, OU=eHealth Centre, O=Ministry of Health, C=PL",
+		"issuer": "CN=Poland DGC RootCSCA 1, O=Ministry of Health, C=PL",
+		"notBefore": "2023-04-14T08:03:02.000Z",
+		"notAfter": "2025-04-13T08:03:01.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6ddfd86d14a08dbe2ec646c0bb5e35c5ecafb208",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyGf2KH+LUEuYHMPHg+3LsserH9fZNOfll7AtJ7V6FR9OsTGHDLWvOLhIV8RznvCDd3cnKueWApxXHHEWuxMQjg=="
+	},
+	"l1qPmiHu4uM=": {
+		"serialNumber": "7c0c970d185466a0",
+		"subject": "CN=Recovery DGC Service 4, OU=eHealth Centre, O=Ministry of Health, C=PL",
+		"issuer": "CN=Poland DGC RootCSCA 1, O=Ministry of Health, C=PL",
+		"notBefore": "2023-04-14T08:00:54.000Z",
+		"notAfter": "2025-04-13T08:00:53.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "866f76816c51d1d0eb82b614daffea8749b934cc",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGbWDpQ/1o9KjkX3QkfwEjPzLt8N1jHRjbBCtpX2i5Z2oQLxoc8sFVpoBaN+5m+VruruytPBnKdLEK7SNwRz+Bg=="
 	}
 }
