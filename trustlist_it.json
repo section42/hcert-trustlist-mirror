@@ -13285,5 +13285,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGbWDpQ/1o9KjkX3QkfwEjPzLt8N1jHRjbBCtpX2i5Z2oQLxoc8sFVpoBaN+5m+VruruytPBnKdLEK7SNwRz+Bg=="
+	},
+	"v4zkm2UjauM=": {
+		"serialNumber": "5bf43c8e477e7dd049a83c1990d2d2b888d2edaa",
+		"subject": "C=SI, O=NIJZ\\, National Institute of Public Health of Slovenia, OU=NIJZ eHealth, CN=Slovenian Digital Covid Certificate Signer 2023",
+		"issuer": "C=SI, O=NIJZ\\, National Institute of Public Health of Slovenia, OU=NIJZ eHealth, CN=Slovenian Digital Covid Certificate CSCA 2023",
+		"notBefore": "2023-04-19T12:19:18.000Z",
+		"notAfter": "2025-04-18T12:19:18.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "29602bb0bf1e57ed42b72a3b3e63209f35bdd094",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/JLE6RJ9O/+hM++WOyp+Ux+CCWdObPbp/DurxyI3OcMLWEx0MCz0QOHPk6cRUXOa8k192yyx8vdkCGfRruwY9A=="
 	}
 }
