@@ -13302,5 +13302,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/JLE6RJ9O/+hM++WOyp+Ux+CCWdObPbp/DurxyI3OcMLWEx0MCz0QOHPk6cRUXOa8k192yyx8vdkCGfRruwY9A=="
+	},
+	"djYcr89uEaU=": {
+		"serialNumber": "72506d701574f72cf13a6c05ca2287cc011f35ab",
+		"subject": "C=SG, ST=Singapore, O=Ministry Of Health, CN=dsc.notarise.gov.sg",
+		"issuer": "C=SG, ST=Singapore, O=Ministry Of Health, CN=csca.notarise.gov.sg",
+		"notBefore": "2023-04-25T02:33:21.000Z",
+		"notAfter": "2025-04-24T02:33:21.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "578d87db55a84c87546441efbb98ee75ab92a22c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEN+x535oN970PFQwm0fxdE3iEH/uV5QMtXAyj1uB4pcK6/a5xfKjsi35uGYSI3Z60mewf1/8PVF0XDK2wowpnMw=="
 	}
 }
