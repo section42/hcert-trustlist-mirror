@@ -6534,17 +6534,6 @@
       "y": null
     }
   ],
-  "ErTfWhIUCvU=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "UJx4FK+Gp25yIBhalKruWn171ciCF/eAMsdOiSCRXJg=",
-      "y": "D5Ian0oaEOsGnnX2AE/pDjE5kNObLuf28y/WhnBuV7U="
-    }
-  ],
   "uHB7bsfKi80=": [
     {
       "use": "sig",
