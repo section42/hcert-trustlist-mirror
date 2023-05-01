@@ -13336,5 +13336,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/vzxQ5c26RPWVgse0TzrctJnlpvrub8ljUSaOtJ+9zT6gI7hQMe7RYiGgz01/QOJm9gr7x7ylmteCisXAUc6tQ=="
+	},
+	"VW3GqG9r9/s=": {
+		"serialNumber": "3d5aca2e7f962271",
+		"subject": "OU=Siren Analytics, O=Ministry of Public Health (MOPH), ST=Beirut, L=Beirut, C=LB",
+		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
+		"notBefore": "2023-05-01T10:39:00.000Z",
+		"notAfter": "2023-11-01T11:39:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9cf713f5c2500b15d7ef892130d6239849ef1c82",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExOyZbpH9dhb84cTWY9qbfmS4yRYSkO3/6dueAVDoh2yjdGyKf3oreecMKVIk6I1KTeKbw3/rooGU97bmLBFA3Q=="
 	}
 }
