@@ -1242,17 +1242,6 @@
       "y": "TIo2cmeHNpA9zskx5X0zWtZktPc151zSSqmcqotxhkM="
     }
   ],
-  "tCM87WnaaQE=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "DOg7lpxitz9+ytOAKFXxS7F4qc9IfKWrj388ETiCbLE=",
-      "y": "ELqGHlhKfuMFzywhe0UaYOmcbfYhhvd2QMMZfINOTmo="
-    }
-  ],
   "ub6Qmv9xtAo=": [
     {
       "use": "sig",
