@@ -934,17 +934,6 @@
       "y": "nGoJWup67janw4mV0DHM+IKWeqXI7SZfsa2tgE82fT8="
     }
   ],
-  "dhSzPDr4G2M=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "sLa/zRhSxxsmrPE/RwPNKXGblvI4JrdqfPNYpuPn3To=",
-      "y": "ZBMW/76HddTLluwYrJphK2XCQvqFriLVtVB/sHFxyXE="
-    }
-  ],
   "e+bFdywyJQE=": [
     {
       "use": "sig",
@@ -6521,17 +6510,6 @@
       "crv": "P-256",
       "x": "lDLtklWh70m/ZT898b+ZihfYomNmxRvYVTcWxqeDIAw=",
       "y": "EnyYiIsH9w9ZRvuotC+p4UXHPzz/JxV7vcQ/j+7vMe0="
-    }
-  ],
-  "L7XIA2gi2ps=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "orGGRfEic2GL5o9XnITdq3nd9d7pWDvy6waSkDMI630=",
-      "y": "/sLwpbkgVd61kf0JC9xXX6XC9hTglmgEef7FzooaX68="
     }
   ],
   "L5zU+YpqrGo=": [
