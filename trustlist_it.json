@@ -1466,23 +1466,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAElH46JUamhvfj2ocSTxw9Eq7nVdP9OzBOxQ/zaWNXN5ucagla6nruNqfDiZXQMcz4gpZ6pcjtJl+xra2ATzZ9Pw=="
 	},
-	"KG9lzdohSY0=": {
-		"serialNumber": "6fbdb8a5e535ddd74ad9489a5df67c9490372a90",
-		"subject": "CN=DGC DS, 2.5.4.5=001, O=Republica Portuguesa - Portuguese Republic, C=PT",
-		"issuer": "CN=CSCA Saude, 2.5.4.5=001, O=Republica Portuguesa - Portuguese Republic, C=PT",
-		"notBefore": "2021-05-21T16:17:11.000Z",
-		"notAfter": "2023-05-21T16:17:10.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "8a959d48bc72e00c304b63deb05ac820ad5b13ed",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnjK8A8ato900a+wQ1IaxJyaeUGQ5lwsYOCRlq47X4DKGe+P3L22utYcGTWtCekBqarcEzzSHH/X+s5aeEQgYYA=="
-	},
 	"2Yv0kajsIlA=": {
 		"serialNumber": "738676d6c91967c5f2d3b51b18ea2740987fdee6",
 		"subject": "C=FR, O=DGS, OU=120036017, CN=DSC_FR_015",
