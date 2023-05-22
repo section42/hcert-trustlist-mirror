@@ -13336,5 +13336,107 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwCNpcwRXc5zbrNTl24xEz1NUzN+LECCnoRKo9a5xOJz1cFV0a63I2AJ//fn3SCao2A+fQN1PUKUQUbmLPTmhiQ=="
+	},
+	"DwHGFQNaDlw=": {
+		"serialNumber": "74ee6550d695fbec",
+		"subject": "CN=MLT-DSC-RECOVERY-011, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8b5523ef4480d4e70b79845671fe766dc979f418",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1mLYESj7Y8FWB8iFnUzz3tLZZsCqBAhjXCrNwjDtqRuR+F7hyCPwOrkI8n3+rJiYSPWOLiuMyNzQDlKQI6nt+w=="
+	},
+	"IePYtKsn7BQ=": {
+		"serialNumber": "7da696c90246fb4f",
+		"subject": "CN=MLT-DSC-TEST-011, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e3e0dec60cb5f8d413604aef3e91db6789bf4607",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEz5Ik7T22VdslwrltTowXTmI516Ulwr8st+Trep7ZITqpJfpLZ17X2/ju74M8orJ9/OheeDDWWe9Qj+Zu4I2t+w=="
+	},
+	"UrjpIQtkAcY=": {
+		"serialNumber": "26df99bb14a72c9a",
+		"subject": "CN=MLT-DSC-TEST-010, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "f0daaa1cbb07acc686dab5fefce0c3e6ee5cd7b0",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWlQtOqtceUVzlYeyp/COVg7NDbCmSXuTza2sxrHq198Y7ERRZGNH1/PrO6CEo1vsVU1hshPFTfxITIJIUffULQ=="
+	},
+	"btwLZERdI6A=": {
+		"serialNumber": "7317de485b99efc9",
+		"subject": "CN=MLT-DSC-VACCINATIONS-011, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "25f65517c66bd43ac8352c165218d639504e42ed",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECcBaKkWQMPARGLSJDocZ9L+P95e7YGjxoGhp3Ok7GsGyxk1jtU6+IkeGOi+XpEx26JR5FhOHLgm1i5orIdJ4Rw=="
+	},
+	"e0R61+BzTWY=": {
+		"serialNumber": "1cb56e08533b1019",
+		"subject": "CN=MLT-DSC-VACCINATIONS-010, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "2aa707884d32d3254d54fd2be125158c36bd5eb5",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDi96Nuy2o4/qigIVw+kQH1u7W16v/zVWK+8TcnxLrYjRoQRxx0jDG2xkfZC3wls/LQddjP9JI942lkqVrBUUOQ=="
+	},
+	"rjdzFVbga8Q=": {
+		"serialNumber": "6041f8159549fde0",
+		"subject": "CN=MLT-DSC-RECOVERY-010, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-05-12T00:00:00.000Z",
+		"notAfter": "2025-05-12T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "baa944dc3865c59261a488d51f9439b92ed3c85a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELfO+EinEAoadfHd+Lsag9vY7F6dWVP2v0tbIyWEsqFBwphTgzmzRyC6IQk8RoFwDdTu8QCo+QByOrjt2V6Eqag=="
 	}
 }
