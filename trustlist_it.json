@@ -13438,5 +13438,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELfO+EinEAoadfHd+Lsag9vY7F6dWVP2v0tbIyWEsqFBwphTgzmzRyC6IQk8RoFwDdTu8QCo+QByOrjt2V6Eqag=="
+	},
+	"AP+S5kgjYKY=": {
+		"serialNumber": "1eafb3d1503f4c3dd881faede3257072c77029e5",
+		"subject": "CN=DGC DS, 2.5.4.5=005, O=Republica Portuguesa - Portuguese Republic, C=PT",
+		"issuer": "CN=CSCA Saude, 2.5.4.5=001, O=Republica Portuguesa - Portuguese Republic, C=PT",
+		"notBefore": "2023-04-14T11:36:23.000Z",
+		"notAfter": "2025-04-13T11:36:22.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "844bd3fe02e51bc4f8d51fcdebc6c6ff0382d753",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaP9wEfue2wVlnQXFtPDFHlAo4ERmR/Z2H1tZi3El2xQWZA2S5iGHwebNsuNI0sJ4aGW5bdeDaBOTgGUOgTyMFg=="
 	}
 }
