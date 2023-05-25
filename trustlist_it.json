@@ -13506,5 +13506,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENTvzxKfcjZ2fIiQhOEiIqY1QDTT43ISiUNbfT9JrmK9/e9bFm+c7vClIkd2ND4yx0S1xHynJC8WKPyQWvxNaaA=="
+	},
+	"H5vPbJsm4g8=": {
+		"serialNumber": "2a1941ee3ff39d46c76ea1107c912bb9df00c8f9",
+		"subject": "C=GR, CN=dsc-dilosi-2023.grnet.gr",
+		"issuer": "C=GR, CN=grnet.gr",
+		"notBefore": "2023-05-24T12:30:37.000Z",
+		"notAfter": "2025-05-23T12:30:37.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6dbb727b843f8f7b1c7ea03260c4b74b55466382",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL7wDPdmJP1daIrNucS/88VdYBgOuVTBvJFJhXQEAigtjAo4X6s9Mr5kZeEAn4CD8xjMipqwG6Cxb8t+vZ4Q2Ow=="
 	}
 }
