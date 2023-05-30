@@ -13523,5 +13523,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL7wDPdmJP1daIrNucS/88VdYBgOuVTBvJFJhXQEAigtjAo4X6s9Mr5kZeEAn4CD8xjMipqwG6Cxb8t+vZ4Q2Ow=="
+	},
+	"Ad1F5v1W2j4=": {
+		"serialNumber": "590000000bec1c60e7df259c1500000000000b",
+		"subject": "C=NO, O=Norwegian Institute of Public Health, CN=DSC HN EU 4",
+		"issuer": "C=NO, O=Norsk helsenett SF, CN=NO NHN CSCA PROD",
+		"notBefore": "2023-05-30T12:14:34.000Z",
+		"notAfter": "2025-05-30T12:24:34.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "00901bddfa9ae7f73783da2e13a0a51dc0b7a868",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE22eB/zMSNdZQJ3h91HsAO7Bw1V/h3G3YYY+kbjhq6OE7WcGW2sbr8auNUOa7nQh+A16OdJlHoGH1MC7b6xR+4A=="
 	}
 }
