@@ -13574,5 +13574,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpxBU2GPzUvIZ1G6IfQUMJ67f7sGVH2JGxADPVjVdsQEU9QwBwm4Qw2UVxM60ifOTgkRHwosshUWOwyzkwsp6Zg=="
+	},
+	"xJRTrq1SpL4=": {
+		"serialNumber": "0187224405cd201d8638",
+		"subject": "C=AT, O=BMSGPK, 2.5.4.5=003006, CN=AT DGC DSC 6",
+		"issuer": "C=AT, O=BMSGPK, 2.5.4.5=003, CN=AT DGC CSCA 3",
+		"notBefore": "2023-03-27T08:51:36.000Z",
+		"notAfter": "2025-03-27T08:51:36.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "88c95df1aa3dc868820ed4c8851e22049eb044e6",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAER6TH9dbsy91D348QgR79y/ZewRQ/fAkQwyqxrj2PNkU8iBvUuRI4nIN6Y1vyIIoRoK18p9gdnMFJpEXexf3z1g=="
 	}
 }
