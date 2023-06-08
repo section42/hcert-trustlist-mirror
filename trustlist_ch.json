@@ -1,37 +1,4 @@
 {
-  "e/YRqyv++qY=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "mCCGUDO95y6Rj40KX74cFgc99I9BnFoPBkZ3kcAyo2o=",
-      "y": "v7JjeIG2FpKwtljBK7DfM2d+wvUYQBpR2AzfLTyW4gM="
-    }
-  ],
-  "jYpr5GHCDiQ=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "lHOTKQPe3GZKCAIsaBbPpAfJZ30ftIUsb/r6gHu19cI=",
-      "y": "NtVzH4mQ0LiN8HvNns7Jsoy/4369c5UWKly5m6jq5CQ="
-    }
-  ],
-  "JkFekJel6/o=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "BnFUjr8FpfpVaVFtCUW7Yg6JBk/n1TlJKEKpm/rZOvA=",
-      "y": "BMyqcKEwqV6Vzz9Ujxob0F8yfouHQUB4G3cNkg6XGZk="
-    }
-  ],
   "02vdAOY/+gI=": [
     {
       "use": "sig",
