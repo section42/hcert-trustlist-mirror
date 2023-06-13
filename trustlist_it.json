@@ -13591,5 +13591,124 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAER6TH9dbsy91D348QgR79y/ZewRQ/fAkQwyqxrj2PNkU8iBvUuRI4nIN6Y1vyIIoRoK18p9gdnMFJpEXexf3z1g=="
+	},
+	"2rlddViK8UI=": {
+		"serialNumber": "67f6798d3f0acb30e1cfa0bbd5ed0cf45b21c3eb",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524NZ0025",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T01:03:28.000Z",
+		"notAfter": "2033-09-18T01:03:27.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "fbad183f2dcca8d08e5261900303f19c3e705209",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwv6E2rHSEBYcZvY/WILfmqSmFi4HWbflRZLJZtNpm9v6WUrxQjEvF5OoZMZKyE8wN4C92Q2ht6DnGehi15l1zg=="
+	},
+	"8Fi1J0yeTL8=": {
+		"serialNumber": "7ad9ec262e3d0b3b6ef5d6beba9dd76d822572e0",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524NZ0023",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T00:49:19.000Z",
+		"notAfter": "2033-09-18T00:49:18.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e39e2eed84d58d7d9c59288850c348d4f91e75da",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBr7SLCxhOouYDxFYHBmeyHWsQA3zAEGjNdFM/q/5wMQunb79WUbKFFJKM3TU5PruHs9vBaPhG4+AJYo31xPbzA=="
+	},
+	"Xs6h36a/yLo=": {
+		"serialNumber": "71a8cddc48f6305fc397da83d434e230c8826bc3",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of Tokelau, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524TK0004",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T01:33:13.000Z",
+		"notAfter": "2033-09-18T01:33:12.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "9da8d2d9146daaaa14c41c23cc547ba0439c7bfb",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy3zthXyO/RLfBw/ggFua/0rdTtpeDG9hq97Ujz0SLeunfyz7kLK8L9+1RklIVCndvZMvGSUkG342ueNgBFZjkw=="
+	},
+	"lm9P2vlExI4=": {
+		"serialNumber": "572ac600ea1848ca492d92c5f0ff3ac36057a6e9",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of Niue, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524NU0004",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T01:28:52.000Z",
+		"notAfter": "2033-09-18T01:28:51.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "be803c831e4c1288dd2d924459df635022d2c256",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIun4PyaFyPBbZ/duaqwdcWb+Hf3+26NH4ASHLrU/DF73zb/eAh+iub/qHK+Opvv9aPdxkKTL26mbRxFwMEdOdw=="
+	},
+	"n10wECU3YC0=": {
+		"serialNumber": "118cdf3c0315e42108feddd033b7346957908ff9",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524NZ0024",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T00:58:14.000Z",
+		"notAfter": "2033-09-18T00:58:13.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "c97c3864d0cc94e2d94cc578b7000d3591b96be1",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE5/08F92IxSi07+gX68BKOWplzm1UQi4QlLrsXl5lRvdIO1LdXY2PMtrXQYigd8WaJi9t9BEAivrRNk6itWBZA=="
+	},
+	"sSD9MuSWwRA=": {
+		"serialNumber": "3d06a59c6d468cd6e824b0720db54cd918f0ae62",
+		"subject": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524NZ0026",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T01:08:55.000Z",
+		"notAfter": "2033-09-18T01:08:54.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "594aac01b9c17db8bc7d312bebb6e2c0a9979a2a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE26Kr8raAYUirfZ1eHuVIo+6dAAEEFEwsHDizc9sq58F0SA55R68N+yjCpyTgIlFcMF35Y5WTrpXau/RTsPMuCQ=="
+	},
+	"xbgEaPHREuY=": {
+		"serialNumber": "38292307c909468621ca750883356a5f866fd8e7",
+		"subject": "C=NZ, O=Government of New Zealand on-behalf of Government of The Cook Islands, OU=Ministry of Health, OU=Vaccine CSCA, CN=Vaccine Document Signer 20230524CK0004",
+		"issuer": "C=NZ, O=Government of New Zealand, OU=Ministry of Health, CN=Vaccine CSCA",
+		"notBefore": "2023-05-24T01:18:58.000Z",
+		"notAfter": "2033-09-18T01:18:57.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "7b38ce6583de8182e28b29e4c4a81d288d433787",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXRmq3N1CcmWVr7KB0S746HVtW6ifQgxfkVdX4kG1btD/apeF5K4t7waNgcDgYEkfp4G8qqe0q4IHLOf4mnzYFQ=="
 	}
 }
