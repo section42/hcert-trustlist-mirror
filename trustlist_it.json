@@ -1636,23 +1636,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8SjDdFFGxTunJ0RQyxdGDbBKVUjHz9gKydhpKuTZAvYZMzGVVV7NYhJGQqOp4Ox6wU3y+zY666nfAeaAPcINRw=="
 	},
-	"Z7k1XpIWZOE=": {
-		"serialNumber": "00ace33f75d1033c2c11b6dfc5d84bb0ad",
-		"subject": "C=SE, O=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer",
-		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
-		"notBefore": "2021-06-21T06:07:31.000Z",
-		"notAfter": "2023-06-21T06:27:31.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "efaec05f0f1eaa99709e4837766a409b9aaeec98",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaLOo1IGTspZSdr2BqdAvKjZjHfW/Zq8VDrI6nEhBlXUr3VCDlzjrXo5v6ix2qF9RCySJsHgZxUrqWQpFQbrbMw=="
-	},
 	"e+bFdywyJQE=": {
 		"serialNumber": "6cdb458794b234d5b7e938f79521ac559d72cc99",
 		"subject": "C=FR, O=APHP, OU=26750045200011, CN=DSC_FR_001",
@@ -4209,23 +4192,6 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERFDliGDvd/2OKXevNNyURLSR+0qv7Ajz8C6yTLXJ1QbJCqPrQOVq4CXiyKiit98fWLotTelMpow4z1m09Ys6Ww=="
-	},
-	"+vl/c99Cv/8=": {
-		"serialNumber": "60e1483b9e0b106a8e73cc3c6ead36e5",
-		"subject": "C=SE, O=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer 2112",
-		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
-		"notBefore": "2021-12-08T15:24:13.000Z",
-		"notAfter": "2023-12-08T15:44:13.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "f06c7a8cd8774fb7425fe1531843c5d3f797f3e3",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENqC9CFgwoaauq1YH3Z9eCqrQMj5baENs73YJbL+iXVTs3aBZRYMlmZsHdD5fT74SCqhU5zfAW+RSQTuX5dF37Q=="
 	},
 	"5mk4KIRSvlM=": {
 		"serialNumber": "3351db6ab30ce415d1f4599d927df02a96edac14",
@@ -10048,23 +10014,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE59hlDmRnFKrMPSFDYHWkW4g0xv+7vN6tVoPtrErclaTf3w4o5X07MV8hQ9PmAUarTn6EHmSKuQ4+Vri/VgNBPg=="
 	},
-	"K825LkiBCsU=": {
-		"serialNumber": "00efc1945469012e6f0f3a249f1108a351",
-		"subject": "C=SE, O=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer 2211",
-		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
-		"notBefore": "2022-11-10T09:36:44.000Z",
-		"notAfter": "2024-11-10T09:56:44.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "dbe7f4ec5a9e85b5068b7e5f3ec7e66d8c5d6979",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5cX9Xp1+V07wOjdxcXBdyTr6OtYvQo3iiX1ZLC70yTZxcBcLrqx68tEcI2vPOoz+bfzi7P+XXPTbFoBDE2EYnQ=="
-	},
 	"Q7Xo2eHz63E=": {
 		"serialNumber": "6c01a46507abf6fe02e6e06eec9956f9a5445744",
 		"subject": "C=SV, O=Gobierno de\\ , OU=Ministerio de Salud, CN=Gestión de Credencial de Inmunización",
@@ -13846,5 +13795,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEywD9UBT2p8pxGOCiDQUSEDs98RGR4LReNvLS+72UbChoGdkQEnQd4zehGLRpZYFxLWqx6SAjS7xTLuUHNsq2yQ=="
+	},
+	"O6+6aHduSmY=": {
+		"serialNumber": "009b5b5424da9aed586788ba6b8a6870cb",
+		"subject": "C=SE, O=Swedish eHealth Agency, OU=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer 2306",
+		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
+		"notBefore": "2023-06-13T12:08:36.000Z",
+		"notAfter": "2025-06-13T12:28:36.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "7595d46f7678154aa6d9c85b268f66d0d722d2ca",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr6j9eNG5EnB7NQ9ff62qk5DfpbTmFW0knfJDQrXhmC7uSM8hdvmK7q7L5IZr3aJbK9TYA0y8BM2XzxoMZvcjqQ=="
 	}
 }
