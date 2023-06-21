@@ -13830,23 +13830,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5cX9Xp1+V07wOjdxcXBdyTr6OtYvQo3iiX1ZLC70yTZxcBcLrqx68tEcI2vPOoz+bfzi7P+XXPTbFoBDE2EYnQ=="
 	},
-	"Z7k1XpIWZOE=": {
-		"serialNumber": "00ace33f75d1033c2c11b6dfc5d84bb0ad",
-		"subject": "C=SE, O=Swedish eHealth Agency, 2.5.4.97=202100-6552, CN=DCC Signer",
-		"issuer": "C=SE, O=Swedish eHealth Agency, OU=Digital Covid Certificate Services, 2.5.4.97=202100-6552, CN=Swedish Digital Covid Certificate CSCA",
-		"notBefore": "2021-06-21T06:07:31.000Z",
-		"notAfter": "2023-06-21T06:27:31.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "efaec05f0f1eaa99709e4837766a409b9aaeec98",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaLOo1IGTspZSdr2BqdAvKjZjHfW/Zq8VDrI6nEhBlXUr3VCDlzjrXo5v6ix2qF9RCySJsHgZxUrqWQpFQbrbMw=="
-	},
 	"qqpAg5MBuOw=": {
 		"serialNumber": "04",
 		"subject": "C=DK, O=The Danish Health Data Authority, OU=The Danish Health Data Authority, CN=PROD_DSC_DGC_DK_03, E=kontakt@sundhedsdata.dk",
