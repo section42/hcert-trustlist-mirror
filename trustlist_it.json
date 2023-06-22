@@ -13863,5 +13863,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1wzN4meJ8zHQDIbELrB8dGQZMZSiKdeLUrPZ+JNzb2chCe9h1twETp0DaYVlk3y5iStnk5aubhhKkeBOyVQHqA=="
+	},
+	"0aQ7ROys9Nk=": {
+		"serialNumber": "7478ff649ee9a878",
+		"subject": "C=LU, O=Ministry of Health, CN=Grand Duchy of Luxembourg DS DCC 21",
+		"issuer": "C=LU, O=INCERT public agency, CN=Grand Duchy of Luxembourg CSCA",
+		"notBefore": "2023-06-22T13:35:27.000Z",
+		"notAfter": "2028-06-20T13:35:27.000Z",
+		"signatureAlgorithm": "1.2.840.113549.1.1.10",
+		"fingerprint": "580aea387c9fc132b98c1bd5fa04de078e53aaac",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERjQX3cKYKwpSi4fxAFNX4uQa0zRZN2s7pNUc1/owR+Wq+vPguACYykav7B6RPngpTRGQmDsjv4V2+NdoK9Jxmw=="
+	},
+	"EKe0i2m9fhM=": {
+		"serialNumber": "6f4f396138c851f8",
+		"subject": "C=LU, O=Ministry of Health, CN=Grand Duchy of Luxembourg DS DCC 23",
+		"issuer": "C=LU, O=INCERT public agency, CN=Grand Duchy of Luxembourg CSCA",
+		"notBefore": "2023-06-22T13:37:05.000Z",
+		"notAfter": "2028-06-20T13:37:05.000Z",
+		"signatureAlgorithm": "1.2.840.113549.1.1.10",
+		"fingerprint": "49d5a0ec00dec7dc07aaf1b69a386dd2d632ef5c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2b3kFkanPTipBqNW4PObt4Anrfi1gFOiTUrEFPvLVOyLPD9gtOGqi2pzfMhIw/CVKJPLlSI0hLzm/n/sekubug=="
 	}
 }
