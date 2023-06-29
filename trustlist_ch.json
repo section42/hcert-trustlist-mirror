@@ -10,17 +10,6 @@
       "y": "bA7qQ7IRp7uExOAIB+mP7gZ7Cfg+kJFQIpM2v67cPPc="
     }
   ],
-  "4GkJs9YsYS4=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "yN8tlsHEJlHHmms/54jGukHiHadMS0ckg70EQkyDuX4=",
-      "y": "wNNN7ggomU6JCrqyEtfRDgJUBS0wi61Se9gnEk+/h/w="
-    }
-  ],
   "6CDB1hL+uKU=": [
     {
       "use": "tvr",
