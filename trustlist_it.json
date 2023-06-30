@@ -13914,5 +13914,39 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESk7uah6VWFrkyS/f3uHIE/A2tAuvaayT2275/z3SlV97wE1CGsL9izX4geOP/v7YuOhnr57v4HV3jIi0EzekWw=="
+	},
+	"8IVrQrrkUeE=": {
+		"serialNumber": "5ad3da453a3f4a935806456b3666bbcebd7ac668",
+		"subject": "C=IT, O=Ministero della Salute, CN=Italy DGC DSC 10",
+		"issuer": "C=IT, O=Ministero della Salute, CN=Italy DGC CSCA 1",
+		"notBefore": "2023-06-27T14:02:27.000Z",
+		"notAfter": "2025-06-26T14:02:26.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "c348df07155dd56a9009bae9b2f700d625f0b232",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEm/QNbnT4eP33neMtz132DrqcCJAtGg0Otoez9dWa1RRowUnjCVd1oNuK6JKTc/1bgAkxelglomY3cCfPtIxDA=="
+	},
+	"gpc6KRHR4iI=": {
+		"serialNumber": "61e24fef49ffc0582760f104ee7315ab8619d240",
+		"subject": "C=IT, O=Ministero della Salute, CN=Italy DGC DSC 11",
+		"issuer": "C=IT, O=Ministero della Salute, CN=Italy DGC CSCA 1",
+		"notBefore": "2023-06-27T14:08:23.000Z",
+		"notAfter": "2025-06-26T14:08:22.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "0abd26ffba8bd956ac5caba8c46ff8e18ff5734f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbF5p5DZcJr0vkPPdRVnpmxRCcNx0a0iaECs7862YRGRn4zxMB0NixnkyFqC50UYTCx4bNS3CbawZYA0tuS0Gyg=="
 	}
 }
