@@ -13948,5 +13948,27 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbF5p5DZcJr0vkPPdRVnpmxRCcNx0a0iaECs7862YRGRn4zxMB0NixnkyFqC50UYTCx4bNS3CbawZYA0tuS0Gyg=="
+	},
+	"wGri4R+7HPE=": {
+		"serialNumber": "01890e51fc99",
+		"subject": "C=LT, ST=Lithuania, O=Ministry of Health of The Republic of Lithuania, CN=LT_DGC_DSC_6",
+		"issuer": "C=LT, O=State Enterprise Centre of Registers, CN=LT_DGC_CSCA_1",
+		"notBefore": "2023-06-30T22:00:01.000Z",
+		"notAfter": "2025-06-30T22:00:01.000Z",
+		"signatureAlgorithm": "1.2.840.113549.1.1.10",
+		"fingerprint": "863c879fbf5c92c46a73dbd70e81e0e192d55ef0",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 2048
+		},
+		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwo00IBjB94gELyf6fnRMK2oYtV2M6a4UAsRYONBHePkIeFR9td7RNVv2DPdXrgQCfgnk102jGYKbIRvezW/tpk4DQLlq1Tf02sLfnbBPZNUK317dcerc4nqa3E1l96GRdL+EP0A/EbZuOyHYGpSArIHMtmTAw30FB6MmAhj1+NFoTtjkU8jmAtunKDA15MjPPzLjp8nJqkeywf91H7Jk3rbDo+aBPLhGblMshmBbHNxEXWsFeWVDfaGJZ/qAphLp6Y7CSQHmQnIx3TDU0r7ot7FQqtc+lK3vH0f5FEr3b1H7adzVoy0KfClHdVR8DAQv/MuQTiqkO/tRWfOgOtbAMQIDAQAB"
 	}
 }
