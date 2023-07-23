@@ -87,17 +87,6 @@
       "y": null
     }
   ],
-  "YDAy+yvD5lU=": [
-    {
-      "use": "sig",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "bGQa07BM7QEDU6l68C2n6ZHM7ZxZmHQNdBf+6uo5tDc=",
-      "y": "8Xvn5sGlpabKmKWH9iAsZb4C+jMeRk757NXrygkKMR4="
-    }
-  ],
   "2Bh+2HrOg0c=": [
     {
       "use": "t",
