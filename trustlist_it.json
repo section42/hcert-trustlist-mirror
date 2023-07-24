@@ -14004,5 +14004,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq0VJacu0onO8FthRP12ZWl/38gvH4YTeIUN8qABhxs8U5PcXamIdzb5QB6a2lIiJqUo9VvEbozwzp0EHehWR3Q=="
+	},
+	"YUyRblWhrrM=": {
+		"serialNumber": "00a875f8a85cfe85f1",
+		"subject": "C=TR, ST=ANKARA, L=ÃANKAYA, O=T.C. SAÄLIK BAKANLIÄI, OU=SAÄLIK BÄ°LGÄ° SÄ°STEMLERÄ° GENEL MÃDÃRLÃÄÃ, CN=healthpassgw.saglik.gov.tr",
+		"issuer": "C=TR, ST=ANKARA, L=ÃANKAYA, O=T.C. SAÄLIK BAKANLIÄI, OU=SAÄLIK BÄ°LGÄ° SÄ°STEMLERÄ° GENEL MÃDÃRLÃÄÃ, CN=healthpassgwprod.saglik.gov.tr",
+		"notBefore": "2023-07-24T14:21:17.000Z",
+		"notAfter": "2025-07-23T14:21:17.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "8e4f165f23a2a781c27e0b72fac72c661826cb34",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWxpXVH1mK+wBSCm3dp55MSnNgQa+kR3N0Zefk17t1ISeFw5TFevtCOedFbrWKpVf5CWtbwuxPfF5qmW6nNhEZg=="
 	}
 }
