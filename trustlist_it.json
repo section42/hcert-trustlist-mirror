@@ -2836,23 +2836,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2U0nHQxTR9PPb0QwY+YS7qJs9XDN5a9fc+lCqTltrFE5D8kEZMRFY+qNhMbo5JY4VU473btztC0zWP52tgFH+g=="
 	},
-	"hHffSLS1AIU=": {
-		"serialNumber": "43ff62f3d371e5ccbacbce",
-		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
-		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
-		"notBefore": "2021-09-09T12:54:27.000Z",
-		"notAfter": "2022-09-09T12:54:27.000Z",
-		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
-		"fingerprint": "ccfa29b7d745dc990aa2ffbeb94147aa3a0bd155",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENFtonAma5ngnltfk78rprtlz8Cue6/t2XzvM/OR3wOn/1nD4QDWTP0KjGsFtiJ80Aed5gQ0JbMXUL8M2mQyQPw=="
-	},
 	"ZpnsokK1DgM=": {
 		"serialNumber": "35000000049fddfe973542af18000000000004",
 		"subject": "C=MA, O=Kingdom of Morocco, OU=Ministry of Health, CN=DSC-MA",
@@ -3638,23 +3621,6 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGsoQ+d21h6C2haw4Ty4q/38Ux+t51x9qe6EhVH30tsO5cxpvULTb+FFQbkcHcu0V9WbqIyIMaANSYH4ntN1H4A=="
-	},
-	"udrotE0n7i0=": {
-		"serialNumber": "430152948273894fccf37672",
-		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
-		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
-		"notBefore": "2021-10-20T12:00:14.000Z",
-		"notAfter": "2022-10-20T12:00:14.000Z",
-		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
-		"fingerprint": "495ac38036387fce7f4eaf9fefbb86215ff7b232",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkyi6sf8k8/kk2KjTBNiIVFpnIeZcj4oUXwV8kk5D6BySdIUx9jSD5BuSiUyXKmIghKHPvpio9M7nYklZCdur0w=="
 	},
 	"+cDVEVtFWME=": {
 		"serialNumber": "7ad1ae9070c1829aa94fcd9e5c1059c245aa9421",
@@ -9151,23 +9117,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEriRhnq+2aMaGiNGqCOjG0ti4Nzhx+XcPwYROCi3dj+YhxjXhhJy8yopfARhXtCh50Uw9NvDgLuaSJml8IYiuYw=="
 	},
-	"wkKPi6HIm5A=": {
-		"serialNumber": "4302964efdb313c6d9bcc928",
-		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
-		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
-		"notBefore": "2022-08-09T17:32:40.000Z",
-		"notAfter": "2023-08-09T17:32:40.000Z",
-		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
-		"fingerprint": "23573fafa5204ff3ea9173fad44709e895fea490",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvnjA6h1xZDsyylY1C0vHrbrWAPniW/ksncTiBJOdk39tx8GtSXeqlDt8zBvwF8bP+lMiv+nxatX36pY0NgNczw=="
-	},
 	"kNv/TWeG+7c=": {
 		"serialNumber": "243adf5a5f07690bab",
 		"subject": "CN=Inspeccion General de Sanidad de la Defensa 2022, 2.5.4.5=S2830001J, OU=SELLO ELECTRONICO, OU=Inspeccion General de Sanidad de la Defensa, 2.5.4.97=VATES-S2830001J, O=Ministerio de Defensa, C=ES",
@@ -11274,23 +11223,6 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA/MWXwcXu2MuFsLj27vIREee5Jbol9bLM1Utzd/4csaR0PLlM/HeA56VXadf5b7/GtqHWV2rzKscySBVJRLJHg=="
-	},
-	"BJY+jzmss+0=": {
-		"serialNumber": "4303667b05fb924d01d4f953",
-		"subject": "C=AL, O=Ministria e Shendetesise dhe Mbrojtjes Sociale, OU=Production, CN=Ministria e Shendetesise dhe Mbrojtjes Sociale",
-		"issuer": "C=AL, O=NAIS, CN=NAIS Class 3 Certification Authority",
-		"notBefore": "2023-02-03T15:59:56.000Z",
-		"notAfter": "2024-02-03T15:59:56.000Z",
-		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
-		"fingerprint": "cffaa8054abbb12685feeaa7f8060382d4d455a3",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEs1cwe4sDIQ+3BwQn3FgDQcq89FLfGU5LLKSjTslC5P41V1PxGwm7upBfJSEnz4dhgalQdHcVE3hGkEEdxjWFfg=="
 	},
 	"PBpDVqnJ7Us=": {
 		"serialNumber": "00815a02704a550479",
