@@ -14021,5 +14021,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETPE5ItolrGzLQLPqYxOT+orVmYJusLDsPWLwrK+bbJKBBtXBsrD2Py/osWYr9LF5ffORpzxmBUQmzp7K4uPiIw=="
+	},
+	"z2hOvO8Lm98=": {
+		"serialNumber": "00ff66ad6315f04991",
+		"subject": "C=IE, ST=Dublin, L=Dublin, O=HSE, OU=IT, CN=hse.ie, E=info@hse.ie",
+		"issuer": "C=IE, ST=Dublin, L=Dublin, O=Department of Health, OU=eHealth, CN=CSCA_DGC_IE_01",
+		"notBefore": "2023-08-10T15:40:49.000Z",
+		"notAfter": "2025-08-09T15:40:49.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "03faa0ad41e02031acd52767235999886d18e7ce",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhixh9swbeY/AfwzwotUgyip03z5tujwIAbUCHZktBIf5BRuzut2Age3kLy88LPflpZg1to495y2j+GDHNnbVjg=="
 	}
 }
