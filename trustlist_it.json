@@ -14038,5 +14038,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhixh9swbeY/AfwzwotUgyip03z5tujwIAbUCHZktBIf5BRuzut2Age3kLy88LPflpZg1to495y2j+GDHNnbVjg=="
+	},
+	"4oDFjWlf52I=": {
+		"serialNumber": "7904c820b5908787040000000a00000043000000",
+		"subject": "O=State enterprise \\\"DIIA\\\", CN=\\\"DIIA\\\". Green Certificate DSC, 2.5.4.5=10, C=UA, L=Kyiv",
+		"issuer": "O=State enterprise \\\"DIIA\\\", CN=\\\"DIIA\\\". Green Certificate CSCA, 2.5.4.5=UA-43395033-2021, C=UA, L=Kyiv, 2.5.4.97=NTRUA-43395033",
+		"notBefore": "2023-08-17T21:00:00.000Z",
+		"notAfter": "2025-08-17T20:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "cd06799e598705c5754e8d81ce2e178472be886f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE2RU+nhRA791ix8/f1KIPbadprQl7/OlTcm7iv1pxMJl1V7B4xxzZ07MFKdJWRWTtOs8vnLNrnMA+VeDHTrhkQ=="
 	}
 }
