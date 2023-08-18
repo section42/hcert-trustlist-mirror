@@ -186,17 +186,6 @@
       "y": "y8iW89tRBhEJDaXt1DpRDV+UO0Xc5K61xW7O6R3zQ6c="
     }
   ],
-  "FhciF/j3plg=": [
-    {
-      "use": "tvr",
-      "alg": "ES256",
-      "n": null,
-      "e": null,
-      "crv": "P-256",
-      "x": "d22zt56DQx1ao5dd4u6jU3KPELJdcWfl0+FJ6cVhCb8=",
-      "y": "LNEpkJXhbUvZuUUKlc2wa/yZ1H6lWY76zxc8KW4HTHk="
-    }
-  ],
   "Amn7EaBy1ag=": [
     {
       "use": "sig",
