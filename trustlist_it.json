@@ -14055,5 +14055,124 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE2RU+nhRA791ix8/f1KIPbadprQl7/OlTcm7iv1pxMJl1V7B4xxzZ07MFKdJWRWTtOs8vnLNrnMA+VeDHTrhkQ=="
+	},
+	"2MaQkBq/xaw=": {
+		"serialNumber": "6151a0df",
+		"subject": "C=GB, O=NHS Scotland, ST=Scotland, CN=DSC-DCC-GB-NSS-09",
+		"issuer": "C=GB, O=NHS Scotland, ST=Scotland, CN=Scotland DCC CSCA",
+		"notBefore": "2023-08-23T10:12:36.000Z",
+		"notAfter": "2025-08-23T10:42:36.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "c8a480f785eefc2188a4b8a5f9abe3bbb2afacb1",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJvNeHrQUMnGSMDg7HtXZAs1gMwFkLmiXmiuwT01KTeEbqqOLRWjSzWT1ljwn2s7/w5h65rkP5Jv5W0rUilMP/A=="
+	},
+	"8RWRuyf6bqw=": {
+		"serialNumber": "61508790",
+		"subject": "C=GB, O=NHS Digital, ST=Jersey, CN=DSC-DCC-GB-JE-11",
+		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
+		"notBefore": "2023-08-23T09:57:32.000Z",
+		"notAfter": "2025-08-23T10:27:32.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "e3d6a3f5a9abd9110c2cb94f9b70a52c1f1e328a",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1lzj53YL6aP0ntE97L0GSny1zputaWoRD3VS4UbwxGl84KSySzgTRY6PhOcX/d1cUNI6qgtm4WGO4BSJ7jFbeQ=="
+	},
+	"YzXjs8kCvEo=": {
+		"serialNumber": "6150878c",
+		"subject": "C=GB, O=NHS Digital, ST=England & Wales, CN=DSC-DCC-GB-ENG-11",
+		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
+		"notBefore": "2023-08-23T09:52:07.000Z",
+		"notAfter": "2025-08-23T10:22:07.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "12b59fe8f0cd0e1d68ad24face11ec183c8f7b6f",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9GISDTF2cgLfEryEo2yyG+D77k9nm1xY3vYLjVdj5+Es31WZL/9q+sNmHwleDidBN0HtbTt31+T+SWM7VS5kwQ=="
+	},
+	"j8s3/3sthL8=": {
+		"serialNumber": "615075bf",
+		"subject": "C=GB, O=Department of Health, ST=Northern Ireland, OU=DHCNI, CN=DSC_DCC_GB_NI_DGC_6",
+		"issuer": "C=GB, O=Department of Health, ST=Northern Ireland, OU=DHCNI, CN=Northern Ireland DCC CSCA",
+		"notBefore": "2023-08-23T10:14:27.000Z",
+		"notAfter": "2025-08-23T10:44:27.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "a972cee6f6368a8b4e87fdc2a60b57d178e68d0b",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ7xoNu+Fnjfs50M83Cw1CMCpCCWCoi5BNBQv+TI9rep7gX+6PnL5gx8VxluBeURecnXT1yp6SaqrYUkwZameeQ=="
+	},
+	"nZJ5Lx+szLc=": {
+		"serialNumber": "6150878e",
+		"subject": "C=GB, O=NHS Digital, ST=Gibraltar, CN=DSC-DCC-GB-GI-11",
+		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
+		"notBefore": "2023-08-23T09:53:37.000Z",
+		"notAfter": "2025-08-23T10:23:37.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "afe6b72817f5f1ef7cbb6828481200a162ab8b73",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8DW+OxPUimg9usEZbSC1175G0NCk9DWmjVXRD5+ALLBjE1gNzh+qkv7V5gATBNGn8l0c0vkZacBgRfXlBIf0Gw=="
+	},
+	"qAT63iVBvAQ=": {
+		"serialNumber": "6150878f",
+		"subject": "C=GB, O=NHS Digital, ST=Isle Of Man, CN=DSC-DCC-GB-IM-12",
+		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
+		"notBefore": "2023-08-23T09:56:46.000Z",
+		"notAfter": "2025-08-23T10:26:46.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "3e9cb792aaeff5adc7fe664b6f12fe8305bdf9de",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELW708tHJr2YUDCx6N3Rmi34kb37jW+3ZgEsp4Fhd+fHHPyX5Qsa+iXzTRQE74pdTxIJxfUL6b/v+rAa0LiYAwA=="
+	},
+	"wQFKr9j/JjI=": {
+		"serialNumber": "6150878d",
+		"subject": "C=GB, O=NHS Digital, ST=Guernsey, CN=DSC-DCC-GB-GG-11",
+		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
+		"notBefore": "2023-08-23T09:52:50.000Z",
+		"notAfter": "2025-08-23T10:22:50.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "521a047134526147dcfcf2547e6fa0dbd2fb845c",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6eHs/u1ko3WlzWgVUikHG2m/Y8g8Uqk0VpkW7sbYbp4YPyLTRweQEtlkfqU6eATXHsj65bHFncKjoPgvPPShAA=="
 	}
 }
