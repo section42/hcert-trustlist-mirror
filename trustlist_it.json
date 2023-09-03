@@ -14208,5 +14208,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWIHue7l15mrts7gmYAKNRVTM8NywBSKZP6fVBtghc0bfk8c6/5h6XaSymRQnZjTFkxqL9Ss8xchXhuBAapYkOg=="
+	},
+	"RaLXzxQ+uAI=": {
+		"serialNumber": "1d000000a0b8eaf3691167ecfc0000000000a0",
+		"subject": "C=IL, ST=Israel, L=Jerusalem, O=Ministry of Health, OU=Digital Health, CN=IL-NB-DSC-01",
+		"issuer": "C=IL, DC=IL, DC=GOV, DC=HEALTH, DC=MOH, ST=Israel, L=Jerusalem, O=Ministry of Health, OU=Digital Health, CN=CSCA-Health-DCG-IL-01",
+		"notBefore": "2023-08-21T14:13:01.000Z",
+		"notAfter": "2025-08-20T14:13:01.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "c8bded7e719befe89ef5d75224e39593c10b5686",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXTdLql8/YXqWte5Y8yEq18WVkDKA80r9BurTuhzfr7DrIw5jEudEDwb3IG0wcADfYpwVB7FT8sgG1dthkIuKuA=="
 	}
 }
