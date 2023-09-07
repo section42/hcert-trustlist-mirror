@@ -14124,23 +14124,6 @@
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZ7xoNu+Fnjfs50M83Cw1CMCpCCWCoi5BNBQv+TI9rep7gX+6PnL5gx8VxluBeURecnXT1yp6SaqrYUkwZameeQ=="
 	},
-	"nZJ5Lx+szLc=": {
-		"serialNumber": "6150878e",
-		"subject": "C=GB, O=NHS Digital, ST=Gibraltar, CN=DSC-DCC-GB-GI-11",
-		"issuer": "C=GB, O=NHS Digital, CN=England DCC CSCA",
-		"notBefore": "2023-08-23T09:53:37.000Z",
-		"notAfter": "2025-08-23T10:23:37.000Z",
-		"signatureAlgorithm": "ECDSA",
-		"fingerprint": "afe6b72817f5f1ef7cbb6828481200a162ab8b73",
-		"publicKeyAlgorithm": {
-			"hash": {
-				"name": "SHA-256"
-			},
-			"name": "ECDSA",
-			"namedCurve": "P-256"
-		},
-		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8DW+OxPUimg9usEZbSC1175G0NCk9DWmjVXRD5+ALLBjE1gNzh+qkv7V5gATBNGn8l0c0vkZacBgRfXlBIf0Gw=="
-	},
 	"qAT63iVBvAQ=": {
 		"serialNumber": "6150878f",
 		"subject": "C=GB, O=NHS Digital, ST=Isle Of Man, CN=DSC-DCC-GB-IM-12",
