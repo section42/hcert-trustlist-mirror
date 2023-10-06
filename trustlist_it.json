@@ -14327,5 +14327,27 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExT+/zWUvmUtETeWoZqM0zIAtBXopRv/krrNpfsPP4A/HMus6+gtStvZJIm6+xoVOCzfZN4pNIbW5G36Q2z39Sw=="
+	},
+	"mnjDfHHsEDA=": {
+		"serialNumber": "57aed4a8f838601209",
+		"subject": "CN=GERENCIA REGIONAL DE SALUD CASTILLA Y LEON (SACYL) 2023, 2.5.4.5=Q4700608E, OU=SELLO ELECTRONICO, OU=GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEON, 2.5.4.97=VATES-Q4700608E, O=GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEON, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2023-09-07T07:30:00.000Z",
+		"notAfter": "2025-09-07T07:00:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "ae34150286dbebae86949eeac976094521231869",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "RSASSA-PKCS1-v1_5",
+			"publicExponent": {
+				"0": 1,
+				"1": 0,
+				"2": 1
+			},
+			"modulusLength": 2048
+		},
+		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJKfSglJW9euk2L8R1ZnR1Ty9VY2qlzNnZ9abulVGLZHGCL/Jk8I3OKFYSDSe5ISMw/MrTmkOk25DY0gU+dNdjdbeEcigeokhnlYkKhtllEsvPf/f2vqQoCdknmJOSEItdoHErbBI44iaGXCVrNsN54HktlAh3jmTGDom9m2n9xaXsp0W/qjqB1st0elFNwK11+/Iz0QTOzfMtclwrT+awT557xhg82X7I3gimQ49u4e3Y0VxPEDwO4HPBPYNQ0AVBdO9lpNsqmAFT3q8watWmqFn0PJpcDLcWIzLh4Ch4wUKfqPWWIEEOEvHtH9OqLu3u8tx37TlQKiRZC4E30iWQIDAQAB"
 	}
 }
