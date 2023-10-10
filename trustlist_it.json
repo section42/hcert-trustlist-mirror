@@ -14349,5 +14349,22 @@
 			"modulusLength": 2048
 		},
 		"publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJKfSglJW9euk2L8R1ZnR1Ty9VY2qlzNnZ9abulVGLZHGCL/Jk8I3OKFYSDSe5ISMw/MrTmkOk25DY0gU+dNdjdbeEcigeokhnlYkKhtllEsvPf/f2vqQoCdknmJOSEItdoHErbBI44iaGXCVrNsN54HktlAh3jmTGDom9m2n9xaXsp0W/qjqB1st0elFNwK11+/Iz0QTOzfMtclwrT+awT557xhg82X7I3gimQ49u4e3Y0VxPEDwO4HPBPYNQ0AVBdO9lpNsqmAFT3q8watWmqFn0PJpcDLcWIzLh4Ch4wUKfqPWWIEEOEvHtH9OqLu3u8tx37TlQKiRZC4E30iWQIDAQAB"
+	},
+	"k9q209dyDrg=": {
+		"serialNumber": "7ef228a98af8a32fc258f1473c5a158138003cb7",
+		"subject": "C=AM, ST=Some-State, O=Sylex, CN=AM_DSC3",
+		"issuer": "C=AM, L=Yerevan, O=Armed, OU=DGCOperations, CN=CSCA_DGC_AM_01",
+		"notBefore": "2023-10-09T07:41:40.000Z",
+		"notAfter": "2025-10-06T07:41:40.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "b11eba15ea0d1faf79526b94eca289cd9cf9cfb3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDYXKSZ3WIFcuS3yEkSGhLbtwvMhycYAJVfM1r23q0tf4BqVUy/Fhv0NzzZl/RGkBdYwCRxtdjQkqEeHhr5QuqQ=="
 	}
 }
