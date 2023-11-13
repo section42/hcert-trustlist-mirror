@@ -14485,5 +14485,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEaiQYCuUQ9F+SFY+GfIRKZ/ccpqgIFOF4LWzW8uM/DxO6aLLD77y6j6TClcM6o7MoZlL9XhXlhYrDgL1qxEl0Q=="
+	},
+	"N+V7PvDfvWM=": {
+		"serialNumber": "009a72f72b9c75c17b751d13709ab5473e",
+		"subject": "C=TH, O=Ministry of Public Health (กระทรวงสาธารณสุข), CN=Ministry of Public Health - DGC Signer Certificate, 2.5.4.97=0994000241801",
+		"issuer": "CN=INET CA - G1, O=Internet Thailand Public Company Limited, C=TH",
+		"notBefore": "2023-11-10T10:52:03.000Z",
+		"notAfter": "2025-11-10T10:52:03.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "ce5d91555605baf061747d6ca1558755cafb046d",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0MoM4dYAZqIIl6+UuQIX38pmR8GImw3MyP+FJPajuBu2EbKiOHcHE0FAViuJ50UxscCYT/M5T75tZ/GMKbJsBw=="
 	}
 }
