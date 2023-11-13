@@ -14366,5 +14366,124 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDYXKSZ3WIFcuS3yEkSGhLbtwvMhycYAJVfM1r23q0tf4BqVUy/Fhv0NzzZl/RGkBdYwCRxtdjQkqEeHhr5QuqQ=="
+	},
+	"57E739uJdss=": {
+		"serialNumber": "f47281b9a4cf03f1",
+		"subject": "OU=Siren Analytics, O=Ministry of Public Health (MOPH), ST=Beirut, L=Beirut, C=LB",
+		"issuer": "C=LB, ST=Jnah, L=Beirut, O=Ministry of Public Health (MOPH), OU=Siren Analytics, CN=CSCA_DGC_LB_01",
+		"notBefore": "2023-11-01T11:39:00.000Z",
+		"notAfter": "2024-05-01T10:39:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "517c467bde20f5a566c1a2ec4b225ebb7587d7bb",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEuB6zgMlHDGeart4GJm2ugIvqYmmw9khgyvkqC0K6Dp+71d/lgHwdDlK5DjPyR+nmA/izTgR21k01xcc2xt4kgA=="
+	},
+	"83z8NMwA3s4=": {
+		"serialNumber": "1ca2bcceb812a6d2",
+		"subject": "CN=MLT-DSC-RECOVERY-013, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "afc155677945648a236db0edc022664ea4260966",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzwHCnOYWva0LUHEyTUMrEann/1JT9MUzArUNGo1rPtK7ElBIjoIIytXS+FLMuwL3dXK1K8DT7yLjJ/T+q6AlRw=="
+	},
+	"BmFpYpYOrq0=": {
+		"serialNumber": "088a0fd5d97566dc",
+		"subject": "CN=MLT-DSC-TEST-012, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "cabdbba88bea51aaf0abfd2297f0433726a2c9f3",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEb2hXzeeb38/LXdmxyCD6NEJJ27EIzVSgRf3fK/cXrVMPqUYw/+6nnZYWfDNqcA+4yUtvRR8yYT6SwDblEF2HDQ=="
+	},
+	"Dtn4uLrV+lE=": {
+		"serialNumber": "2c8721e93c3be6d1",
+		"subject": "CN=MLT-DSC-VACCINATIONS-012, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "bbd597af8845ac52913e39c20b20bc82ae4a04ef",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES8DLjK5QKpDgB3xPOwt2Ts2xtA+M87r1FU2SNFcIhhVipOlq7eiMxqkFkNbGhUuzXF0fzUAs2wPumTpiy84Rtw=="
+	},
+	"NuKxrvbPEHU=": {
+		"serialNumber": "1d7e26cde24fd332",
+		"subject": "CN=MLT-DSC-VACCINATIONS-013, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "6bbe5787d6010b4b309115bbfbb68a04ba11a0be",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYKrUSoN7/YPnm3c1+EBCVg5YRqgH2gh/lp09pZd+1xLNbXWOJ02tQP4VcMbPLbOendmwDxZlmX50G1MAcjHv5g=="
+	},
+	"OVQY7Ef6WlI=": {
+		"serialNumber": "10a3e017c50d3b64",
+		"subject": "CN=MLT-DSC-RECOVERY-012, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "d305093025d261061e97a0c52d1083b54c062495",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwLhrfxSVqILRMsDAYZ8DiA20RqzrC0WstuIWBFUbACUnBcwuV/q3UM1AGJ7CePvw2S94zxTL0K9SajVBVHWe1A=="
+	},
+	"zgSv+mCvMpU=": {
+		"serialNumber": "0c4fcd35281fa02a",
+		"subject": "CN=MLT-DSC-TEST-013, O=Government of Malta, C=MT",
+		"issuer": "C=MT, O=Government of Malta, CN=Malta DCC Signing CA",
+		"notBefore": "2023-11-07T00:00:00.000Z",
+		"notAfter": "2025-11-07T23:59:59.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "f2ec6e18d5097e0c74c981529fb8817c988bd757",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEaiQYCuUQ9F+SFY+GfIRKZ/ccpqgIFOF4LWzW8uM/DxO6aLLD77y6j6TClcM6o7MoZlL9XhXlhYrDgL1qxEl0Q=="
 	}
 }
