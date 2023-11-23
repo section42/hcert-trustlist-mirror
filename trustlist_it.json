@@ -14502,5 +14502,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0MoM4dYAZqIIl6+UuQIX38pmR8GImw3MyP+FJPajuBu2EbKiOHcHE0FAViuJ50UxscCYT/M5T75tZ/GMKbJsBw=="
+	},
+	"DqkuHa2QZjY=": {
+		"serialNumber": "01afccd3a34ffef92e783816732caea6",
+		"subject": "C=BE, O=eHealth - Belgium, CN=Belgium.Covid19.DSC.05",
+		"issuer": "C=BE, ST=Brussel, L=Brussel, O=Vlaamse overheid, CN=Vlaamse overheid Issuing CA 3, E=vodcb@vlaanderen.be",
+		"notBefore": "2023-10-27T08:11:06.000Z",
+		"notAfter": "2025-10-27T08:11:06.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "14bae71cd874d393763b2d178ac5fe70e3cc0a54",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmqeku+VXVWpGEzEBBhusmgjdB2UixUH/onBIfC2l0Nlgidtw72ZlYSFIjRSgvLDbBh91pTSXplAKppNkqmRZ3w=="
 	}
 }
