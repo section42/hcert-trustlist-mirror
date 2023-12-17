@@ -14536,5 +14536,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKr7p2UUdIOBlNizpQ+2uhemx0IIyFqg7rnF72ZGG52CTaHEayFuUDn1J3pnK/XxvoEdTQa6lUj2onkk1ryrJ3Q=="
+	},
+	"alyJCgVIcWs=": {
+		"serialNumber": "3e51f824444f3e3dc6a14aef1290601c284998ea",
+		"subject": "C=AD, ST=ANDORRA, L=Escaldes-Engordany, O=SAAS-Andorra Healthcare System, OU=SSII, CN=DSC03, E=seguretat.logica@saas.ad",
+		"issuer": "2.5.4.97=NRTAD-U129638U, O=SAAS, CN=DGCG, C=AD",
+		"notBefore": "2022-08-25T09:50:06.000Z",
+		"notAfter": "2024-08-24T09:50:06.000Z",
+		"signatureAlgorithm": "RSASSA-PKCS1-v1_5",
+		"fingerprint": "a4aad95254a54ed8fc42e0edb0d8665f2c6fec09",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDLjAUZ2HAkYB3JXJQUXHasuyWY/OXe5qO8miKg5z+aYjpLXC8QIHUl5dLrlGhxSP2zBD1zAb4lVguWDHj/mXeA=="
 	}
 }
