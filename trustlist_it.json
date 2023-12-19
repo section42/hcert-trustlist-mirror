@@ -14553,5 +14553,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDLjAUZ2HAkYB3JXJQUXHasuyWY/OXe5qO8miKg5z+aYjpLXC8QIHUl5dLrlGhxSP2zBD1zAb4lVguWDHj/mXeA=="
+	},
+	"nHVlbyUFoXs=": {
+		"serialNumber": "38035b058e5f57a1",
+		"subject": "C=VA, O=STATO CITTA’ DEL VATICANO, OU=DIREZIONE DI SANITA' E IGIENE, CN=DSC_DGC_VA_03",
+		"issuer": "C=VA, O=STATO CITTA’ DEL VATICANO, OU=DIREZIONE DI SANITA' E IGIENE, CN=CSCA_DGC_VA_01",
+		"notBefore": "2023-12-19T08:19:00.000Z",
+		"notAfter": "2025-06-22T07:32:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "369141a8d8803d1863e720cac1375ad76033c1c0",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkzjoV9zFJbALcW/tdnwNk2i/xNn13/omxXAMgF+ngK1eO9hJlkDlBvUs7yNLw5Nm837PqjCyhusPiq+vibndrw=="
 	}
 }
