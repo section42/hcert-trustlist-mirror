@@ -14570,5 +14570,22 @@
 			"namedCurve": "P-256"
 		},
 		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkzjoV9zFJbALcW/tdnwNk2i/xNn13/omxXAMgF+ngK1eO9hJlkDlBvUs7yNLw5Nm837PqjCyhusPiq+vibndrw=="
+	},
+	"Bc2viLZBQXQ=": {
+		"serialNumber": "2e3e0de2fc931172b0",
+		"subject": "CN=Servicio Cantabro de Salud 2022, 2.5.4.5=Q3900738J, OU=SELLO ELECTRONICO, 2.5.4.97=VATES-Q3900738J, O=Servicio Cantabro de Salud, C=ES",
+		"issuer": "CN=EADTrust ECC 256 SubCA For Qualified Certificates 2019, O=European Agency of Digital Trust\\, S.L., C=ES, 2.5.4.97=VATES-B85626240, OU=Legal Person",
+		"notBefore": "2022-09-26T11:30:00.000Z",
+		"notAfter": "2024-09-26T11:29:00.000Z",
+		"signatureAlgorithm": "ECDSA",
+		"fingerprint": "f74dc8604eb5f3950042af17b51eb97c7aaeb4bd",
+		"publicKeyAlgorithm": {
+			"hash": {
+				"name": "SHA-256"
+			},
+			"name": "ECDSA",
+			"namedCurve": "P-256"
+		},
+		"publicKeyPem": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4DSFHyGk/ZJW/UTHTVg8P33l2MCUCv/zWIYxmALjFd43egsoRTXbcWrrpAdQivYm6bXGtO5Kyh+v+o4tsJotdg=="
 	}
 }
