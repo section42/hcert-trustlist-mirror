@@ -1,3 +1,8 @@
+# is this repo still required for someone ?
+## we have already disabled the automatic updates of the trustlist
+## please create an issue if still required
+
+
 # inofficial hcert-trustlist-mirror dcc (covid trustlist)
 
 automatically updates using github actions
