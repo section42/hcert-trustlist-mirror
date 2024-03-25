@@ -1,8 +1,8 @@
 name: Renew Trustlist SE
 
 on:
-  schedule:
-    - cron: '0 5,10,15,20 * * *'
+  # schedule:
+  #  - cron: '0 5,10,15,20 * * *'
   push:
     branches: ['main']
 
